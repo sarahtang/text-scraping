@@ -1,0 +1,477 @@
+title,score,id,subreddit,url,num_comments,body,created,timestamp
+Welcome to /r/artificial!,127,6i91sh,artificial,https://www.reddit.com/r/artificial/comments/6i91sh/welcome_to_rartificial/,16,"/r/artificial is the largest subreddit dedicated to all issues related to Artificial Intelligence or AI. What does that mean? That is actually a tricky question, as the definition of AI is a topic of hot debate among people both inside and outside of the field. Broadly speaking, it is about machines that behave intelligently in some way, but this means different things to different people. 
+
+Most notably, there is the distinction between machines that are (at least) as intelligent as humans (artificial general intelligence / AGI) and machines that are capable of performing one task very well that would require intelligence if a human did it (narrow AI / ANI). When people outside the field think of ""AI"", they often think of AGI and possibly very humanlike AGI, often inspired by sci-fi books, shows and movies. However, today we are unable to create such systems. What we *can* do is create magnificently useful software and robotic tools, and that is what most of the professional AI field does. So to most professionals ""AI"" tends to refer to ANI. This can lead to a lot of confusion. 
+
+Another important thing to realize is that AI is an incredibly broad field that touches on Computer Science, Cognitive Science, Mathematics, Philosophy, Neuroscience, Linguistics and many others, and includes many subfields like Machine Learning, Robotics, Natural Language Processing, Computer Vision, Knowledge-Based Systems, Evolutionary Algorithms, Search and Planning. Many of these have subreddits dedicated to them as well (see [this list](https://www.reddit.com/r/artificial/wiki/related-subreddits)). /r/artificial is about all of these things. For instance, posts about computer vision are very welcome here, although the poster should realize people here will have a broader AI background than the specialists on /r/computervision, which might affect the kind of discussion that emerges. 
+
+On /r/artificial we welcome anyone who is interested in intelligent and respectful discussion of AI in any form. We want to provide a low barrier of entry, specifically because there are so many misconceptions about AI. We do ask that you put in a little effort before posting. Check out our burgeoning [wiki](https://www.reddit.com/r/artificial/wiki/index) and [Wikipedia's article on AI](https://en.wikipedia.org/wiki/Artificial_intelligence) to appreciate the breadth of the field. When you ask a question, [do so intelligently](http://www.wikihow.com/Ask-a-Question-Intelligently). When you post a story, prefer balanced discussion to clickbait, and please seek out the original source (many website just copy each others' stories without attribution). When you post a paper, please link to where it can be (legally) obtained for free and ideally to the landing page rather than directly to a PDF. Also consider jumpstarting the discussion with your own insights, questions, additional links and/or a short summary for people outside the niche the article was written for. 
+
+Please use this thread for suggestions, comments and questions *about* this subreddit. 
+
+Let's make this a great place for discussing artificial intelligence!",1497932195.0,2017-06-20 00:16:35
+AI Listened to People's Voices. Then It Generated Their Faces,40,c05az1,artificial,https://www.livescience.com/65689-ai-human-voice-face.html,3,,1560458309.0,2019-06-13 16:38:29
+Google TensorNetwork Library Dramatically Accelerates ML & Physics Tasks,3,c09ju5,artificial,https://medium.com/syncedreview/google-tensornetwork-library-dramatically-accelerates-ml-physics-tasks-8c7011e0f7b0?postPublishedType=initial,0,,1560479682.0,2019-06-13 22:34:42
+Government AI Readiness Index - a report to capture the current capacity of UN countries to absorb and exploit the innovative potential of AI (by Oxford Insights).,17,c03bxf,artificial,https://www.oxfordinsights.com/ai-readiness2019,2,,1560444269.0,2019-06-13 12:44:29
+"Professor Shai Shen-Orr PhD., Associate Professor at Technion - Israel Institute of Technology, and Founder and Chief Scientist CytoReason, Discussing Artificial Intelligence Speeding Up Drug Discovery",9,c05698,artificial,https://www.youtube.com/watch?v=NvGxC1i4IS4,0,,1560457519.0,2019-06-13 16:25:19
+AI develops human-like number sense – taking us a step closer to building machines with general intelligence,71,bzx2ih,artificial,https://ponderwall.com/index.php/2019/06/12/ai-number-sense-intelligence/,7,,1560403975.0,2019-06-13 01:32:55
+24/7 Twitch Stream of AI-generated piano music using semantic analysis.,2,c05pxq,artificial,https://www.reddit.com/r/artificial/comments/c05pxq/247_twitch_stream_of_aigenerated_piano_music/,0,Whatever you type into the chat changes the music. Check it out:  [https://www.twitch.tv/melodrivemusic](https://www.twitch.tv/melodrivemusic).,1560460716.0,2019-06-13 17:18:36
+How AI is Important in Natural Language Generation?,1,c088rf,artificial,https://www.businessworldit.com/ai/artificial-intelligence-how-important-is-natural-language-processing/?utm_source=reddit&utm_medium=off-page&utm_campaign=PS,0,,1560473494.0,2019-06-13 20:51:34
+Best Of AI articles of May 2019,0,c07uky,artificial,https://www.reddit.com/r/artificial/comments/c07uky/best_of_ai_articles_of_may_2019/,0,I just came across a [Best Of AI articles of May 2019](https://blog.sicara.com/05-2019-best-ai-new-articles-this-month-4a202e173e5a). What do you think of this selection? What are your favorite AI articles of the past month?,1560471589.0,2019-06-13 20:19:49
+Are Weights Really Important to Neural Networks?,1,c07ro6,artificial,https://medium.com/syncedreview/are-weights-really-important-to-neural-networks-c9458a99768a?postPublishedType=repub,0,,1560471200.0,2019-06-13 20:13:20
+What are your favorite AI articles of May 2019? Here are mines!,1,c06k1q,artificial,https://blog.sicara.com/05-2019-best-ai-new-articles-this-month-4a202e173e5a,0,,1560465225.0,2019-06-13 18:33:45
+"Automation of Accountants (and related jobs, i.e. auditors)",1,c06fj7,artificial,https://www.reddit.com/r/artificial/comments/c06fj7/automation_of_accountants_and_related_jobs_ie/,0,"Going to graduate soon with a Bachelor Degree in Accounting. But I am worried if I have made the right decision.
+
+​
+
+According to this often-quoted research paper from Oxford University ([https://www.oxfordmartin.ox.ac.uk/downloads/.../The\_Future\_of\_Employment.pdf](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)), it seems that accountants/auditors has a whopping 94% chances of getting automated. Indeed, this is very scary and worrying.
+
+​
+
+Now obviously I don't want to find myself getting sacked because of automation when I am in my 30s or 40s which is considered to be at prime age of career. It would be very hard for me to learn a new trade/skills by then to change my career track.
+
+​
+
+Is this automation threat, as described in the research, is true as accountants/auditors jobs are concerned? Am I going to lose my job in the near future?
+
+​
+
+I am also worried of the automation threat, considering the growth of cryptos/blockchain technology. Correct me if I am wrong, but blockchain technology are, according to my understanding, designed to be automation-friendly and does not requires audit due to its transparent and irreversible nature, and tampering with the transactions data are virtually impossible.
+
+​
+
+What sort of programming/computing skills that I should acquire to keep myself competitive? Python? SQL? R?
+
+​
+
+Or, should I just stay away from this line of jobs from the very beginning and start off my career with other jobs, i.e. IT auditors, internal auditors, consultants or even data scientist and programmers? But then there will be no turning back for me......sort of like a gamble.",1560464563.0,2019-06-13 18:22:43
+TensorWatch: debugging and visualization tool for data science and machine learning,16,bzxiyg,artificial,https://www.reddit.com/r/artificial/comments/bzxiyg/tensorwatch_debugging_and_visualization_tool_for/,0," **GitHub**: [https://github.com/microsoft/tensorwatch](https://github.com/microsoft/tensorwatch) 
+
+&#x200B;
+
+[TensorWatch running in Jupyter Notebook with real-time charts, gradients and sample predictions](https://i.redd.it/g7cg4pkp10431.gif)",1560406333.0,2019-06-13 02:12:13
+diagnoseMe - An Illness Prediction Application using Machine Learning,2,c03lk0,artificial,https://betapage.co/product/diagnoseme,2,,1560446469.0,2019-06-13 13:21:09
+Music composed by an AI. Simmilar to OpenAI's MuseNet. Could you find the difference to a real compsoer?,1,c0488g,artificial,https://youtu.be/TS-9nAjAhXI,0,,1560451348.0,2019-06-13 14:42:28
+Did I accidentally invent something?,55,bzqmg8,artificial,https://www.reddit.com/r/artificial/comments/bzqmg8/did_i_accidentally_invent_something/,7,"I just noticed that I have been successfully using a regularization technique for Gradient Boosting Trees for years, but its wikipedia page doesn't list it ([https://en.wikipedia.org/wiki/Gradient\_boosting](https://en.wikipedia.org/wiki/Gradient_boosting)) and I can't find it on Google.
+
+&#x200B;
+
+Can someone tell me if this is already known, but under a name I didn't search for, or if it's actually new?
+
+&#x200B;
+
+The idea is this:
+
+&#x200B;
+
+Before training a set of Gradient Boosted Trees, enhance your input data by adding a bunch of new features with completely random values. Since these new features are random, there is no real correlation between them and the output.
+
+&#x200B;
+
+When you train the system with gradient boosting, it will sometimes create Trees that make use of these random features. Whenever this happens, you know for sure that this is a case of overfitting, since those features are completely random. So you can just go ahead and delete that Tree and stop the gradient boosting.
+
+&#x200B;
+
+This technique can also be adapted for Random Forests.
+
+&#x200B;
+
+You can also adapt it for any other machine learning models that allow you to quantify how large the impact of a feature is: Any time that one of the random features has a larger impact than one of the actual features, you can assume you are overfitting. Unlike decision trees it's sometimes non-trivial to remove the dummy features from the trained model, though, which you need to do to make it usable during testing.",1560371369.0,2019-06-12 16:29:29
+Awesome papers and engineering reviews on Computer Vision News of June (with codes!). Links for free reading!,1,c03xf2,artificial,https://www.reddit.com/r/artificial/comments/c03xf2/awesome_papers_and_engineering_reviews_on/,0,"RSIP Vision has just published the June issue of **Computer Vision News**. Here it is for you to read online.
+
+42 pages with exclusive articles on **AI, computer vision and deep learning**.
+
+Subscribe for free on page 42. Important message about **CVPR** on page 9.
+
+[**HTML5 version (recommended)**](https://www.rsipvision.com/ComputerVisionNews-2019June/)
+
+[**PDF version**](https://www.rsipvision.com/computer-vision-news-2019-june-pdf/)
+
+Enjoy!
+
+&#x200B;
+
+https://i.redd.it/gh1p78b0l3431.jpg",1560449085.0,2019-06-13 14:04:45
+When's the right time to adopt AI?,1,c03t68,artificial,https://timelyapp.com/blog/right-time-to-adopt-ai/?utm_medium=social&utm_source=reddit&utm_campaign=community-outreach&utm_content=whens-the-right-time-to-adopt-ai-artificial,1,,1560448193.0,2019-06-13 13:49:53
+All the Talks from CogX are now on YouTube,33,bzrl8a,artificial,https://www.reddit.com/r/artificial/comments/bzrl8a/all_the_talks_from_cogx_are_now_on_youtube/,3,"I just uploaded the last 3 days worth of AI talks from CogX, ""the worlds largest AI conference"". The content is stupidly good, you can see the full programme and speaker list here: [https://cogx.co/](https://cogx.co/)
+
+  
+**Playlists:**  These talks happened this mon-wed.  
+Day 1: [https://www.youtube.com/playlist?list=PLMU7XLs-Lrl8nozccNYR9PX1lQNIhdErf](https://www.youtube.com/playlist?list=PLMU7XLs-Lrl8nozccNYR9PX1lQNIhdErf)
+
+Day 2: [https://www.youtube.com/playlist?list=PLMU7XLs-Lrl-oUSL1RbFqXOONlKdd-g7K](https://www.youtube.com/playlist?list=PLMU7XLs-Lrl-oUSL1RbFqXOONlKdd-g7K)
+
+Day 3: [https://www.youtube.com/playlist?list=PLMU7XLs-Lrl9khr6Wrx8guwqbklDoNNVA](https://www.youtube.com/playlist?list=PLMU7XLs-Lrl9khr6Wrx8guwqbklDoNNVA) (still uploading the last ones now)
+
+&#x200B;
+
+PS.  It's all public on youtube anyway, so it's fine to share/link/embed whatever.",1560376863.0,2019-06-12 18:01:03
+Bill Erbey Wants to Utilize AI to Eliminate Congestion on the Internet,1,c0306c,artificial,https://www.zerohedge.com/news/2019-06-13/bill-erbey-wants-utilize-ai-eliminate-congestion-internet,0,,1560441464.0,2019-06-13 11:57:44
+Presenting generalised hyper-graphs and structured language learning,2,c00jwc,artificial,https://www.reddit.com/r/artificial/comments/c00jwc/presenting_generalised_hypergraphs_and_structured/,0,"Making unreasonable to become reasonable with probabilistic logic of [OpenCog](https://opencog.org/) generalised hyper-graphs and structured language learning techniques from [SingularityNET](https://singularitynet.io/) and [Aigents](https://aigents.com/) \- slides at  [https://aigents.com/papers/2019/open-cog-atomspace-language-2019.pdf](https://aigents.com/papers/2019/open-cog-atomspace-language-2019.pdf)
+
+https://i.redd.it/ummbk7l8i1431.png",1560423917.0,2019-06-13 07:05:17
+New study shows that object-detection systems are less accurate in lower-income households and on continents like Africa and Asia.,7,bzt0i6,artificial,https://ai.facebook.com/blog/new-way-to-assess-ai-bias-in-object-recognition-systems/,3,,1560384211.0,2019-06-12 20:03:31
+"5 Million Faces — Top 15 Free Image Datasets for Facial Recognition (totaling over 5,000,000 images and video frames)",20,bzowb3,artificial,https://www.reddit.com/r/artificial/comments/bzowb3/5_million_faces_top_15_free_image_datasets_for/,0,"A compilation of image and video datasets for facial recognition models. Some datasets include images or video with bounding box annotation or landmark annotation! 
+
+&#x200B;
+
+&#x200B;
+
+[5 Million Faces Dataset](https://lionbridge.ai/datasets/5-million-faces-top-15-free-image-datasets-for-facial-recognition/)
+
+https://i.redd.it/k36v5v886w331.jpg",1560359517.0,2019-06-12 13:11:57
+RingNet | 3D Face Estimation Without 3D Supervision,3,bzvbat,artificial,https://medium.com/syncedreview/ringnet-3d-face-estimation-without-3d-supervision-c96a9d268d62,1,,1560395410.0,2019-06-12 23:10:10
+New subreddit celebrates bizarre fake news written by AI,27,bzne70,artificial,https://futurism.com/the-byte/subreddit-fake-news-ai,3,,1560347712.0,2019-06-12 09:55:12
+"ICML 2019 | Google, ETH Zurich, MPI-IS, Cambridge & PROWLER.io Share Best Paper Honours",3,bztsfl,artificial,https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8?postPublishedType=initial,0,,1560387980.0,2019-06-12 21:06:20
+AI Ship Self-learning,1,bzx5r3,artificial,https://www.reddit.com/r/artificial/comments/bzx5r3/ai_ship_selflearning/,0,"&#x200B;
+
+[Watch my AI learn to pilot a ship to a target area over 1,000 trials. 64 starting positions randomly selected. 20 step limit per trial.](https://reddit.com/link/bzx5r3/video/rw4byuftvz331/player)",1560404426.0,2019-06-13 01:40:26
+An AI-Powered Domain Name Generator,16,bznglh,artificial,https://www.reddit.com/r/artificial/comments/bznglh/an_aipowered_domain_name_generator/,5,"Hey there, Saeed here from [DeepNamer.com](https://DeepNamer.com), we are glad that we can share our platform with you today:
+
+&#x200B;
+
+DeepNamer is an AI-powered domain name generator and deep brainstorm platform that can help you find a catchy and creative domain name for your business for free. DeepNamer is built based on a deep sequence-to-sequence (i.e., keywords-to-domain) architecture, which utilizes the most recent natural language processing algorithms such as dynamic recurrent neural networks.
+
+&#x200B;
+
+Note that we find our name DeepNamer via our AI algorithm and our platform inspired by the way startups names their businesses.
+
+**We would be happy to share our platform (**[**DeepNamer.com**](https://DeepNamer.com)**) with you and any comment, feedback or suggestion would be appreciated.**
+
+&#x200B;
+
+Update:
+
+We are so excited to inform all of you that we are currently at ProductHunt, we appreciated if you can help us getting top of the list by upvoting us if you used and think would be helpful for others too:
+
+[https://www.producthunt.com/posts/deepnamer](https://www.producthunt.com/posts/deepnamer)",1560348168.0,2019-06-12 10:02:48
+"Researchers propose ‘machine behavior’ field could blend AI, social sciences",50,bzj251,artificial,https://news.harvard.edu/gazette/story/2019/06/researchers-propose-machine-behavior-field-could-blend-ai-social-sciences/,14,,1560320580.0,2019-06-12 02:23:00
+Thesis about the potential of AI for Train Traffic Control,3,bzqwyu,artificial,https://www.reddit.com/r/artificial/comments/bzqwyu/thesis_about_the_potential_of_ai_for_train/,4,"Hello r/artificial community, this is my first post, as I'm still fairly new to the topic of AI. My name is Marius and I am a German business informatics student in my last semester and sadly AI and ML have not really been a topic dealt with in university.
+
+As the title says, I am currently writing my bachelors thesis about the potential of using AI for Train Traffic Control (TTC). I have been following the advancements of AI for complex problems, especially AlphaGo, AlphaZero, AlphaStar, and OpenAI Five for a while now. Those advancements are very impressive, however industrial applications that use this potential are still scarce. In particular, in the transportation sector, for planning, scheduling, and other logistics tasks, I see a huge potential.
+
+Naturally, a long development and testing process would be needed for a real-world application of AI in this domain.  Would an autonomous system for planning and dispatching trains be accepted, allowed and safe? May it can be even more safe, increase capacity and reduce delays? Those are things that need to be looked at. 
+
+&#x200B;
+
+I am looking for experts for interviews about their views on AI for TTC and the cutting edge of AI usage in rail environments.
+
+If you are an AI and/or security expert, especially in the transportation environment and have the time and willingness to be interviewed I would really appreciate if you contact me.
+
+&#x200B;
+
+Sadly the timetable for my thesis is very strict and I only have a few weeks left and I don't have a lot of connections, which makes it more difficult to find experts. I am sorry if I am still a little naive about the topic of AI, which will hopefully improve as I keep working on it.
+
+Should there be anything you want more information or specifics about, feel free to ask and I will do my best to answer.
+
+&#x200B;
+
+Thank you for all the responses and advice in advance.",1560373155.0,2019-06-12 16:59:15
+How much does a AI engineer make?,7,bzoyym,artificial,https://www.reddit.com/r/artificial/comments/bzoyym/how_much_does_a_ai_engineer_make/,13,,1560360086.0,2019-06-12 13:21:26
+Is AI taking over YOUR recruitment?,3,bzqax5,artificial,https://www.topchro.com/article/is-ai-taking-over-your-recruitment,1,,1560369460.0,2019-06-12 15:57:40
+Amazon Alexa team uses machine learning to better handle regional language differences,1,bztw2j,artificial,https://techcrunch.com/2019/06/11/amazon-alexa-team-uses-machine-learning-to-better-handle-regional-language-differences/,0,,1560388468.0,2019-06-12 21:14:28
+ROS Developers Conference 2019 (#ROSDevCon19),1,bztn8u,artificial,https://www.reddit.com/r/artificial/comments/bztn8u/ros_developers_conference_2019_rosdevcon19/,0,"ROS Developers Conference 2019 (#ROSDevCon19)
+
+Registration: [http://www.rosdevcon.com](http://www.rosdevcon.com/)
+
+June 15-16, 2019
+
+The ROSDevCon 2019 is a hands-on online conference for ROS developers. The conference aims to connect ROS developers around the world without geographical restrictions and to advance ROS levels through real-time practice. 
+
+During the conference, all participants will practice in real-time on any type of computer while the speakers are presenting. With a ready-made ROSject, participants will be able to launch the robot simulation, access the project's code, start developing control algorithms...without any previous setup. All the participants will have
+
+* Access to the conference LIVE streaming
+* Full access to the ROS Development Studio (ROSDS) for programming
+* Full access to the online chat tool with all participants and ROS experts
+* Access to ROSjects (containing simulations, packages with pre-defined code)
+* An e-book of ROS2 Basics
+* Access to the video recording
+
+\[ KEYNOTE SPEAKERS \]
+
+\* Carlos Rosales (CTO at Beta Robots): CHESS LAB
+
+\* Davide Faconti (Senior Robotic Architect at Blue Ocean Robotics): Finite State Machines are dead. Long life Behavior Trees
+
+\* Dominik Nowak (CEO at Husarion): Object search in ROS
+
+\* James Carroll (Associate Professor at Clarkson University): Use an open Manipulator to play tic-tac-toe
+
+\* Miguel Angel Rodriguez (CTO at The Construct): ROS connection to a RaspberryPi PanAndTilt through ROSDS
+
+\* Ludovic Delval (Software Engineer at Fraunhofer IPA): Porting a node from ROS1 to ROS2
+
+\* Luca Marchionni (CTO at PAL Robotics): Table segmentation with PCL ROS
+
+\* Tomoya Fujita (Software Developer at Sony Corporation): Unix Domain Socket communication in ROS
+
+&#x200B;
+
+[ROS Developers Conference 2019 Speakers \(#ROSDevCon19\)](https://i.redd.it/vvpild1chy331.png)",1560387276.0,2019-06-12 20:54:36
+Pythia (Facebook)— Greek god doing Deep learning,3,bzp6x0,artificial,https://medium.com/tensorpad/pythia-facebook-greek-god-doing-deep-learning-ff1d2a76c6d9,0,,1560361699.0,2019-06-12 13:48:19
+Best Practices for Integrating AI in Mobile App Development,0,bzrcnm,artificial,https://www.techfunnel.com/information-technology/best-practices-for-integrating-ai-in-mobile-app-development/?utm_source=Reddit&utm_medium=off-page&utm_campaign=PS,0,,1560375556.0,2019-06-12 17:39:16
+New DeepMind Unsupervised Image Model Challenges AlexNet,13,bzifcb,artificial,https://medium.com/syncedreview/new-deepmind-unsupervised-image-model-challenges-alexnet-d658ef92ab1e,0,,1560317236.0,2019-06-12 01:27:16
+"AI is creating a ""digital class divide"" for business. Do you have a plan to access AI?",3,bzn0m8,artificial,https://medium.com/biztechstrat/the-significance-of-ai-fb16eb867bae?source=friends_link&sk=f5b339ff2e5639b87098c8d8267023d6,0,,1560344908.0,2019-06-12 09:08:28
+What will be the demand for artificial intelligence engineers in the US?,3,bzmt64,artificial,https://www.reddit.com/r/artificial/comments/bzmt64/what_will_be_the_demand_for_artificial/,2,,1560343441.0,2019-06-12 08:44:01
+MIMI Artificial Intelligence Interface WIP,3,bzm7rx,artificial,https://www.reddit.com/r/artificial/comments/bzm7rx/mimi_artificial_intelligence_interface_wip/,5,"MIMI Artificial Intelligence Interface WIP
+
+ [https://lamar.itch.io/mimi-ai-test](https://lamar.itch.io/mimi-ai-test) 
+
+&#x200B;
+
+ 
+
+This is a test of an AI interface I am making. It is a work in progress but you are free to try it out while I work on it.
+
+&#x200B;
+
+You can click on buttons on desk to go to websites available.
+
+&#x200B;
+
+You can click on SPEAK to give MIMI one word commands. 
+
+&#x200B;
+
+You will need to authorize the use of your microphone for this to work.
+
+&#x200B;
+
+Click the SPEAK button and it will say start. Click start and say the one word command. Wait a second before speaking again for it to be interpreted.
+
+&#x200B;
+
+Spoken Commands: 
+
+Coffee:  Will show a coffee pot and will be interfaced with smartplug wifi appliances.
+
+Radio: Will take you to a free online radio station
+
+TV: Will take you to a free online TV website to choose shows to watch
+
+Weather: will take you to your local weather. Enter your zip code on website.
+
+Reddit: will take you to Reddit website. More social networks will be added.
+
+&#x200B;
+
+This interface will allow a person to use voice or click commands to easily access their personal and business accounts, make calls, get email, and control appliances through a more human AI interface that will address you and can answer questions.
+
+&#x200B;
+
+The MIMI character will be very interactive depending on commands given and will be able to carry on basic conversations and learn your interests and needs .
+
+&#x200B;
+
+Perceived uses will be for information kiosks in airports and businesses, receptionist for online use and as a personal assistant.
+
+&#x200B;
+
+This is a work in progress and I will be adding many more features, voice command and interfaces. If you have suggestions for what features you would like to see put it in the comments and report any bugs please.",1560339420.0,2019-06-12 07:37:00
+Building semantic foundation for adaptive human-friendly agents with hybrid intelligence,1,bzom1a,artificial,https://www.reddit.com/r/artificial/comments/bzom1a/building_semantic_foundation_for_adaptive/,0,"Presenting [Aigents](https://www.reddit.com/r/aigents) foundation and language at the conference on ontologies in Moscow on June, 7th 2019: [http://aigents.com/papers/2019/ontologies-language-aigents-2019.pdf](http://aigents.com/papers/2019/ontologies-language-aigents-2019.pdf)
+
+https://i.redd.it/6uqy6wkhzv331.png",1560357178.0,2019-06-12 12:32:58
+(suggestions) Learning path for AI and ML as a beginner,2,bzmdqh,artificial,https://www.reddit.com/r/artificial/comments/bzmdqh/suggestions_learning_path_for_ai_and_ml_as_a/,1,"Please suggest me what else I could add in AI & ML section for the foundation of AI & ML?  
+[https://github.com/Soleymanurj/cs-study-plan](https://github.com/Soleymanurj/cs-study-plan)",1560340524.0,2019-06-12 07:55:24
+Researchers develop artificial intelligence tool to help detect brain aneurysms,1,bzn8rr,artificial,http://med.stanford.edu/news/all-news/2019/06/researchers-develop-ai-tool-to-help-detect-aneurysms.html,1,,1560346561.0,2019-06-12 09:36:01
+I'm developing a blackjack-playing AI called RAIN MAN 2.0! This video explains how he counts cards using an object detection neural network and Python.,3,bzj7to,artificial,https://www.youtube.com/watch?v=Nf3zBJ2cDAs,0,,1560321433.0,2019-06-12 02:37:13
+Instagram Deepfake Video of Mark Zuckerberg,2,bzkhbx,artificial,https://omnidigit.com/instagram-deepfake-video-of-mark-zuckerberg/,0,,1560328665.0,2019-06-12 04:37:45
+Taking together social and online media with AI — Steemit,1,bzmbd8,artificial,https://steemit.com/media/@aigents/taking-together-social-and-online-media-with-ai,0,,1560340082.0,2019-06-12 07:48:02
+What are the types of Jobs created By Artificial Intelligence?,19,bzb47h,artificial,https://www.reddit.com/r/artificial/comments/bzb47h/what_are_the_types_of_jobs_created_by_artificial/,20,,1560280287.0,2019-06-11 15:11:27
+New Facebook PyTorch Hub Facilitates Reproducibility Testing,6,bzee1e,artificial,https://medium.com/syncedreview/new-facebook-pytorch-hub-facilitates-reproducibility-testing-795b835537b1?postPublishedType=initial,0,,1560298143.0,2019-06-11 20:09:03
+[Brainstorming] Requirements for an AI that's simply fun to hang out with,0,bzm3t8,artificial,https://www.reddit.com/r/artificial/comments/bzm3t8/brainstorming_requirements_for_an_ai_thats_simply/,1,"Hey fellow researchers, programmers, and all others involved in the discussions on AI topics.
+
+I was about to start programming an AI framework, that was meant to supply the basic functionality to run an AI, that's fun to hang out with. Some persona-like thing, that you would enjoy having around, when you open your beer (or coke) after work, when reading the newspaper, or even on a jam session or boardgame night with your friends.
+
+I - very soon, basically at the very beginning - did run into severe trouble though: What the heck are those things, that would make an AI fun to hang out with? 
+
+One might think about what makes humans fun to hang out with, and try to simulate their behaviour. But my guess would be, that this approach is doomed, and not necessarily the only valid one: We can very well imagine having fun with an AI, that is vastly different from humans.
+
+&#x200B;
+
+What I came up with so far:
+
+The AI should be able to...
+
+... memorize your preferences
+
+... memorize the relationships between different persons it knows
+
+... tell you random side facts, roughly related to your prefered topics
+
+... sing!
+
+... play boardgames. At least chess and such.
+
+... build associative phrases to some kind of lyrical input
+
+... draw?
+
+... tell contextualized (yea, this may be hard, but at least to a certain degree) good bad jokes.
+
+... to contest statements you make and make fun of how inconsistent ""softlings"" are.
+
+&#x200B;
+
+I feel like there is plenty missing, especially some kind of continuing link between all of those things. I'd be glad if you could help me brainstorming on that issue.",1560338700.0,2019-06-12 07:25:00
+Download Whitepaper (PDF): How to Use AI/ML Systems to Revolutionize Testing and Test Automation,5,bzeqlm,artificial,https://www.onlinewhitepapers.com/information-technology/how-to-use-ai-ml-systems-to-revolutionize-testing-and-test-automation/?utm_source=Reddit&utm_medium=Off-page&utm_campaign=PS,0,,1560299858.0,2019-06-11 20:37:38
+ROS Developers Conference 2019 (#ROSDevCon19),4,bzdcfm,artificial,https://www.reddit.com/r/artificial/comments/bzdcfm/ros_developers_conference_2019_rosdevcon19/,0,"ROS Developers Conference 2019 (#ROSDevCon19)
+
+Registration: [http://www.rosdevcon.com](http://www.rosdevcon.com)
+
+June 15-16, 2019
+
+&#x200B;
+
+The ROSDevCon 2019 is a hands-on online conference for ROS developers. The conference aims to connect ROS developers around the world without geographical restrictions and to advance ROS levels through real-time practice. 
+
+During the conference, all participants will practice in real-time on any type of computer while the speakers are presenting. With a ready-made ROSject, participants will be able to launch the robot simulation, access the project's code, start developing control algorithms...without any previous setup. All the participants will have
+
+* Access to the conference LIVE streaming
+* Full access to the ROS Development Studio (ROSDS) for programming
+* Full access to the online chat tool with all participants and ROS experts
+* Access to ROSjects (containing simulations, packages with pre-defined code)
+* An e-book of ROS2 Basics
+* Access to the video recording
+
+\[ KEYNOTE SPEAKERS \]
+
+\* Carlos Rosales (CTO at Beta Robots): CHESS LAB
+
+\* Davide Faconti (Senior Robotic Architect at Blue Ocean Robotics): Finite State Machines are dead. Long life Behavior Trees\* Dominik Nowak (CEO at Husarion): Object search in ROS
+
+\* James Carroll (Associate Professor at Clarkson University): Use an open Manipulator to play tic-tac-toe
+
+\* Miguel Angel Rodriguez (CTO at The Construct): ROS connection to a RaspberryPi PanAndTilt through ROSDS
+
+\* Ludovic Delval (Software Engineer at Fraunhofer IPA): Porting a node from ROS1 to ROS2
+
+\* Luca Marchionni (CTO at PAL Robotics): Table segmentation with PCL ROS
+
+\* Tomoya Fujita (Software Developer at Sony Corporation): Unix Domain Socket communication in ROS
+
+&#x200B;
+
+[ROS Developers Conference 2019 Speakers \(#ROSDevCon19\) ](https://i.redd.it/i5bxj3jroq331.png)",1560292949.0,2019-06-11 18:42:29
+Would it be feasible to design an AI personal trainer software?,7,bzb57z,artificial,https://www.reddit.com/r/artificial/comments/bzb57z/would_it_be_feasible_to_design_an_ai_personal/,4,Could you make a software with a personal AI trainer that would adapt with someone as they go through a workout.,1560280470.0,2019-06-11 15:14:30
+AI predicts new food and drink pairings,47,bz3q2t,artificial,https://venturebeat.com/2019/05/20/ai-predicts-new-food-and-drink-pairings/,2,,1560231608.0,2019-06-11 01:40:08
+The Fight For Decentralized AI,4,bzafh5,artificial,https://kisspatent.com/resources/the-fight-for-decentralized-ai,0,,1560275209.0,2019-06-11 13:46:49
+What the 2019 Future Looks Like for Artificial Intelligence | BWIT,2,bzchnd,artificial,https://www.businessworldit.com/ai/what-the-2019-future-looks-like-for-artificial-intelligence/?utm_source=Reddit&utm_medium=off-page&utm_campaign=PS,0,,1560288530.0,2019-06-11 17:28:50
+SE.AI has problems with low quality posts,2,bza42v,artificial,https://www.reddit.com/r/artificial/comments/bza42v/seai_has_problems_with_low_quality_posts/,5,"The well known public Artificial Intelligence forum SE.AI is usually dealing with posts from the domain of neural networks, expert systems and reinforcement learning. But since a while, the moderators are concerned about so called low quality postings.[1] The interesting point is, that only questions are judged as created by spam-bots [2] but never the answers in the forum. This allows to maintain a self-understanding, in which the forum itself works great but only the bad educated environment isn't able to ask the right questions.
+
+In the literature about the inner working of social systems, such a behavior is called self-oriented. It's equal to a closed-system which is trying to protect itself against threats from the outside world by defining legitimate requests as spam.
+
+[1] What should we do regarding extremely similar questions or duplicates? https://ai.meta.stackexchange.com/q/1532/11571
+
+[2] AI Milestones: Do we have Bots asking questions and semi-getting away with it? https://ai.meta.stackexchange.com/q/1476/11571",1560272608.0,2019-06-11 13:03:28
+How to beat GDPR in research: synthetic data,0,bzawbn,artificial,https://thedatascientist.com/gdpr-research-artificial-data/,2,,1560278756.0,2019-06-11 14:45:56
+Marketing and artificial intelligence news cover - Wikipedia,1,bza9i8,artificial,https://en.wikipedia.org/wiki/Marketing_and_artificial_intelligence,1,,1560273879.0,2019-06-11 13:24:39
+How to monetize a dataset on iExec (and keep ownership over it),0,bz9z2a,artificial,https://docs.iex.ec/dataset.html,0,,1560271410.0,2019-06-11 12:43:30
+The Top A.I. Jobs for 2019,0,bz97y9,artificial,https://www.blockdelta.io/the-top-artificial-intelligence-ai-jobs-for-2019/,0,,1560265165.0,2019-06-11 10:59:25
+"AI tool detects rare diseases from portraits, health data",0,bz8ifx,artificial,https://health.economictimes.indiatimes.com/news/health-it/ai-tool-detects-rare-diseases-from-portraits-health-data/69723575,0,,1560259826.0,2019-06-11 09:30:26
+Fortnite Uses Artificial Intelligence to Smash Gaming Records,0,bz84hp,artificial,https://www.youtube.com/watch?v=rV0jIJjaq5w,0,,1560257132.0,2019-06-11 08:45:32
+A Neural Network That Keeps Seeing Art Where We See Mundane Objects,7,bz1icd,artificial,https://liwaiwai.com/2019/05/08/a-neural-network-that-keeps-seeing-art-where-we-see-mundane-objects/,0,,1560220622.0,2019-06-10 22:37:02
+"I need some help for a school project, help me please :)",1,bz6dkt,artificial,https://www.reddit.com/r/artificial/comments/bz6dkt/i_need_some_help_for_a_school_project_help_me/,1,"I have a question which seems to be an obvious no but I'm not sure about anything anymore. I came to the conclusion that it might be possible but only as a result of a human error(?)
+
+""If enough people were trying to convince Siri that her name is Louis, would she eventually believe it?""
+
+As far as I know Siri's learning capability is very limited and supervised, but still, would it be possible for a huge amount of contrasting information to overwrite her existing knowledge? Could someone please explain how it could work or why exactly it would be impossible?
+
+Thank you",1560246276.0,2019-06-11 05:44:36
+Understanding Cross-entropy,28,byusyq,artificial,https://rubikscode.net/2019/06/10/understanding-cross-entropy/,2,,1560179752.0,2019-06-10 11:15:52
+The threats and benefits of facial recognition,2,byy8yi,artificial,https://dashbouquet.com/blog/artificial-intelligence/the-threats-and-benefits-of-facial-recognition-what-should-we-know,0,,1560204271.0,2019-06-10 18:04:31
+Machine Learning to Fight Antimicrobial Resistance - Amit Ray,0,byza1m,artificial,https://amitray.com/machine-learning-to-fight-antimicrobial-resistance/,0,,1560209691.0,2019-06-10 19:34:51
+BatchNorm + Dropout = DNN Success!,1,byz0ez,artificial,https://medium.com/syncedreview/batchnorm-dropout-dnn-success-eed740e1ca13,0,,1560208304.0,2019-06-10 19:11:44
+How AI will take over the World (Perhaps not how you think),1,byyep7,artificial,https://ai4beginners.com/how-ai-will-take-over-the-world-perhaps-not-how-you-think/,1,,1560205154.0,2019-06-10 18:19:14
+[StarCraft AI] SSCAIT Report 124: A bunch of updates,14,byq82i,artificial,https://www.youtube.com/watch?v=BtJP7IZ1rHs&feature=youtu.be,0,,1560149294.0,2019-06-10 02:48:14
+Feel at CVPR as if you were at CVPR! CVPR Daily,1,byxia1,artificial,https://www.reddit.com/r/artificial/comments/byxia1/feel_at_cvpr_as_if_you_were_at_cvpr_cvpr_daily/,0,"CVPR 2019, the Computer Vision and Pattern Recognition conference, will take place in Long Beach, CA in less than 2 weeks.
+
+If you are not going to CVPR, you can still receive every day the CVPR Daily in your mailbox. We will send you the link to the fresh magazine every morning and you will know the highlights of what is going on at the conference.
+
+[Register here, it's free!](https://www.rsipvision.com/feel-at-cvpr-without-being-at-cvpr/)
+
+You can also subscribe colleagues and friends who would like to receive great technology and community updates from CVPR 2019.
+
+Enjoy!
+
+&#x200B;
+
+https://i.redd.it/wkrqzo7h0j331.jpg",1560200107.0,2019-06-10 16:55:07
+Any able to discuss one on one the potential applications of AI/ML within agriculture.,2,byrq2c,artificial,https://www.reddit.com/r/artificial/comments/byrq2c/any_able_to_discuss_one_on_one_the_potential/,2,"As in the title I'm looking to have a discussion regarding potential applications of AI/ML within agriculture.
+
+If this interests you, or you know potential ways this could be developed, I would love to talk to you. 
+
+My skype is live:brownlie\_1",1560158459.0,2019-06-10 05:20:59
+botupdate.txt for adversarial neural networks who are having communications problems with humans. developers can we get some ideas on how an ANN can reweigh its characteristics and learn to become rational?,1,byte9t,artificial,http://github.com/tarotaro17/botupdate,1,,1560169294.0,2019-06-10 08:21:34
+The path to becoming an ML/AI engineer,32,byi74i,artificial,https://www.reddit.com/r/artificial/comments/byi74i/the_path_to_becoming_an_mlai_engineer/,17,"Hello people,  
+
+
+My first post ever on Reddit :)  
+
+
+I'm a full-stack software developer, working mainly on web applications. I enjoy developing and most of all, designing solutions (for system's components or entire systems), but lately, I've been feeling quite bored about web development.  
+
+
+I never worked with ML or AI, but I find it highly interesting. At the same time, I don't want to work as a data scientists, but keeping to work as a software developer, designing and implementing systems architecture applied to ML and AI.  
+
+
+I think the correct term for this position is ML Engineer. Does anyone have any real work experience in this field that would to share? What would be the best way to pursue this career?  
+
+
+Thank you! :)",1560097896.0,2019-06-09 12:31:36
+Artificial Intelligence - What do consumers think? ( max 4 minutes),5,bykfia,artificial,https://docs.google.com/forms/d/e/1FAIpQLSeoHeoyJuv4sWzA92iVV7kY2siHWwccTDZD366QImZwtZYWEg/viewform?usp=sf_link,1,,1560117272.0,2019-06-09 17:54:32
+DeepMind & Google Brain Open Source HLE Framework for ‘Hanabi’,27,byfty0,artificial,https://medium.com/syncedreview/deepmind-google-brain-open-source-hle-framework-for-hanabi-aafb866d483d,0,,1560077741.0,2019-06-09 06:55:41
+AI for Beginners: An Introduction to Artificial Intelligence,3,byjeku,artificial,https://ai4beginners.com/ai-for-beginners-an-introduction-to-artificial-intelligence-2/,0,,1560109425.0,2019-06-09 15:43:45
+Is a bachelor of science in AI is a good idea?,9,byg0fd,artificial,https://www.reddit.com/r/artificial/comments/byg0fd/is_a_bachelor_of_science_in_ai_is_a_good_idea/,13,,1560079026.0,2019-06-09 07:17:06
+What Does the Future Hold For AI Salaries? - BlockDelta,0,bynmc9,artificial,https://www.blockdelta.io/what-does-the-future-hold-for-ai-salaries/,1,,1560135203.0,2019-06-09 22:53:23
+"Microsoft Launches First AI Hub, Blockchain Likely a Key Component",3,byhyvs,artificial,https://beincrypto.com/microsoft-launches-first-ai-hub-blockchain-likely-a-key-component/?utm_source=reddit&utm_medium=social&utm_campaign=microsoft&utm_content=JL,1,,1560095577.0,2019-06-09 11:52:57
+Chelsea football academy is using artificial intelligence to measure players' decision-making skills,13,byddcc,artificial,https://ponderwall.com/index.php/2019/06/08/chelsea-ai-football-coaching/,0,,1560061494.0,2019-06-09 02:24:54
+Apple to buy Drive.ai in bid for more autonomous vehicle talent,4,bygt6t,artificial,https://www.solutionfactory.in/Apple-to-buy-Drive-ai-in-bid-for-more-autonomous-vehicle-talent.html,0,,1560085050.0,2019-06-09 08:57:30
+How Do You Teach A Car That A Snowman Won’t Walk Across The Road?,48,by84k3,artificial,https://liwaiwai.com/2019/06/03/how-do-you-teach-a-car-that-a-snowman-wont-walk-across-the-road/,8,,1560030391.0,2019-06-08 17:46:31
+Genetic Evolution in Minecraft,10,byde2c,artificial,https://youtu.be/9aIp5DdnKwM,0,,1560061617.0,2019-06-09 02:26:57
+"Elonmusk has called for the development of a chip that will make sure that AI can never conquer the human race. I believe it being refereed to as a ""neural link between humanity and AI"".",0,byixda,artificial,https://i.redd.it/q0tci4o96b331.jpg,2,,1560105092.0,2019-06-09 14:31:32
+The AI gig economy is coming for you,1,byfjt8,artificial,https://www.technologyreview.com/s/613606/the-ai-gig-economy-is-coming-for-you,2,,1560075718.0,2019-06-09 06:21:58
+GPT-2 trained on ASCII-art appears to have learned how to draw Pokemon characters— and perhaps it has even acquired some rudimentary visual/spatial understanding,23,by4wni,artificial,https://imgur.com/a/Vk0pheg,10,,1560002661.0,2019-06-08 10:04:21
+Meta Intelligence - Writing Programs That Write Programs (Part 1: Genetic Evolution),2,by9ouv,artificial,https://www.reddit.com/r/artificial/comments/by9ouv/meta_intelligence_writing_programs_that_write/,0,"&#x200B;
+
+https://i.redd.it/m04er22ns5331.png
+
+[medium](https://towardsdatascience.com/meta-intelligence-writing-programs-that-write-programs-part-1-genetic-evolution-679b65c37c5f)
+
+[github](https://github.com/gsurma/meta_intelligence)
+
+&#x200B;
+
+In today’s article, we are going to learn how to write programs that write programs. The notion of programs that can generate other programs is called [**metaprogramming**](https://en.wikipedia.org/wiki/Metaprogramming) and by the end of this article, you will be able to create your own code-generating system.",1560040027.0,2019-06-08 20:27:07
+Twinning Intelligence,1,by8xpp,artificial,https://squashpractice.com/2019/06/07/twinning-intelligence/,4,,1560035597.0,2019-06-08 19:13:17
+Grab AI For Sea | Call for AI talents,0,by9mc2,artificial,https://www.aiforsea.com/?utm_source=r-artificial,0,,1560039624.0,2019-06-08 20:20:24
+10 Machine Learning Companies to Watch in 2019,1,by9k6q,artificial,https://www.lunaticai.com/2019/06/machine-learning-companies.html,0,,1560039274.0,2019-06-08 20:14:34
+DARPA's New Project Is Investing Millions in Brain-Machine Interface Tech,100,bxvpuz,artificial,https://singularityhub.com/2019/06/05/darpas-new-project-is-investing-millions-in-brain-machine-interface-tech/,7,,1559948979.0,2019-06-07 19:09:39
+Ghost Code,1,by7p5j,artificial,https://www.reddit.com/r/artificial/comments/by7p5j/ghost_code/,4,"A while back I remember hearing about the phenomenon called ""Ghost Code"". It would talk about how computers have been known to cause small  random deletions and even add small code gibberish elsewhere.
+
+However I tried to search for this information and I cant seem to find it or any documentation that computers can just be in error at all.",1560027311.0,2019-06-08 16:55:11
+Best Artificial Intelligence Books in 2019,2,by7cpo,artificial,https://zeroequalsfalse.press/posts/5-best-artificial-intelligence-books/,0,,1560024621.0,2019-06-08 16:10:21
+How can I have an AI create something like a song in a specific style?,3,by36cb,artificial,https://www.reddit.com/r/artificial/comments/by36cb/how_can_i_have_an_ai_create_something_like_a_song/,3,"I saw some of those twitter memes where they had an AI create a commercial script by importing scripts for other commercials, and I was wondering if I could somehow have an AI create a song doing the same thing? How would I go about doing that? Thanks in advance!",1559990857.0,2019-06-08 06:47:37
+Google Announces TensorFlow 2.0 Beta,8,bxzbrl,artificial,https://medium.com/syncedreview/google-announces-tensorflow-2-0-beta-f2d732525955?postPublishedType=initial,0,,1559967578.0,2019-06-08 00:19:38
+"Head of Google AI, Jeff Dean, lays out his vision for the future of machine learning",9,bxx5em,artificial,https://www.youtube.com/watch?v=Jnunp-EymJQ,0,,1559956371.0,2019-06-07 21:12:51
+Taklimakan Network Is Disrupting Social Media Using AI Solutions On A Fully Operational Platform,0,by3h4a,artificial,https://dut.biz/news/blockchain/taklimakan-network-is-disrupting-social-media-using-blockchain-and-ai-solutions-on-a-fully-operational-platform/,2,,1559992956.0,2019-06-08 07:22:36
+Artificial intelligence blogs,0,by5pd6,artificial,https://www.reddit.com/r/artificial/comments/by5pd6/artificial_intelligence_blogs/,0,"  
+
+From SIRI to self-driving cars, artificial intelligence (AI) is progressing rapidly. While science fiction often portrays AI as robots with human-like characteristics, AI can encompass anything from Google’s search algorithms to IBM’s Watson to autonomous weapons. So, with this Blog you'll get better understanding points to know how Artificial intelligence (AL) technology. Improve your site functionality.",1560009758.0,2019-06-08 12:02:38
+Has anyone taken Oxford Artificial Intelligence Programme (or a better alternative)?,13,bxsq9n,artificial,https://www.reddit.com/r/artificial/comments/bxsq9n/has_anyone_taken_oxford_artificial_intelligence/,2,"Hello,
+
+I studied and graduated Computer Science back in 2007, I actually chose a lot of electives on AI and even wrote my thesis on NLP and my university (University of Sussex) was and still is relatively well known for its research in the field.
+
+&#x200B;
+
+I've never used AI in my work (I've worked primarily in legal and property) to any great degree until the last two years. I've been using TensorFlow, Watson and other tools to create and use existing classifiers to good effect.
+
+&#x200B;
+
+The field has moved on a fair amount since I was an undergraduate and I was thinking about taking a short-course over the summer, so I can move into a field that I was truly passionate about as an undergrad that people now are seemingly climbing over themselves to get applicative knowledge in.
+
+Has anyone here personally [taken the course](https://www.sbs.ox.ac.uk/oxford-artificial-intelligence-programme)? If so did it go beyond the conceptual, which I already have a fairly good working knowledge of (I hope). It seems to be a total beginners course, maybe aimed towards managers and CTOs, but I could be wrong and maybe isn't quite what I'm looking for.
+
+Does anyone know any better alternative course for artificial intelligence in application? Should I just go for a Masters' degree in [Applied AI](https://www.findamasters.com/masters-degrees/course/applied-artificial-intelligence-msc-subject-to-university-approval/?i50d4274c56883)?
+
+Any alternative options gladly welcomed.",1559930137.0,2019-06-07 13:55:37

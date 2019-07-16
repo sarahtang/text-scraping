@@ -1,6 +1,10 @@
-# text-scraping
+## text-scraping
 Using the reddit API to scrape through text and see where are conversation hot spots.
 
+# Output
+CSV titled reddit_SUBREDDIT_june.csv
+
+# Resources
 Subreddit API documentation
 https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html
 
@@ -18,6 +22,4 @@ https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html
 
 6. Work on Readme = explain, add comments
 
-7. Fix export so that you get CSV with specific name
-
-8. Think about what is the effect? Business impact - competitive intellignece, audience intelligence; improvement on Sprinklr
+7. Think about what is the effect? Business impact - competitive intellignece, audience intelligence; improvement on Sprinklr

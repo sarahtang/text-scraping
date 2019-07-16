@@ -18,8 +18,15 @@ reddit = praw.Reddit(client_id='9Qn3lMcjYa2sSg',
 					client_secret='qf6Eh1U13kBTacikeYVe74hUtzI',
 					user_agent='Conversation_Hotspot')
 
-subreddit = reddit.subreddit('all')
-ai_subreddit = reddit.subreddit(subreddit_input) #edit this
+subreddit = reddit.subreddit(subreddit_input) #edit this
+
+# Error catching
+try:
+	pass
+except STATUS_EXCEPTIONS as e:
+	print ("Not a valid subreddit. Try again.")
+	raise e
+
 
 # Get 10 "hottest" posts from ML subreddit
 hot_posts = reddit.subreddit('MachineLearning').hot(limit=10)
@@ -28,7 +35,7 @@ hot_posts = reddit.subreddit('MachineLearning').hot(limit=10)
 # hot, new, controversial, top, gilded, .search("SEARCH_KEYWORDS")
 # Reddit request limit is 1000
 # for post in ai_subreddit.search("Watson", limit=10):
-for post in ai_subreddit.new(limit=1000):
+for post in subreddit.new(limit=1000):
 	if (post.created >= 1559347200): #hardcoded for June UTC
 		if (post.created < 1561939199):
 			if (post.num_comments > 1):
@@ -42,7 +49,7 @@ for post in ai_subreddit.new(limit=1000):
 						post.selftext,
 						post.created])
 
-ai_posts = pd.DataFrame(ai_posts, columns=['title',
+posts = pd.DataFrame(ai_posts, columns=['title',
 									'score',
 									'id',
 									'subreddit',
@@ -55,17 +62,15 @@ ai_posts = pd.DataFrame(ai_posts, columns=['title',
 def get_date(created):
 	return dt.datetime.fromtimestamp(created)
 
-_timestamp = ai_posts['created'].apply(get_date)
-ai_posts = ai_posts.assign(timestamp = _timestamp)
+_timestamp = posts['created'].apply(get_date)
+posts = posts.assign(timestamp = _timestamp)
 
-# print(ai_posts)
-
-#TODO
-sum_comments = ai_posts['num_comments'].sum()
-sum_posts = len(ai_posts.index)
+#Output
+sum_comments = posts['num_comments'].sum()
+sum_posts = len(posts.index)
 total_conversation = sum_comments + sum_posts
 print("Subreddit")
-print(ai_subreddit.display_name)
+print(subreddit.display_name)
 print("Number of engaged posts with >= 2 comments in June")
 print(engaged_posts)
 print("Number of posts in June")
@@ -76,8 +81,8 @@ print("Total conversation in June")
 print(total_conversation)
 
 
-# Export data in csv
+# Export data in csv 
 # bypass ascii encoding error
-ai_posts.to_csv('reddit_ai_new_filterbyeng_all_june.csv', index=False, encoding='utf8')
+posts.to_csv('reddit_' + subreddit_input + '_june.csv', index=False, encoding='utf8')
 
 

@@ -1,15 +1,15 @@
-## text-scraping
+# text-scraping
 Using the reddit API to scrape through text and see where are conversation hot spots.
 
-# Output
+## Output
 CSV titled reddit_SUBREDDIT_june.csv
 
-# Resources
+## Resources
 Subreddit API documentation
 https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html
 
 
-# TODO
+## TODO
 1. Term frequency, entity = parse company names, people (pre-trained)
 
 2. What big words are being used?

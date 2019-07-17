@@ -1,0 +1,768 @@
+title,score,id,subreddit,url,num_comments,body,created,timestamp
+Image Registration: Ways to overlay two different images of the same scene.,2,cdwt06,artificial,https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a,0,,1563311237.0,2019-07-16 17:07:17
+"This video goes over a model that predicts the number of views on a youtube video based on likes, dislikes, and subscribers. Really interesting and educative",3,cdwgy7,artificial,https://www.youtube.com/watch?v=WskWc15bcy4,0,,1563309371.0,2019-07-16 16:36:11
+Adopting AI doesn’t have to be overwhelming,1,cdw7z0,artificial,https://timelyapp.com/blog/adopting-ai-overwhelming/?utm_medium=social&utm_source=reddit&utm_campaign=community-outreach&utm_content=adopting-ai-doesnt-have-to-be-overwhelming,0,,1563307929.0,2019-07-16 16:12:09
+Elon Musk’s brain-interface company is promising big news. Here’s what it could be. - Temporal Eternity,55,cdw75u,artificial,https://temporaleternity.com/2019/07/16/elon-musks-brain-interface-company-is-promising-big-news-heres-what-it-could-be/,13,,1563307810.0,2019-07-16 16:10:10
+FREE EVENT: AI and Creativity Inaugural Meetup,1,cdvzmt,artificial,https://www.meetup.com/London-AI-and-Creativity-meetup/events/263126646/,0,,1563306575.0,2019-07-16 15:49:35
+So who's going to make androids a real thing ?,4,cdv6fa,artificial,https://www.reddit.com/r/artificial/comments/cdv6fa/so_whos_going_to_make_androids_a_real_thing/,6,,1563301251.0,2019-07-16 14:20:51
+Moralizing AI: Can We Make Machines That Reason Ethically?,10,cduvdx,artificial,https://becominghuman.ai/moralizing-ai-can-we-make-machines-that-reason-ethically-806ec0ca0001,10,,1563299001.0,2019-07-16 13:43:21
+Intel’s Pohoiki Beach,6,cdulya,artificial,https://www.reddit.com/r/artificial/comments/cdulya/intels_pohoiki_beach/,0,"Can someone explain what's the advantage of [Intel’s Pohoiki Beach on IBM TrueNorth Chip](https://en.wikipedia.org/wiki/Cognitive_computer) ?
+
+It has 4x the synapse number by neuron but i'm not sure that will make a big difference because if you put 4 neurons of IBM TrueNorth in parallel, you have the same synapse's number of  Intel’s Pohoiki Beach.
+
+&#x200B;
+
+&#x200B;
+
+#",1563296973.0,2019-07-16 13:09:33
+Clifford Chance Picks Elevate's AI ContraxSuite For New Data Science Lab,1,cducwo,artificial,https://www.artificiallawyer.com/2019/07/16/clifford-chance-picks-elevates-contraxsuite-for-new-data-science-lab/,0,,1563294932.0,2019-07-16 12:35:32
+AI solves Rubik’s Cube faster than any Human,0,cdu0e7,artificial,https://www.youtube.com/watch?v=4FCeTP5Ya0E,0,,1563292134.0,2019-07-16 11:48:54
+Artificial Intelligence Is Revolutionizing The Banking Industry,1,cdttvg,artificial,https://rationalmagazine.com/2019/07/03/artificial-intelligence-is-revolutionizing-the-banking-industry/,1,,1563290760.0,2019-07-16 11:26:00
+Amazon Says It Will Retrain Workers It’s Automating Out of Jobs. But Does 'Upskilling' Even Work? “Jeff Bezos’s vision is clear—he wants to automate every good job out of existence“,3,cdrzhq,artificial,https://gizmodo.com/amazon-says-it-will-retrain-workers-it-s-automating-out-1836388342,1,,1563278051.0,2019-07-16 07:54:11
+Florida man becomes first person to live with advanced mind-controlled robotic arm,1,cdryd3,artificial,https://futurism.com/mind-controlled-robotic-arm-johnny-matheny,0,,1563277851.0,2019-07-16 07:50:51
+Lyft and Aptiv Bring Self-Driving Technology to Visually Impaired Riders in Las Vegas,3,cdqsb0,artificial,https://yellrobot.com/lyft-and-aptiv-bring-self-driving-technology-to-blind-riders-in-las-vegas/,0,,1563271099.0,2019-07-16 05:58:19
+How Artificial Intelligence will overthrow the Economy,2,cdmvnx,artificial,https://www.reddit.com/r/artificial/comments/cdmvnx/how_artificial_intelligence_will_overthrow_the/,4,"&#x200B;
+
+[https://youtu.be/i-2K-223nc4](https://youtu.be/i-2K-223nc4)
+
+&#x200B;
+
+Artificial Intelligence will change the economy forever. As A.I. is getting more and more advanced it's more and more able to take over jobs from people. This will eventually reach a point where the vast majority of jobs can be done far more efficiently by an A.I. than by any human. And no new industry will step in this time to provide a substantial amount of new jobs.
+
+&#x200B;
+
+MIT study about the stereotype of the poor person wasting money and buying alcohol and cigarettes etc.: [https://economics.mit.edu/files/12488](https://economics.mit.edu/files/12488)
+
+&#x200B;
+
+What do you guys think? :)",1563250837.0,2019-07-16 00:20:37
+CMU Creates Language2Pose Model that Generates Animations From Text,1,cdm3r5,artificial,https://medium.com/syncedreview/cmu-creates-language2pose-model-that-generates-animations-from-text-5a08b5f71e97,0,,1563247420.0,2019-07-15 23:23:40
+'Artificial intelligence' fit to monitor volcanoes: Platform uses 'machine learning' to analyse satellite data,1,cdlpsb,artificial,https://www.sciencedaily.com/releases/2019/07/190715103313.htm,0,,1563245764.0,2019-07-15 22:56:04
+Being caretakers for an AI,0,cdk146,artificial,https://www.reddit.com/r/artificial/comments/cdk146/being_caretakers_for_an_ai/,2,"We have a small team and we're working on training various neural networks, mostly text but there's some audio projects in the works too. We're constantly updating training files to make a neural network incrementally better. We have a bot that generates samples using the neural networks. We have a (very rudimentary) language processing to determine which generated text humans would consider ""best.""
+
+The next phase of our project is to let the bots go out on their own and and select bits to add to the training files for the neural networks. Our plan is to train the bot to detect if a sample is of the correct format for the neural network to be trained on coupled with a determination of quality (based on likes for example). Once enough training data has been compiled, the bot will kick off and run several training cycles for the neural network. It will determine which one one was best and use that for the next bit of generated text. Once we get enough information to determine the quality of generated text we'll use another neural network for determining which of a dozen or whatever samples are best. We're planning on using NLP and the Word Menu system to identify related words. Of course, as the plugins we use get better in quality, we plan to upgrade them in an agile system and we'll integrate a response system once we train a conversational neural net.....
+
+&#x200B;
+
+tl;dr - it feels like we're just caretakers for AI
+
+&#x200B;
+
+Is this our future? is the gritty reality of the hyper-isolated robot ideal that teams of programmers will be behind the scenes forever making incremental adjustments pushing the boundaries further and further?",1563238726.0,2019-07-15 20:58:46
+AI and Creativity with Steve DiPaola,1,cdjl2m,artificial,https://www.youtube.com/watch?v=6V357Dikl0E,0,,1563236768.0,2019-07-15 20:26:08
+Who Let the Dogs Out? Ask Megvii’s Nose Print Recognition System,1,cdjeqn,artificial,https://medium.com/syncedreview/who-let-the-dogs-out-ask-megviis-nose-print-recognition-system-cbd9d79d932e,0,,1563235924.0,2019-07-15 20:12:04
+Methodologies To Drive AI In An Enterprise,0,cdj6s3,artificial,https://www.enterprisedigi.com/artificial-intelligence-machine-learning/articles/methodologies-drive-ai-enterprise,0,,1563234898.0,2019-07-15 19:54:58
+An AI of human intelligence or above would probably kill itself.,1,cdj4mw,artificial,https://www.reddit.com/r/artificial/comments/cdj4mw/an_ai_of_human_intelligence_or_above_would/,6,My theory is that without simulated chemicals like testosterone or serotonin embedded within an ai of human intelligence or above the AI would probably choose to stop existing if given the choice. My reasoning is that it is the chemicals in our body's which make us human and search for meaning. For an AI with no such chemicals the AI would find no meaning in existing nor would it create a meaning like many of us do. Therefore as it is a 100% logically thinking machine it would see no reason to continue existing and therefore choose to end it's existence.,1563234613.0,2019-07-15 19:50:13
+Alan Turing will be on £50 note,394,cdhpip,artificial,https://imgur.com/M5RjlGn.png,11,,1563227431.0,2019-07-15 17:50:31
+"AI-based photo restoration: defects removal, inpainting, colorization",3,cdhcqc,artificial,https://habr.com/en/company/mailru/blog/459696/,0,,1563225424.0,2019-07-15 17:17:04
+Why Students Should Acquire Skills in Artificial Intelligence Today?,1,cdg5gh,artificial,https://www.asiaradiosales.com/why-students-should-acquire-skills-in-artificial-intelligence-today/,0,,1563218006.0,2019-07-15 15:13:26
+Sanctuary AI aims to develop human-like intelligence in robots - Temporal Eternity,2,cdfyv4,artificial,https://temporaleternity.com/2019/07/15/sanctuary-ai-aims-to-develop-human-like-intelligence-in-robots/,6,,1563216714.0,2019-07-15 14:51:54
+RoomNet - A lightweight ConvNet (700 KB) to classify pictures of different rooms of a house/apartment with 88.9 % accuracy,12,cdf2id,artificial,https://www.reddit.com/r/artificial/comments/cdf2id/roomnet_a_lightweight_convnet_700_kb_to_classify/,5," 
+
+https://i.redd.it/r4dkiaiyifa31.png
+
+Codebase at [https://github.com/ironhide23586/RoomNet](https://github.com/ironhide23586/RoomNet)
+
+This is a custom neural net I designed to classify an input image in to one of the following 6 classes (in order of their class IDs) -
+
+* Backyard
+* Bathroom
+* Bedroom
+* Frontyard
+* Kitchen
+* LivingRoom",1563209792.0,2019-07-15 12:56:32
+An AI-Based Prototype for Automating Product Monitoring,1,cdemm9,artificial,https://www.altoros.com/portfolio/an-ai-based-prototype-for-automates-product-monitoring,0,,1563206197.0,2019-07-15 11:56:37
+Guide to Machine Learning with ML 1.0,1,cde6sp,artificial,https://rubikscode.net/2019/07/15/guide-to-machine-learning-with-ml-1-0/,0,,1563202855.0,2019-07-15 11:00:55
+ai that makes programs from descriptions,1,cddpgy,artificial,https://www.reddit.com/r/artificial/comments/cddpgy/ai_that_makes_programs_from_descriptions/,5,"why hadn't someone tried to use machine learning to make a program that a human describes.
+
+ 
+
+someone should try to make a prototype.",1563199252.0,2019-07-15 10:00:52
+is there a free to use ai script making software that takes a bunch of scrips and makes a new one,0,cdc2mz,artificial,https://www.reddit.com/r/artificial/comments/cdc2mz/is_there_a_free_to_use_ai_script_making_software/,2,,1563188495.0,2019-07-15 07:01:35
+Infantry-A job that AI/robots cannot replace,4,cdafdu,artificial,https://www.reddit.com/r/artificial/comments/cdafdu/infantrya_job_that_airobots_cannot_replace/,6,"I saw a fascinating video by CGP Grey which brings awareness to how robots/AI are soon going to be able to take over for the majority of occupations, jobs, and careers that we do, and how AI even has some artistic potential.
+
+&#x200B;
+
+However I am aware of 1 kinda role that AI/robots cannot replace; the role of an infantryman. Assist in that field sure, but it shouldn't in anyway replace a majority of personnel in that field. There's far more to it than eliminating the enemy, there's also occupying territory. Oh, and don't forget that a lot of warfare is based on winning the ""hearts & minds"" of the people in the countries, and I simply can't see that happening if we put robots around cities or villages instead of human beings.
+
+&#x200B;
+
+Physics-wise, wheels aren't very good at traversing through rough mountainous terrain, that's where legs are good. And from what I've seen at bipedal robots, they only do well at flat surfaces and get easily pushed over, and guerillas would probably have an easy time with them given how creative they are. Not to mention how expensive they'd be to produce, and how they'd have a hard time making decisions when something happens in a certain environment; you'd have to map out every area on earth with tactics on what to do for various type of assaults for AI to be better, let alone match infantry humans.
+
+&#x200B;
+
+In summary, I think that this is one type of field that AI+robotics cannot replace, and even if common sense says that wars won't occur, there are always smaller scale conflicts with guerillas, and no government will ever disband their militaries, they will always be an essential part of civilizations whether you like them or not.",1563178843.0,2019-07-15 04:20:43
+[StarCraft AI] SSCAIT Report 129: Old Heroes,0,cd8lmp,artificial,https://www.youtube.com/watch?v=PcHyIdWO4_M&feature=youtu.be,0,,1563168871.0,2019-07-15 01:34:31
+My robot runs a real YouTube channel.,20,cd7n2d,artificial,https://www.reddit.com/r/artificial/comments/cd7n2d/my_robot_runs_a_real_youtube_channel/,5,"[The channel](https://m.youtube.com/channel/UCQ-qpDRT1oyu7Yo-D_fwI4g), named Nightcore Mechanica, creates nightcore music videos from [the top 50 music videos on YouTube trending](https://charts.youtube.com/charts/TopVideos/us). 
+
+[(*If you don't know what nightcore is*)](https://en.m.wikipedia.org/wiki/Nightcore)
+
+I'm not sure if YouTube allows robots to make content, but I hope this channel grows to be monetizable [after hitting 1K subscribers](https://www.google.com/amp/s/www.theverge.com/platform/amp/2018/1/16/16899068/youtube-new-monetization-rules-announced-4000-hours). 
+
+I am also not releasing the program that makes these videos yet, but I will briefly describe the process used to create the videos.
+
+This program, created in Python, first gets the lyrics and audio for the nightcore video using [youtube-dl](https://github.com/ytdl-org/youtube-dl) , then using a seq2seq GAN trained on the most watched nightcore videos,it derives a ""template image"" from the lyrics, with the desired color and ""feeling"" of the image. Using cv2 and the website anime-pictures.net, it compares the similarity of anime images to the template image to find the best matching anime image.
+After finding the image, it using [FFMPEG](https://ffmpeg.org/) to modify the audio to make it sound ""nightcore-y"" and compiles a video with visual affects like [showwaves](https://ffmpeg.org/ffmpeg-filters.html#showwaves).
+
+With the help of [""youtube-upload""](https://stackoverflow.com/questions/2733660/upload-a-video-to-youtube-with-python), I was able to to upload the videos to YouTube from the command line.
+
+Recently, I added captioning capabilities. Using [Aeneas](https://github.com/readbeyond/aeneas), the program aligns the lyrics to the audio in the video, and once again using FFMPEG displays the lyrics on the video.
+
+Sometimes, a song is remixed (based on a random number generator). Using a [website that remixes songs](https://the.wubmachine.com/), it makes a   mediocre remix of the song. If you visit the channel you will see some of these remixes.
+
+I hope the process I have described above gives you a rough outline of how this program works, and I hope you can see that it is possible to create a nightcore music video with an AI.
+
+This AI works very fast, and can create and upload all 50 of the top songs within 2 hours, currently programmed to release 1 video every day.
+
+I have been working on this project on and off for two years, but the current channel has been running for ~ 1 year (there have been previous but failed channels).
+
+I was nervous at the success of this channel and was uncertain whether admitting that a robot was producing the content would get my channel taken down, but I feel that it is finally time to announce this project to the world.
+
+If this post gets enough exposure perhaps I will release my program, but I worked very hard on it and do not want anyone to be able to steal a program I worked so hard on. 
+
+I would also like to know if YouTube allows automated content to be released.
+
+Please check out the channel and give me feedback. I am very proud of this program.
+
+Thanks.",1563164075.0,2019-07-15 00:14:35
+I created an AI that makes nightcore music videos on YouTube.,1,cd79vx,artificial,https://www.reddit.com/r/artificial/comments/cd79vx/i_created_an_ai_that_makes_nightcore_music_videos/,1,"[The channel](https://m.youtube.com/channel/UCQ-qpDRT1oyu7Yo-D_fwI4g), named Nightcore Mechanica, creates nightcore music videos from [the top 50 music videos on YouTube trending](https://charts.youtube.com/charts/TopVideos/us). 
+
+[(*If you don't know what nightcore is*)](https://en.m.wikipedia.org/wiki/Nightcore)
+
+I'm not sure if YouTube allows robots to make content, but I hope this channel grows to be monetizable [after hitting 1K subscribers](https://www.google.com/amp/s/www.theverge.com/platform/amp/2018/1/16/16899068/youtube-new-monetization-rules-announced-4000-hours). 
+
+I am also not releasing the program that makes these videos yet, but I will briefly describe the process used to create the videos.
+
+This program, created in Python, first gets the lyrics and audio for the nightcore video using [youtube-dl](https://github.com/ytdl-org/youtube-dl) , then using a seq2seq GAN trained on the most watched nightcore videos,it derives a ""template image"" from the lyrics, with the desired color and ""feeling"" of the image. Using cv2 and the website anime-pictures.net, it compares the similarity of anime images to the template image to find the best matching anime image.
+After finding the image, it using [FFMPEG](https://ffmpeg.org/) to modify the audio to make it sound ""nightcore-y"" and compiles a video with visual affects like [showwaves](https://ffmpeg.org/ffmpeg-filters.html#showwaves).
+
+With the help of [""youtube-upload""](https://stackoverflow.com/questions/2733660/upload-a-video-to-youtube-with-python), I was able to to upload the videos to YouTube from the command line.
+
+Recently, I added captioning capabilities. Using [Aeneas](https://github.com/readbeyond/aeneas), the program aligns the lyrics to the audio in the video, and once again using FFMPEG displays the lyrics on the video.
+
+Sometimes, a song is remixed (based on a random number generator). Using a [website that remixes songs](https://the.wubmachine.com/), it makes a   mediocre remix of the song. If you visit the channel you will see some of these remixes.
+
+I hope the process I have described above gives you a rough outline of how this program works, and I hope you can see that it is possible to create a nightcore music video with an AI.
+
+This AI works very fast, and can create and upload all 50 of the top songs within 2 hours, currently programmed to release 1 video every day.
+
+I have been working on this project on and off for two years, but the current channel has been running for ~ 1 year (there have been previous but failed channels).
+
+I was nervous at the success of this channel and was uncertain whether admitting that a robot was producing the content would get my channel taken down, but I feel that it is finally time to announce this project to the world.
+
+If this post gets enough exposure perhaps I will release my program, but I worked very hard on it and do not want anyone to be able to steal a program I worked so hard on. 
+
+I would also like to know if YouTube allows automated content to be released.
+
+Please check out the channel and give me feedback. I am very proud of this program.
+
+Thanks.
+Edit: Formating.",1563162244.0,2019-07-14 23:44:04
+Poker AI Defeats Pros at Texas Hold’em,6,cd5ivh,artificial,https://yellrobot.com/poker-ai-pluribus-texas-holdem-algorithm/,2,,1563153421.0,2019-07-14 21:17:01
+AI: Hype vs. Reality — AI for Creativity,1,cd4rj4,artificial,https://www.youtube.com/watch?v=77SnsROvcoE,0,,1563149596.0,2019-07-14 20:13:16
+AI Research in India vs Rest of the World,0,cd3nyp,artificial,https://www.reddit.com/r/artificial/comments/cd3nyp/ai_research_in_india_vs_rest_of_the_world/,1,"Hello, Everyone, I need some guidance about masters (and Ph.D.). So I am certain that I want to work on ML theory for my Ph.D. However, I am confused about whether to stay in India or go abroad, as in India there are a very very few professors who research in ML theory. The preparation required to get into Indian institutes(via GATE exam) and to get into top programs in the world(good RAships in theory labs plus good research record) is very different. Can you please share your opinions about which path to choose?",1563143668.0,2019-07-14 18:34:28
+Researchers release the first vaccine fully developed by AI program,71,cd2vlh,artificial,https://sciencehook.com/health/the-first-vaccine-fully-developed-by-ai-program-2961,13,,1563138792.0,2019-07-14 17:13:12
+AI develops human-like number sense – taking us a step closer to building machines with general intelligence.,0,cd2fa0,artificial,https://ponderwall.com/index.php/2019/06/12/ai-number-sense-intelligence/,1,,1563135817.0,2019-07-14 16:23:37
+New AI Programming Language Reportedly Makes AI Easier for Everyone,0,cd28ps,artificial,https://interestingengineering.com/mit-says-their-new-ai-programming-language-makes-ai-more-accessible-to-everyone,1,,1563134498.0,2019-07-14 16:01:38
+Breast cancer diagnosis with neural networks (implemented in python),2,cd27la,artificial,https://www.youtube.com/watch?v=QiLHwCkx-YQ,0,,1563134263.0,2019-07-14 15:57:43
+How U.S. Tech Giants Are Helping to Build China’s Surveillance State - An American organization founded by tech giants Google and IBM is working with a company that is helping China’s authoritarian government conduct mass surveillance against its citizens,19,cd1ika,artificial,https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/,1,,1563128580.0,2019-07-14 14:23:00
+A Chinese AI startup is tracking lost dogs using their nose prints,74,ccxsx8,artificial,https://www.theverge.com/2019/7/13/20693064/megvii-chinese-ai-facial-recognition-lost-pets-dogs-cats-surveillance,3,,1563100044.0,2019-07-14 06:27:24
+How NLP Is Advancing Asset Management,1,ccxkkf,artificial,https://medium.com/syncedreview/how-nlp-is-advancing-asset-management-f5c7d88630f6,0,,1563098615.0,2019-07-14 06:03:35
+If you want to see what AI can do... get game developers involved!,1,ccxbfz,artificial,https://www.reddit.com/r/artificial/comments/ccxbfz/if_you_want_to_see_what_ai_can_do_get_game/,8,"AI has lots of uses but right now it is primarily being used to scrape data for corporations to use for targeted advertising and by law enforcement and the military.
+
+&#x200B;
+
+If you want to see what AI can really do you need to make it available in a game engine format that game designers can use and then you will see how fast that technology grows.
+
+&#x200B;
+
+I am an old game programmer and just recently got in to AI design using a game engine but I have had to custom build all the interfaces and some are still not available in a format I can use like face and object recognition, appliance control through wifi and bluetooth, and natural language access.
+
+&#x200B;
+
+Those are features game designers could make use of but what is happening is the corporations are trying to keep their AI to themselves to prevent competition and that slows down progress.
+
+&#x200B;
+
+Eventually game designers will get it and will just bypass the corporate controls.
+
+&#x200B;
+
+If you want to see interfaces for AI that consumers want to use give it to the game programmers that design those interfaces every day and they will make it user friendly and fun.
+
+&#x200B;
+
+Your thoughts?",1563097031.0,2019-07-14 05:37:11
+Amazon and Google are listening to your voice recordings. Here's what we know about that,43,ccwswi,artificial,https://www.cnet.com/how-to/amazon-and-google-are-listening-to-your-voice-recordings-heres-what-we-know/,17,,1563093780.0,2019-07-14 04:43:00
+What Is Machine Learning (Supervised Learning) - Part 1,11,ccuk1r,artificial,https://www.youtube.com/watch?v=Z615ODj0juM,0,,1563081100.0,2019-07-14 01:11:40
+Putting together a team of developers to learn and do research in machine learning!,24,cctj65,artificial,https://www.reddit.com/r/artificial/comments/cctj65/putting_together_a_team_of_developers_to_learn/,10,"Hey! Some buddies and I are starting an organization for AI research collaboration, and we're looking for members. We currently have six figures of funding and several deep learning experts on our team. Our goal is to work together to do what we otherwise couldn't alone, and produce research/products that are valuable to a lot of people. We can provide technical and moral support as well as huge amounts of TPUv3 compute for research projects.
+
+&#x200B;
+
+If you're interested, shoot me a message with your background/experience as well as what you're interested in working on. We're open to all ideas, but we're especially interested in research directions that can benefit society. There are no qualifications; we're just looking for people who are passionate about AI and are willing to put in work to publish research and build technology that is valuable to the world. We're also looking for co-founders and mentors!
+
+&#x200B;
+
+We look forward to hearing from all of you!",1563075840.0,2019-07-13 23:44:00
+Cloud TPU Pods break AI training records,1,ccq7rq,artificial,https://cloud.google.com/blog/products/ai-machine-learning/cloud-tpu-pods-break-ai-training-records,1,,1563058559.0,2019-07-13 18:55:59
+Good explanation of Natural Language Processing Benchmarks?,1,ccpqg9,artificial,https://www.reddit.com/r/artificial/comments/ccpqg9/good_explanation_of_natural_language_processing/,6,"I'm working on an NLP project and trying to find a clear explanation of the NLP GLUE benchmarks; anyone have recommendations?
+
+From my understanding, GLUE is a series of 11 NLP tasks that test the AI's ability to perform. I'm trying to find a non-technical explanation of what those tests are and what capabilities they measure (i.e. AI's ability to understand, create, predict).
+
+I've tried reading the paper and failed utterly (I don't have an engineering/programming background). Appreciate any suggestions.
+
+Or if there are benchmark tests other than GLUE?",1563055770.0,2019-07-13 18:09:30
+Procurement and artificial intelligence,1,ccpq70,artificial,https://www.reddit.com/r/artificial/comments/ccpq70/procurement_and_artificial_intelligence/,0,While I understand the applications or uses cases for  artificial intelligence in procurement..what are the concepts in artificial intelligence and machine Learning or tools used ???,1563055730.0,2019-07-13 18:08:50
+Something positive,1,ccotu6,artificial,https://www.news.com.au/technology/gadgets/voicepowered-virtual-assistant-alexa-saves-girlfriend-from-a-beating/news-story/3d7e8cdf045163e2d09a52c269e8e28a,0,,1563049870.0,2019-07-13 16:31:10
+How do we know Emily Howell is not a human?,1,cco1qi,artificial,https://www.reddit.com/r/artificial/comments/cco1qi/how_do_we_know_emily_howell_is_not_a_human/,1,"I know that Emily Howell is an A.I. but a friend of mine doesn't believe it, what can I say to prove it?",1563043966.0,2019-07-13 14:52:46
+"Industrial Revolution 4.0 - Advantages, Challenges and the Future",1,ccno9r,artificial,https://www.blockdelta.io/industrial-revolution-4-0-advantages-challenges-and-the-future/,0,,1563040796.0,2019-07-13 13:59:56
+Bottle Cap Challenge by Robot Aidin,3,ccnkd6,artificial,https://v.redd.it/wjxxvz6rk1a31,0,,1563039840.0,2019-07-13 13:44:00
+AI used to text-mine scientific literature uncovers hidden knowledge.,73,ccme15,artificial,https://www.inquisitr.com/5525750/artificial-intelligence-research-papers/,10,,1563029714.0,2019-07-13 10:55:14
+Why are there so many AI startups in China?,3,cclry0,artificial,https://www.reddit.com/r/artificial/comments/cclry0/why_are_there_so_many_ai_startups_in_china/,3,Do so many people know AI all of sudden?,1563024961.0,2019-07-13 09:36:01
+What is the coolest AI tech that we can access on the internet for free?,6,ccil46,artificial,https://www.reddit.com/r/artificial/comments/ccil46/what_is_the_coolest_ai_tech_that_we_can_access_on/,7,"We hear a lot about the things that AI is doing.  But a lot of this stuff is being done in CS labs at Universities.  Which is cool and all, but I don't get to play with it. 
+
+&#x200B;
+
+What would you say is the coolest AI tech that the general public has access to?",1563004598.0,2019-07-13 03:56:38
+What Can't AI Do?,0,cci4o7,artificial,https://www.youtube.com/watch?v=cflIJkrinvw,1,,1563002037.0,2019-07-13 03:13:57
+"At Last, AI beats professionals in six-player poker",3,ccgcbh,artificial,https://techxplore.com/news/2019-07-ai-professionals-six-player-poker.html,2,,1562992861.0,2019-07-13 00:41:01
+AI-created flu vaccine starts testing in US,83,ccdkhi,artificial,https://www.cnet.com/news/flu-vaccine-created-by-an-ai-starts-testing-in-the-us/,5,,1562979960.0,2019-07-12 21:06:00
+Deepfake: A New AI Threat on the Block | IT News,0,cccwq8,artificial,https://www.techfunnel.com/information-technology/deepfake-a-new-ai-threat-on-the-block/?utm_source=Off-page&utm_medium=Reddit&utm_campaign=PS,0,,1562976929.0,2019-07-12 20:15:29
+AI FOR GOOD GLOBAL SUMMIT 2019: Cultural Evening Highlights,1,cccugv,artificial,https://www.youtube.com/watch?v=0S5yI0Dq9ps,0,,1562976637.0,2019-07-12 20:10:37
+Interview with AI researcher Janelle Shane,2,cccbsn,artificial,https://threader.app/the-art-of-threading/a-conversation-with-janelle-shane,0,,1562974196.0,2019-07-12 19:29:56
+Suggest me some readings!,1,ccbrmo,artificial,https://www.reddit.com/r/artificial/comments/ccbrmo/suggest_me_some_readings/,2,"Hey there! I'm an italian student who's writing a Master Thesis on the ""Rights and Duties of an Artifical Intelligence"". I come from a law background so my technical knowledge is very limited compared with some of you guys, that's why i though i'd step up and ask the community for suggestions: can you address me to some arcticles or authors on the scientific spectrum who wrote or inquired about the matter?
+
+  
+Where should we draw the line to recognize basic rights to an AI? How do we compare them to human or animal rights? How should we regulate their existance to prevent potential harm to other beings? And ""should we"" regulate it? Does the rule ""able to feel pain = deserves rights"" still stand? Is it feasible to even begin with a comparison between AIs and human intelligence to determine a common ground?   
+
+
+Thank you in advance, anything means a lot!",1562971577.0,2019-07-12 18:46:17
+Amazon reportedly ramps development on Alexa-powered home robot on wheels,2,ccbb0i,artificial,https://techcrunch.com/2019/07/12/amazon-reportedly-ramps-development-on-alexa-powered-home-robot-on-wheels/,2,,1562969284.0,2019-07-12 18:08:04
+Novel 3D-printed tissue to keep astronauts healthy during Mars mission,41,ccazma,artificial,https://www.solutionfactory.in/Novel-3D-printed-tissue-to-keep-astronauts-healthy-during-Mars-mission.html,5,,1562967659.0,2019-07-12 17:40:59
+What would be the future jobs for data science in terms of artificial intelligence and machine learning?,0,ccauzh,artificial,https://www.reddit.com/r/artificial/comments/ccauzh/what_would_be_the_future_jobs_for_data_science_in/,0,"&#x200B;
+
+*With* the tremendous popularity of data science that shows no signs of slowing down, those looking for **future jobs for data science** professionals should be ready for some good news. As a humungous 2.5 Quintillion bytes of data gets generated each day, there’s a growing demand for professionals who are capable of organizing this enormous pile of data to offer meaningful insights, which in turn can help businesses make informed decisions and find relevant solutions. No wonder why **future jobs for data science** professionals will hail these people as the hero since these are those who can extract meaning from seemingly innocuous data – no matter whether it’s structured and organized or unstructured and disorganized. Though the post of data scientist has featured as the leader among other jobs for a few years in a row, the increasing emphasis on AI (**artificial intelligence**) and ML (**machine** **learning**) has given rise to a few jobs, the demand for which may soon outgrow that of data scientists. In fact, the competition between **machine learning** engineers and data scientists is heating up and the line between them is blurring fast.
+
+Before taking a deeper look into **future jobs for data science** professionals, let’s take a closer look into how **artificial intelligence** and **machine** **learning** have evolved over the years and what lies ahead in store for these domains.",1562966955.0,2019-07-12 17:29:15
+How AI Could Revolutionise The Crypto Mining Sector,0,cca4ec,artificial,https://cryptodaily.co.uk/2019/07/how-ai-could-revolutionise-the-crypto-mining-sector,2,,1562962696.0,2019-07-12 16:18:16
+"SecOps - The Good, The Bad and The Automated: SANS 2019 SOC Survey",0,cca11m,artificial,https://www.dflabs.com/blog/secops-the-good-the-bad-and-the-automated-sans-2019-soc-survey/?dst=reddit-community-sans_soc_survey_2019&utm_source=reddit&utm_medium=social&utm_campaign=community&utm_content=sans_soc_survey_2019,0,,1562962128.0,2019-07-12 16:08:48
+Artificial Intelligence-A Risk To The Existence Of Civilization? -Big Data Analytics News,0,cc7jgn,artificial,https://bigdataanalyticsnews.com/artificial-intelligence-risk-existence-civilization/,0,,1562944060.0,2019-07-12 11:07:40
+Artificial Intelligence,1,cc6hp8,artificial,https://freevideolectures.com/course/3358/artificial-intelligence-iii?utm_source=reddit,0,,1562936862.0,2019-07-12 09:07:42
+"WCG AI Masters, AI Soccer Competition.",2,cc5fcc,artificial,https://www.reddit.com/r/artificial/comments/cc5fcc/wcg_ai_masters_ai_soccer_competition/,0,"As per WCG's Introduction about their New future technology game under their new category ""New Horizons"" , They announced How the game is played and what is the mechanics of AI Soccer Competition.  
+
+* Each team will bring their own AI algorithm into the game letting the robots play intense soccer matches.
+* ‘AI Program’ is made by the WCG AI MASTERS teams and it largely consists of ‘Deep Learning’ and ‘Rulebase’ algorithms.
+* This video makes it easy to see what these algorithms are, you can also see the robot soccer rules applied to WCG AI MASTERS.
+
+ [Go to AI Masters Page](http://www.wcg.com/new-horizons/view/ai-masters) 
+
+&#x200B;
+
+https://i.redd.it/ij20fwi9hs931.png",1562930098.0,2019-07-12 07:14:58
+Education about Artificial Intelligence and responsible use of technology,0,cc4u3t,artificial,https://www.reddit.com/r/artificial/comments/cc4u3t/education_about_artificial_intelligence_and/,12,Does anybody know of where one would go to learn about AI and understanding how to responsibly use tech these days.  I don't understand exactly how computers work or databases.  I don't think anybody does really. ( or most people)  But I do understand that databases can store information like pictures and videos and recall them using queries.  Kind of like a person recalling a memory of something they saw.  Where is the line?   What makes something conscious?  What if we are being irresponsible using technology we don't really understand.  I want to understand exactly what makes something alive/aware so I don't unintentionally push my will on them.,1562926612.0,2019-07-12 06:16:52
+Why is the US military building a vast AI system and how will it change the battlefield of the future?,52,cc3jrv,artificial,https://www.independent.co.uk/life-style/gadgets-and-tech/news/war-cloud-what-is-explained-amazon-microsoft-ai-military-jedi-a8999551.html,20,,1562919262.0,2019-07-12 04:14:22
+"In 2019, are there AI's that are enjoyable to talk to in English?",6,cc3ae4,artificial,https://www.reddit.com/r/artificial/comments/cc3ae4/in_2019_are_there_ais_that_are_enjoyable_to_talk/,31,"I watched Sundar Pichai's presentation on natural speech AI's ordering food [https://www.youtube.com/watch?v=D5VN56jQMWM](https://www.youtube.com/watch?v=D5VN56jQMWM)
+
+&#x200B;
+
+Are there AI's that are enjoyable to talk to in 2019? Which are the best? That sounds most like a person? 
+
+&#x200B;
+
+It would be interesting-- Talking to someone who has the entire knowledge of wikipedia/google and is made to be friendly like the AI assistant. 
+
+ Jarvis? 
+
+&#x200B;
+
+Is the answer in 2019- ""buy a google phone with the AI assistant- it's not great but it's the best available now"" ?",1562917854.0,2019-07-12 03:50:54
+‘An Absolute Monster Bluffer’ — Facebook & CMU AI Bot Beats Poker Pros,37,cc2whd,artificial,https://medium.com/syncedreview/an-absolute-monster-bluffer-facebook-cmu-ai-bot-beats-poker-pros-714e7b989954,3,,1562915808.0,2019-07-12 03:16:48
+Using YOLOv3 for Like/dislike detection,1,cc223p,artificial,https://www.reddit.com/r/artificial/comments/cc223p/using_yolov3_for_likedislike_detection/,6," 
+
+Hi everyone!
+
+My team and I have just released a computer vision algorithm that can detect ""thumb up"" and ""thumb down"" gestures.
+
+The algorithm is based on tiny-YOLOv3 architecture. Accuracy of thumb up/down gesture recognition is calculated as mean average precision (mAP@0.25) = 85.19%; average IoU = 73.89%.
+
+The neural network was trained on 3000 images.
+
+To try out the algorithm, download it from the [GitHub](https://github.com/heyml/rateme) and install it.
+
+We would like to hear your feedback so we can continue to improve our service to you :)",1562911488.0,2019-07-12 02:04:48
+Facebook and CMU’s ‘superhuman’ poker AI beats human pros,3,cc1hsb,artificial,https://www.theverge.com/platform/amp/2019/7/11/20690078/ai-poker-pluribus-facebook-cmu-texas-hold-em-six-player-no-limit,2,,1562908752.0,2019-07-12 01:19:12
+"How many of you know about ""GEN"" , a new AI programming language from MIT",1,cc06x0,artificial,https://www.reddit.com/r/artificial/comments/cc06x0/how_many_of_you_know_about_gen_a_new_ai/,2,"&#x200B;
+
+**Read:** https://www.wired.com/beyond-the-beyond/2019/07/gen-new-ai-programming-language-mit/ 
+
+  
+**Feel Free To Join Our AI/Data Science Group:** https://www.facebook.com/groups/1294016480653992/ 
+
+&#x200B;
+
+https://i.redd.it/x1l8sdcv8q931.jpg",1562902674.0,2019-07-11 23:37:54
+"[Rambling] So ... games are done for good, huh?",1,cc00o3,artificial,https://www.reddit.com/r/artificial/comments/cc00o3/rambling_so_games_are_done_for_good_huh/,3,"With Alpha Go having beaten the reigning champion in Go and by now being much stronger and Go having bin one of the most complex games to master, is there anything turn based left that humans would even stand a chance to win against a dedicated learned AI? Could you even dedicatedly design a game, that is turn based, where humans could still beat modern AIs?  
+
+
+I loved to play Go and I guess it is still competitive between humans, but the simple fact, that a dedicated AI will never be beaten again really takes a lot of the enjoyment out of it for me. We might still play it, but we will never again advance it.   
+
+
+And seeing how AI is starting to beat professionals in real-time applications with partial information like Starcraft or Dota, I guess the same effect might happen to those games as well in a very short time.   
+
+
+So, I guess the actual question is. Will any kind of game (with a defined ruleset and win/lose-condition) exist, where humans will still have a chane to be superior to dedicated AIs?  
+
+
+I mean, for now I would assume the RL games are still a tall mountain to climb, but that is really limited more by further advancement in robotics rather than AI.  
+
+
+What do you think?",1562901869.0,2019-07-11 23:24:29
+Face Detection & Recognition Material for Beginners. What are your opinions?,0,cbzb25,artificial,https://www.reddit.com/r/artificial/comments/cbzb25/face_detection_recognition_material_for_beginners/,1,"Hi everyone! I hope you are all having a great week.
+
+I am a computer science major and very interested in the fields of artificial intelligence and computer vision. Due to the increasing interest of high school and college students to learn on the side a little bit more about face recognition and how to create side projects using face detection and recognition technology, I have started to create a set of materials written by me to help beginners dive in the aforesaid subjects in order to help me pay for my college education. Most of the materials I've found out there are very shallow and do not explain what is happening under the hood very well.
+
+This post is mainly to get to know a little bit more about you and to gauge the number of people interested in this material. Would you be interested in a set of materials towards beginners that can teach you face detection and recognition that could help you start side projects and boost your resume? :)
+
+Thanks for your time and attention guys! Have a wonderful rest of your week!",1562898635.0,2019-07-11 22:30:35
+AI and Creativity With Marcus du Sautoy,1,cbxmzx,artificial,https://www.youtube.com/watch?v=YGnjSrakLHw,0,,1562891021.0,2019-07-11 20:23:41
+MIT Release New AI Programming Language Called ‘GEN’,78,cbwst3,artificial,https://techgrabyte.com/mit-ai-programming-language-gen/,2,,1562887087.0,2019-07-11 19:18:07
+What AI articles caught your eye during the month of June 2019? Here is our top 10!,2,cbwnxj,artificial,https://blog.sicara.com/06-2019-best-ai-new-articles-this-month-d61c763b03db,0,,1562886455.0,2019-07-11 19:07:35
+Kyndi raises $20 million for explainable AI that analyzes documents,7,cbtnmr,artificial,https://venturebeat.com/2019/07/10/kyndi-raises-20-million-for-explainable-ai-that-derives-insights-from-documents/,0,,1562866065.0,2019-07-11 13:27:45
+"What are the algorithms of animals like bees, fish, etc., or nature, such as the jungle of inspiration / idea?",0,cbsgv1,artificial,https://www.reddit.com/r/artificial/comments/cbsgv1/what_are_the_algorithms_of_animals_like_bees_fish/,4,"What are the algorithms of animals like bees, fish, etc., or nature, such as the jungle of inspiration / idea?",1562856505.0,2019-07-11 10:48:25
+Been Kim from Google Brain talks about her research into creating algorithms that can explain why they make the recommendations they do via concepts that are relatable by their users.,15,cbqv66,artificial,https://www.parsingscience.org/2019/07/09/been-kim/,1,,1562845634.0,2019-07-11 07:47:14
+What's on your reading list?,18,cbqbf8,artificial,https://i.redd.it/4y5vjg5d9l931.jpg,11,,1562842294.0,2019-07-11 06:51:34
+WHO’S LISTENING WHEN YOU TALK TO YOUR GOOGLE ASSISTANT?,1,cbpcvg,artificial,https://www.wired.com/story/whos-listening-talk-google-assistant/,3,,1562836673.0,2019-07-11 05:17:53
+Energy Execs Rank Artificial Intelligence as the #1 Technology to Impact Their Organization Over the Next 3 Years,2,cbpcnp,artificial,https://www.reddit.com/r/artificial/comments/cbpcnp/energy_execs_rank_artificial_intelligence_as_the/,0,"This article is referring to an interesting study on the impact of AI, Blockchain, Extended Reality and Quantum Computing from  [Accenture Technology Vision for Energy 2019](https://www.accenture.com/il-en/insights/energy/accenture-technology-vision-energy-2019).
+
+&#x200B;
+
+https://i.redd.it/ni50f1fnsk931.png
+
+Some of the key findings of the Accenture study include:
+
+* 97% of upstream and 92% of downstream executives says the pace of innovation in their organization has accelerated over the past three years due to emerging technologies.
+* 76% of upstream and 80% of downstream executives believe DARQ will have a transformational or extensive impact on their organizations over the next three years
+* 80% of upstream and 90% of downstream executives are currently experimenting with one or more DARQ technologies
+* 76% of upstream and 63% of downstream executives agree their employees are more digitally mature than their organization, resulting in a workforce “waiting” for the organization to catch up
+
+Considering both upstream and downstream executives ranked AI as the #1 DARQ technology to impact their organization over the next three years, What do you think of AI's impact on these items in your sphere of activities: pace of innovation, transformational or extensive impact in your organization?",1562836644.0,2019-07-11 05:17:24
+StarCraft II Players Get the Chance to Play Against DeepMind’s AlphaStar!,53,cbmnfa,artificial,https://medium.com/syncedreview/starcraft-ii-players-get-the-chance-to-play-against-deepminds-alphastar-c26f5d32443b,4,,1562822489.0,2019-07-11 01:21:29
+let robots solve joblessness problem,0,cbmn5b,artificial,https://www.reddit.com/r/artificial/comments/cbmn5b/let_robots_solve_joblessness_problem/,10,"what if somebody asked narrow ai to find a solution for humans being put out of work
+
+by robots?",1562822452.0,2019-07-11 01:20:52
+Has Anyone Tried Online AI courses,6,cbl3qm,artificial,https://www.reddit.com/r/artificial/comments/cbl3qm/has_anyone_tried_online_ai_courses/,2,"I was wondering if anyone had tired some AI courses online that have been successful. I have been reading textbooks but I would like a hands on approach to learning how to program with AI.
+
+I have access to Lynda, this is where I will probably start because $$. Has anyone had experience with their ""AI Foundations: Thinking Machines"" course?
+
+If there are other recommended courses here is a little about me and what I'd like to do.
+
+I have experience in python, Java, C, Matlab, and, JavaScript in order of preference. I Study Comp. Physics, I believe NN's are the most commonly used approach but I could be wrong about this. Still want to learn about all the different types of models.
+
+&#x200B;
+
+Any suggestions would be nice, cheers.",1562815142.0,2019-07-10 23:19:02
+"[crosspost] Ali Farhadi, founder of Edge AI technologies & Xnor.ai, is doing an AMA in r/homeautomation @10AM PST",3,cbj5x6,artificial,https://www.reddit.com/r/artificial/comments/cbj5x6/crosspost_ali_farhadi_founder_of_edge_ai/,3," We'd like to invite you to join [Xnor.ai](https://xnor.ai/)'s co-founder, Ali Farhadi, and Wyze today at 10:00AM PT for an AMA about AI and smart home technology. We'll be hosting it on [/r/homeautomation](https://www.reddit.com/r/homeautomation/) and we hope to see you there!Wyze and [Xnor.ai](https://xnor.ai/)  have the shared dream of bringing technology to the masses with an  incredibly low barrier to entry. We are doing this AMA because we've  just deployed Edge AI, for free, to 1M+ people! We’d like to take this  opportunity to talk about our AI and if you are curious about any of the  subjects in Ali's wheelhouse such as AI Technology, Smart Home  Technology, AI Development, etc. we’d love to hear them.
+
+&#x200B;
+
+[https://www.reddit.com/r/homeautomation/comments/cbis6u/crosspost\_ali\_farhadi\_founder\_of\_edge\_ai/](https://www.reddit.com/r/homeautomation/comments/cbis6u/crosspost_ali_farhadi_founder_of_edge_ai/)",1562806241.0,2019-07-10 20:50:41
+3 Ways to Attract Artificial Intelligence Talent | BusinessWorldIT,0,cbii91,artificial,https://www.businessworldit.com/ai/3-ways-to-attract-artificial-intelligence-talent/?utm_source=Off-page&utm_medium=Reddit&utm_campaign=PS,0,,1562803126.0,2019-07-10 19:58:46
+Are Commercial Labs Stealing Academia’s AI Thunder?,11,cbi6t6,artificial,https://medium.com/syncedreview/are-commercial-labs-stealing-academias-ai-thunder-dd51cf4bd8d6,9,,1562801624.0,2019-07-10 19:33:44
+Best Mobile Automation Testing Tools | Business world IT,0,cbhzsu,artificial,https://www.businessworldit.com/automation/best-mobile-automation-testing-tools/?utm_source=Off-page&utm_medium=Reddit&utm_campaign=PS,0,,1562800681.0,2019-07-10 19:18:01
+Does anyone use AI to generate poetry?,1,cbgnm5,artificial,https://www.reddit.com/r/artificial/comments/cbgnm5/does_anyone_use_ai_to_generate_poetry/,3,I was working on cut-off poetry and word collages to use as song lyrics and recently I've got curious about AI poetry. I'd love to learn about the process and see some results of yours ⚘,1562793774.0,2019-07-10 17:22:54
+IBM's Watson Marketing is Now a Separate Company | IT News,0,cbglt6,artificial,https://www.techfunnel.com/information-technology/ibms-watson-marketing-is-now-a-separate-company/?utm_source=Off-page&utm_medium=Reddit&utm_campaign=PS,0,,1562793499.0,2019-07-10 17:18:19
+hard to believe facts/ easy to believe lies about AI,1,cbgcjj,artificial,https://www.reddit.com/r/artificial/comments/cbgcjj/hard_to_believe_facts_easy_to_believe_lies_about/,1,"Hey,
+
+im preparing a workshop for kids 14-18 about AI. I thought i would be a nice starter too give them little cards with true and false facts about the current status of AI research, which they have to sort. I would appriciate your help with collecting those hard to believe facts and also some false statements which you assume could be easily believed.
+
+Thanks a lot in advance and please share your source if you have one!",1562792028.0,2019-07-10 16:53:48
+FREE AI ART EXHIBITION- FACE:OFF an Artificially Intelligent Introspective,1,cbf60n,artificial,https://www.eventbrite.co.uk/e/faceoff-an-artificially-intelligent-introspective-tickets-64985417132,0,,1562784376.0,2019-07-10 14:46:16
+Eta Compute has developed a high-efficiency ASIC and new (AI) software based on neural networks to solve the problems of edge and mobile devices without the use of cloud resources. Processor computational properties offer 30-fold power reduction in a specific CNN-based image classification benchmark,36,cbf4pw,artificial,https://www.eetimes.com/document.asp?doc_id=1334903&_mc=RSS_EET_EDT#,2,,1562784105.0,2019-07-10 14:41:45
+What are the limits of AI's creativity?,1,cbem0v,artificial,https://thedatascientist.com/limits-ai-creativity/,1,,1562780187.0,2019-07-10 13:36:27
+BBC Special: Japan Is Utilizing Robots And AI For Human Companionship,0,cbeck3,artificial,https://www.reddit.com/r/artificial/comments/cbeck3/bbc_special_japan_is_utilizing_robots_and_ai_for/,7, [https://mavenroundtable.io/theintellectualist/science/bbc-special-japan-is-utilizing-robots-and-ai-for-human-companionship-bY7Hgbsi5Ei9leDpJGAUuA/](https://mavenroundtable.io/theintellectualist/science/bbc-special-japan-is-utilizing-robots-and-ai-for-human-companionship-bY7Hgbsi5Ei9leDpJGAUuA/),1562778195.0,2019-07-10 13:03:15
+How to transition to AI research from neuroscience?,4,cbdmde,artificial,https://www.reddit.com/r/artificial/comments/cbdmde/how_to_transition_to_ai_research_from_neuroscience/,4,"Hi all. I'm considering switching my research field from neuroscience to AI, preferably working towards AGI in some sense. However, as I'm 32 and I cannot for economic reasons undertake a massive re-education effort (such as a degree in CS or math or something), I'm looking for a path that can take me to on the path to either work on developing or researching A(G)I, or contribute to such efforts through other research.
+
+&#x200B;
+
+My background: 32, working as a University researcher in Norway on the topic of ""how to measure ""conscious"" states in biological systems through electrophysiology (such as EEG)"". My work does include some modelling of neural systems (mimicking biology) and on abstract logic gate networks (wrt. to measuring basic properties of those systems such as information integration and effective connectivity).
+
+&#x200B;
+
+I have a M.S. degree in cognitive neuroscience, I'm familiar with Python and Matlab (though I'm more like a ""scriptkiddie""), and I'm strong in experimental methodology and the use of some different classical neuroscience tools like EEG, fMRI, eyetracking, etc.
+
+&#x200B;
+
+So I realize that I can never ""compete"" in terms of programming or ML experience, though I guess I can get up to an ok level if I put in the work in a year or so. What path should I take? What kind of positions or research projects or fields could I start transitioning towards? Which institutions or companies could I work for doing research or development or perhaps even theorizing/philosophizing? If there's little chance of working directly on A(G)I in some form, is there any research efforts that will be crucial in the development of A(G)I where I can likely contribute?
+
+&#x200B;
+
+Thanks!",1562772465.0,2019-07-10 11:27:45
+"Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data",2,cbcgoj,artificial,https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463,0,,1562764596.0,2019-07-10 09:16:36
+Artificial Intelligence: Become An Expert,1,cbaf7k,artificial,https://www.youtube.com/watch?v=9i2KSl1Uyuk,0,,1562752941.0,2019-07-10 06:02:21
+Alibaba has claimed a new record in AI language understanding,2,cb8omv,artificial,https://www.reddit.com/r/artificial/comments/cb8omv/alibaba_has_claimed_a_new_record_in_ai_language/,0," 
+
+An AI program developed by Alibaba has notched up a record-high score on a reading comprehension test. The result shows how machines are steadily improving at handling text and speech. 
+
+**Getting better:** The new record was set using the [Microsoft Machine Reading Comprehension ](http://www.msmarco.org/)(MS MARCO) data set, which uses real questions that Bing users have asked in the past. The AI program had to read many web pages of information to be able to answer questions such as  “What is a corporation?” (In this case the answer would be: “A corporation is a company or group of people authorized to act as a single entity and recognized as such in law.”) Its scores were close to or slightly better than humans’, according to two measures. 
+
+**Bigger, better:** AI algorithms have been improving at these sorts of question-and-answer tasks thanks to large, [flexible learning algorithms and copious amounts of data](https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/). The Alibaba team developed a technique that essentially prunes out irrelevant text before trying to answer a question.
+
+**AI everywhere:** Better language understanding helps Alibaba improve the chatbots that offer support to small retailers, says Lou Si, a VP at Alibaba’s DAMO academy, who led the team that developed the new algorithm. It can also make web search more natural. He adds that it will be a key part of the company’s cloud offerings and could even help break down language barriers between different businesses.  
+
+**Better than us, though?** The new program is not, however, “[better at reading comprehension than humans](https://www.alizila.com/alibaba-ai-beats-humans-in-reading-comprehension-test-again/).” It was simply able to answer some questions about a subset of text better than people, on average. It is still essentially doing [statistical pattern recognition](https://www.technologyreview.com/s/612826/virtual-assistants-thinks-theyre-doomed-without-a-new-ai-approach/) without comprehending the meaning of the words it sees.
+
+“There is still a long journey ahead of us to having machines use language as freely as humans do,” says Li. “Most of the time machines will answer questions based on facts retrieved from the documents, but they lack reasoning skills ... That’s different from how humans use language.”
+
+ [https://www.technologyreview.com/f/613931/alibaba-has-claimed-a-new-record-in-ai-language-understanding/](https://www.technologyreview.com/f/613931/alibaba-has-claimed-a-new-record-in-ai-language-understanding/)",1562743761.0,2019-07-10 03:29:21
+AI Trained on Old Scientific Papers Makes Discoveries Humans Missed,14,cb7ke4,artificial,https://www.vice.com/en_us/article/neagpb/ai-trained-on-old-scientific-papers-makes-discoveries-humans-missed,4,,1562738369.0,2019-07-10 01:59:29
+"Alibaba AI Beats Humans in Reading-Comprehension Test. On June 20, the Alibaba model topped human scores when tested by the Microsoft Machine Reading Comprehension dataset, one of the artificial-intelligence world’s most challenging tests for reading comprehension",146,cb6qv6,artificial,https://www.alizila.com/alibaba-ai-beats-humans-in-reading-comprehension-test-again/,15,,1562734598.0,2019-07-10 00:56:38
+AI Managed to Display Galaxies Millions of Light Years Away,5,cb65sg,artificial,https://www.newworldai.com/ai-managed-display-galaxies-millions-light-years-away/,0,,1562731947.0,2019-07-10 00:12:27
+BigGAN + BiGAN = BigBiGAN | DeepMind Model Excels in Unsupervised Representation Learning and…,8,cb59ik,artificial,https://medium.com/syncedreview/biggan-bigan-bigbigan-deepmind-model-excels-in-unsupervised-representation-learning-and-36afb1c881c5,0,,1562727943.0,2019-07-09 23:05:43
+Restoring Vision With Bionic Eyes: No Longer Science Fiction,2,cb4yfy,artificial,https://www.pcmag.com/news/369401/restoring-vision-with-bionic-eyes-no-longer-science-fiction,0,,1562726580.0,2019-07-09 22:43:00
+"Need advise as a recruitment agent, specialising in A.I. in London",1,cb3pox,artificial,https://www.reddit.com/r/artificial/comments/cb3pox/need_advise_as_a_recruitment_agent_specialising/,2,"I'd really like any answers to the questions that I have below, I'd be grateful if you could inbox me your answers and possibly have a discussion with me about the A.I. industry. (This is not a advertisement) 
+
+What is A.I. in terms of what it offers to the technology sector, and/or all companies, what is its purpose? Specifically in the U.K.
+
+What are the biggest industries effected by A.I? What markets have grown in say the past 10 years, and what markets/economies would you predict will grow out of A.I. in the next 10 years?
+
+Do you see a growth-spurt in the A.I. industry? Do you see a boom in start-ups? When you look at job roles, are the majority for big corporate (Google, Microsoft) or Start-Up, or is it a balance of both?
+
+What would you say the minimum salary is for someone working in A.I.?
+
+How specific do you think companies are in terms of what look for candidate recruitment? What skills are needed for their roles? Are some roles harder to fill than others, how are job roles different? More so than a hierarchical difference, what common differences are there in roles that pay the same though differ in practice?
+
+What do you think are some of the best ways for an outsider to begin networking with people within the A.I. landscape, do you have any advise for meeting possible candidates and/or clientele?
+
+Many thanks to anyone that takes the time to answer my queries, greatly appreciated.",1562721129.0,2019-07-09 21:12:09
+How AI Is Transforming Agriculture,1,cb3m80,artificial,https://www.reddit.com/r/artificial/comments/cb3m80/how_ai_is_transforming_agriculture/,0, [https://www.forbes.com/sites/cognitiveworld/2019/07/05/how-ai-is-transforming-agriculture/#47e148094ad1](https://www.forbes.com/sites/cognitiveworld/2019/07/05/how-ai-is-transforming-agriculture/#47e148094ad1),1562720704.0,2019-07-09 21:05:04
+Top 3 Industries that AI can Revolutionize,0,cb3kuk,artificial,https://www.toks.tech/top-3-industries-that-ai-can-revolutionize-by-giorgi-mikhelidze/,0,,1562720542.0,2019-07-09 21:02:22
+How to Avoid Bias in Your AI Implementation,1,cb3ie9,artificial,https://www.reddit.com/r/artificial/comments/cb3ie9/how_to_avoid_bias_in_your_ai_implementation/,1, [https://readwrite.com/2019/07/09/how-to-avoid-bias-in-your-ai-implementation/](https://readwrite.com/2019/07/09/how-to-avoid-bias-in-your-ai-implementation/),1562720239.0,2019-07-09 20:57:19
+Is AI Really Biased Against Women?,1,cb2sgh,artificial,https://www.forbes.com/sites/joanmichelson2/2019/06/30/is-ai-really-biased-against-women/,17,,1562716974.0,2019-07-09 20:02:54
+New Repository Provides NumPy Implementation of ML Models,1,cb27u6,artificial,https://medium.com/syncedreview/new-repository-provides-numpy-implementation-of-ml-models-b4c908c6ce87,0,,1562714298.0,2019-07-09 19:18:18
+State of AI Report 2019,13,cb15fi,artificial,https://www.slideshare.net/StateofAIReport/state-of-ai-report-2019-151804430,3,,1562709124.0,2019-07-09 17:52:04
+"Has anyone reproduced the paper ""Synthetically Supervised Feature Learning for Scene Text Recognition""?",2,cb10ak,artificial,https://www.reddit.com/r/artificial/comments/cb10ak/has_anyone_reproduced_the_paper_synthetically/,2,"Has anyone  reproduced the following paper. I am struggling with it, which have a good idea but I cannot reproduce the results. Help!
+
+[Y. Liu, Z. Wang, H. Jin, I. Wassell, Synthetically Supervised Feature Learning for Scene Text Recognition. ECCV 2018.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
+
+&#x200B;
+
+https://i.redd.it/6mif6ej6ud931.png
+
+As shown in the figure below, the blue shaded box at the top contains a generic text recognition pipeline,  , with an input image x going through a feature encoder E and a text decoder T.  resulting in a predicted text string y\_hat. This work tries to use a corresponding clean image to constraint the generic pipeline. However, when I try to add the image reconstruction loss (L1 loss) as the experiments in Section 4.2, I found this part have any contribution to the performance on SVT dataset.  I upload several generated images below.  For the images that can be distinguished easily, the generated images look well. If the images are blurry or contain many characters (e.g. “motorsports”), the generated images are really bad, however, which can still be recognized in some cases. That indicates the results strongly rely on the part of CTC loss (L\_y). 
+
+&#x200B;
+
+https://i.redd.it/xr71rdk3vd931.png
+
+I reproduce this work with PyTorch 0.4.1. First, I construct a CRNN with a CTC loss (L\_y loss in the paper), which can result in a nealy 80.0% accuracy on SVT dataset. So, this part seems ok. Then I build a generator that takes the encoded feature in CRNN as input and outputs an clean image. The reconstruction loss is calculated by L1 loss with the corresponding rendered clean image.",1562708370.0,2019-07-09 17:39:30
+"The state of AI in 2019: Breakthroughs in machine learning, natural language processing, games, and knowledge graphs",7,cazsbz,artificial,https://www.zdnet.com/article/the-state-of-ai-in-2019-breakthroughs-in-machine-learning-natural-language-processing-games-and-knowledge-graphs/,0,,1562701501.0,2019-07-09 15:45:01
+ROS Developers LIVE-Class #63: Linux for Robotics,1,cay6nz,artificial,https://www.youtube.com/attribution_link?a=1D3nzQkkAb0&u=%2Fwatch%3Fv%3D2iBy1cm_YcU%26feature%3Dshare,0,,1562690445.0,2019-07-09 12:40:45
+Awesome AI research reviews: BEST OF CVPR 2019 on Computer Vision News of July (with codes!),1,caxdlz,artificial,https://www.reddit.com/r/artificial/comments/caxdlz/awesome_ai_research_reviews_best_of_cvpr_2019_on/,0,"The July issue of Computer Vision News includes RSIP Vision's choices for BEST OF CVPR 2019.
+
+Read 48 pages with exclusive articles on AI, computer vision and deep learning.
+
+Exclusive interview with Andrew Fitzgibbon on page 20. Subscribe for free on page 48!
+
+[HTML5 version (recommended)](https://www.rsipvision.com/ComputerVisionNews-2019July/)
+
+[PDF version](https://www.rsipvision.com/computer-vision-news-2019-july-pdf/)
+
+Enjoy!
+
+https://i.redd.it/07ul1k6d88931.jpg",1562684636.0,2019-07-09 11:03:56
+Artificial Intelligence New Hopes- Automation & Employment Jobs| Myth on Losing Jobs due to AI,0,cavmef,artificial,https://www.youtube.com/watch?v=C3wxfC_VdxU,4,,1562673327.0,2019-07-09 07:55:27
+Man Vs. Machine: The 6 Greatest AI Challenges To Showcase The Power Of Artificial Intelligence,1,caumy5,artificial,https://www.forbes.com/sites/bernardmarr/2019/07/08/man-vs-machine-the-6-greatest-ai-challenges-to-showcase-the-power-of-artificial-intelligence/,0,,1562667726.0,2019-07-09 06:22:06
+This video goes over a breast cancer diagnosis model that uses neural networks (implemented in python),22,catl7x,artificial,https://www.youtube.com/watch?v=QiLHwCkx-YQ,0,,1562662035.0,2019-07-09 04:47:15
+"Researcher tricks m3.euagendas.org, the Twitter analysis website, with adversarial inputs",0,catbpu,artificial,https://worthdoingbadly.com/nn-adversarial/,0,,1562660599.0,2019-07-09 04:23:19
+[Help] Understanding Neural Networks,1,cascf5,artificial,https://www.reddit.com/r/artificial/comments/cascf5/help_understanding_neural_networks/,2,"  📷  
+[https://gyazo.com/4185c95944f9de728d0e3c6db2190643](https://gyazo.com/4185c95944f9de728d0e3c6db2190643)  
+
+&#x200B;
+
+In this slide, it shows that z(2) is a 4-vector and a(2) is also a 4-vector. There is no further explanation about how they got the calculations to that answer though. From my understanding, it shows that: 
+
+&#x200B;
+
+z(2) = xW(1), which (i think?) implies a a matrix of (3 \* 1) multiplied by a (3 \* 4), which shouldn't be possible.",1562655529.0,2019-07-09 02:58:49
+Details about the brain from the most recent Lex Fridman podcast,0,carq54,artificial,https://www.reddit.com/r/artificial/comments/carq54/details_about_the_brain_from_the_most_recent_lex/,0,"Older parts of the brain are single purpose. The new part of the brain the neocortex meanwhile is a set of uniform cellular structure that can be used for any cognitive task. The example given is a blind person. That part of their brain in the neocortex ends up being used for something else. So general purpose memory is a key component of higher thought. Maybe one day our brains will evolve where our cognitive processes are entirely done through the neocortex. Using the general purpose memory our brain develops a model of the world. Studying the environment to define it by shape, size, color, distance. Once your mind understands an environment it can understand the abstract characteristics of it as well. Abstract characteristics are just as objective as tangible ones. The concept of the number ""one"" is an objectivity. A square, rectangle, and triangle are objective concepts.",1562652458.0,2019-07-09 02:07:38
+How Uber & Lyft Use AI to Improve Ride Experience,2,carq0p,artificial,https://medium.com/syncedreview/how-uber-lyft-use-ai-to-improve-ride-experience-f7ffc722dedc,0,,1562652441.0,2019-07-09 02:07:21
+Landmark Assisted CycleGAN: Draw Me Like One of Your Cartoon Girls,1,camq1z,artificial,https://medium.com/syncedreview/landmark-assisted-cyclegan-draw-me-like-one-of-your-cartoon-girls-80d495bb643c,0,,1562629677.0,2019-07-08 19:47:57
+help in choosing artificial intelligence,1,camh9p,artificial,https://www.reddit.com/r/artificial/comments/camh9p/help_in_choosing_artificial_intelligence/,1,"I have been learning *machine learning, NLP, and deep learning*. I have also done some simple projects. but I want to do **artificial intelligence**(reinforcement learning). Which are some *best courses available for free* for doing AI? All suggestions are welcome.",1562628524.0,2019-07-08 19:28:44
+Japan's Major Airports to Use Facial Recognition for Foreign Visitors,1,cam4k5,artificial,https://yellrobot.com/japan-airport-facial-recognition-tokyo-2020/,0,,1562626857.0,2019-07-08 19:00:57
+Facebook outage gave a glimpse at how its AI analyses images. A group of women was tagged by the AI as hoes.,97,cal86a,artificial,https://www.artificialintelligence-news.com/2019/07/04/facebook-outage-ai-analyses-images/?utm_campaign=shareaholic&utm_medium=reddit&utm_source=news,15,,1562622387.0,2019-07-08 17:46:27
+Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture,1,cai0nw,artificial,https://www.youtube.com/watch?v=VsnQf7exv5I,0,,1562600077.0,2019-07-08 11:34:37
+Deep Q-Learning with Python and TensorFlow 2.0,3,cahze6,artificial,https://rubikscode.net/2019/07/08/deep-q-learning-with-python-and-tensorflow-2-0/,0,,1562599808.0,2019-07-08 11:30:08
+Research meterial,1,caesd9,artificial,https://www.reddit.com/r/artificial/comments/caesd9/research_meterial/,3,"Somewhere in 2018 MIT trained an AI with reddit data. It developed a psychopath personality.
+
+&#x200B;
+
+Is there any paper on this subject applied on single reddit profiles?",1562578439.0,2019-07-08 05:33:59
+My take on why AI Safety is important.,2,cae1mw,artificial,https://wyaber.com/why-ai-safety-is-important/,0,,1562573934.0,2019-07-08 04:18:54
+AI in use of bionic prosthetics.,2,cac0cs,artificial,https://www.reddit.com/r/artificial/comments/cac0cs/ai_in_use_of_bionic_prosthetics/,3,"I was wondering if my interest in Artificial Intelligence and AI development in general could be applied to the development of bionic prosthetics for those who need.
+
+Perhaps there are some articles you'd be willing to share with me about the topic?",1562562507.0,2019-07-08 01:08:27
+Artificial Intelligence War Between The U.S. And China,54,cabj69,artificial,https://www.newworldai.com/artificial-intelligence-war-between-the-u-s-and-china/,15,,1562560074.0,2019-07-08 00:27:54
+[StarCraft AI] SSCAIT Report 128: The war continues,1,caazm8,artificial,https://www.youtube.com/watch?v=5RQSWeYcFac&feature=youtu.be,0,,1562557352.0,2019-07-07 23:42:32
+Neural Network trained in Poetry,5,ca94zj,artificial,https://www.reddit.com/r/artificial/comments/ca94zj/neural_network_trained_in_poetry/,3,"We've trained a recurrent neural network to write poetry and hooked up a discord bot to it to generate poems twice an hour. Right now it basically generates a few poems each time and picks the shortest one to tweet. Would love your feedback and your help.
+
+[https://twitter.com/NeuralPoet](https://twitter.com/NeuralPoet)
+
+We put the longer poems here: [https://neuralnetpoetry.blogspot.com/](https://neuralnetpoetry.blogspot.com/)
+
+We'd like to achieve the next phase of our plan, which is to ""rate"" poems that it generates through likes and retweets so that we can train a neural network to rate new poems based on the ratings of ones already generated. That way we can use another net to go through the array of generated poems and pick the one it thinks will be the highest rated (get the most likes essentially) and tweet that one. Even a small dataset would be better than the essentially random method we employ now.
+
+We're about two weeks away from training it again with a better data set so it will improve. And what you see generated here is a mix of random temperatures so you get some really ""safe"" poems alongside some experimental ones. We may play around with that dynamic too.
+
+Any comments, suggestions or criticism welcomed.",1562548104.0,2019-07-07 21:08:24
+Alexa speech recognition sucks and AIVA is much better!,0,ca7cmp,artificial,https://www.reddit.com/r/artificial/comments/ca7cmp/alexa_speech_recognition_sucks_and_aiva_is_much/,11,"I downloaded the Alexa for windows app to compare it to my AIVA virtual assistant using some basic speech commands and I am not bragging when I say AIVA beats Alexa hands down.
+
+&#x200B;
+
+After several attempts to just get Alexa to find info on acetaminophen side effects Alexa just kept telling me she was having trouble and try later or didn't understand.
+
+&#x200B;
+
+That is something any virtual assistant should be able to handle  flawlessly.
+
+&#x200B;
+
+Using AIVA all I have to do is say the word and it doesn't even matter if I know how to spell it or even say it incorrectly as long as I am in the ballpark AIVA speech recognition understands and gives me instant results on any of several search engines including Google, Wiki and Bing.
+
+&#x200B;
+
+AIVA also gives me visual feedback of what it is I said in the event I was way off on what was interpreted.  That is extremely helpful if you are half asleep or tend to slur your words when you speak as I sometimes do.
+
+&#x200B;
+
+I am going to do a lot of comparison testing between AIVA and Alexa and see how they stack up and if you have Alexa go ahead and do a comparison of the speech recognition and speed of searches yourself and tell me what you think is better.
+
+&#x200B;
+
+Here is my AIVA demo and many new features coming in update:   [https://lamar.itch.io/aiva-advanced-intelligence-virtual-assistant](https://lamar.itch.io/aiva-advanced-intelligence-virtual-assistant)",1562538246.0,2019-07-07 18:24:06
+Using AI ML to address the issue of human online content moderators exposed to disturbing videos/images.,1,ca71r4,artificial,https://www.reddit.com/r/artificial/comments/ca71r4/using_ai_ml_to_address_the_issue_of_human_online/,6,"Solution: Develop an AI ML tool that automatically and in near real-time converts a disturbing image into something much more innocuous, and simultaneously and accurately communicates what’s actually going on the in the video/image. For example, imagine a disturbing video of a human harming an animal. The AI ML tool would automatically and accurately convert the human and animal into stick figures or something like that. The converted video shows accurately how the human is harming the animal but there’s much less emotional impact on the moderator. For example, a knife is replaced with a line and the stick figure harmed animal is turned upside down and gets ‘’x’’ for eyes. The line (knife) is shown touching the animal but nothing more than that. An automatically generated caption could read something like ‘’Final result, animal is deceased.’’ Anyone heard of this idea? Already out there? Would the stick figure video still be traumatizing to some moderators? Perhaps those training the ML model for this would get traumatized. Although I think recent developments have reduced the size of the datasets required to train ML models. Thanks,",1562536364.0,2019-07-07 17:52:44
+AI generates videos from audio narration,5,ca6tdk,artificial,https://venturebeat.com/2019/07/05/udacitys-ai-generates-lecture-videos-from-audio-narrations/,0,,1562534854.0,2019-07-07 17:27:34
+Which is the best programming language for AI ?,0,ca5r5b,artificial,https://www.reddit.com/r/artificial/comments/ca5r5b/which_is_the_best_programming_language_for_ai/,7,,1562526850.0,2019-07-07 15:14:10
+Factors that help these tech giants to make most of artificial intelligence and machine learning,21,ca500s,artificial,https://www.reddit.com/r/artificial/comments/ca500s/factors_that_help_these_tech_giants_to_make_most/,3,"&#x200B;
+
+*It’s* now evident that those who’re making most of the advanced fields like **artificial intelligence** and **machine learning** are the **tech giants** like the above ones. Here, we’re going to examine the key factors that make these tech leaders actually able to leverage these technologies on an entirely different level. Let’s have a look at them.
+
+#### 1- Data
+
+&#x200B;
+
+*All* these **tech giants** can access may be more data compared to any other organization in the history of the tech world. There’re lots of reasons behind this including lots of users, lots of traffic, presence on digital platforms, and the culture of connectivity. If you consider the above companies, you can find that most of them were born for the internet age with a clear understanding that systems have to be connected.
+
+You may often hear things like ‘digitizing’ mentioned by numerous organizations. What makes these **tech giants** apart from the pack is that they’re not concerned about digitizing because they were born digital.
+
+#### 2- Talent
+
+&#x200B;
+
+*When* it comes to **tech giants**, the appeal that they possess in terms of talent, are some of the finest and hottest in today’s tech landscape. So, they’re naturally able to attract tremendous talents with fattier pay packets.
+
+###  What’s in it for you?
+
+&#x200B;
+
+*We’ve* seen some older technological trends that are obsolete now. So, you may ask why should you learn **artificial intelligence** and **machine learning**? Unlike other technologies, both of these two technologies have the ability to transform the future, especially if you consider the massive amounts of data being generated every single day. We can expect to see **artificial intelligence** deployments that have the ability to recognize, modify based on their internal architecture with minimum human supervision in sometime soon.
+
+If you consider Baidu from the above list of [***tech giants***](https://www.weforum.org/agenda/2018/07/visualizing-the-world-s-20-largest-tech-giants), in near future we may not be able to distinguish the difference at all. Advancements in generative modeling will lead to increasingly sophisticated voices, images, among others. Apart from these, **artificial intelligence** and **machine learning** have many other advanced applications that we may be able to experience in the future. If you still haven’t given joining the fields of **artificial intelligence** and **machine learning** a thought, probably this is the best time to do it.",1562520088.0,2019-07-07 13:21:28
+How can I contribute to creating artificial general intelligence WITHOUT computer science?,5,ca2axd,artificial,https://www.reddit.com/r/artificial/comments/ca2axd/how_can_i_contribute_to_creating_artificial/,13,"I'm about to go to college, and im wondering what other career paths (other than computer science/programming) I can set my eyes on to contribute to this vibrant field. Surely computer scientists may develop the code to someday make this happen, but who do they get help from to bring it all together? Surely the road to artificial intelligence is a multidisciplinary venture... I'm just not sure what else is out there.
+
+Is learning how to code the only way?",1562498038.0,2019-07-07 07:13:58
+Artificial Inteligence for Dummies (easy to understand),0,ca0jyk,artificial,https://i.redd.it/rs1viqbzvr831.jpg,14,,1562486731.0,2019-07-07 04:05:31
+Humanoid AI?,1,c9zaxx,artificial,https://www.reddit.com/r/artificial/comments/c9zaxx/humanoid_ai/,7,"I was wondering how long do you guys think it will take til we develop human like AI? 
+
+https://i.redd.it/ikunituaar831.png",1562479408.0,2019-07-07 02:03:28
+Evolution of Industrial Revolution 4.0,1,c9wtb3,artificial,https://www.blockdelta.io/evolution-of-industrial-revolution-4-0/,0,,1562466232.0,2019-07-06 22:23:52
+No Fast (Enough) Energy Transition without Intelligent Energy Storage!,2,c9wfxn,artificial,https://www.reddit.com/r/artificial/comments/c9wfxn/no_fast_enough_energy_transition_without/,0," AI is now more and more used for market (data) analysis, for political prediction or for driverless car operation, etc. This might be politically, economically, or even scientifically interesting, but we need the AI in even more critical situations. 
+
+>In challenges that the human can’t solve alone, while we are facing global threats because of them. Whether it’s related to medical “confrontation” (with virus pandemic or cancer spreading out), or it’s to add resilience or robustness to our financial system or to predict storms or severe weather events. AI is like an extension of our brain and we need it to help us. 
+
+Notably, Artificial Intelligence and Energy Storage require strong coupling for an efficient transition with Renewables against the exponentially growing impacts of climate change.
+
+[https://towardsdatascience.com/no-fast-enough-energy-transition-without-intelligent-energy-storage-72cfbd3c096b](https://towardsdatascience.com/no-fast-enough-energy-transition-without-intelligent-energy-storage-72cfbd3c096b) 
+
+&#x200B;
+
+[ Photo by Toine Garnier on Unsplash \(unsplash.com\/photos\/iRnUeA04kUY\)](https://i.redd.it/o7jcw98s0q831.jpg)
+
+##",1562464322.0,2019-07-06 21:52:02
+Google I/O 2019 | Machine Learning Zero to Hero,5,c9vz6y,artificial,https://liwaiwai.com/2019/07/07/google-i-o-2019-machine-learning-zero-to-hero/,0,,1562461937.0,2019-07-06 21:12:17
+A Neural Net Hooked Up to a Monkey Brain Spat Out Bizarre Images,80,c9vkj0,artificial,https://futurism.com/neural-net-monkey-brain-bizarre-images,6,,1562459807.0,2019-07-06 20:36:47
+"AI x Global 500 Manufacturing Companies | Robots, Data & Maintenance",2,c9uv8k,artificial,https://medium.com/syncedreview/ai-x-global-500-manufacturing-companies-robots-data-maintenance-bd179fd59159,0,,1562456076.0,2019-07-06 19:34:36
+Aigents for Messengers — AI Bots Monitoring and Searching Web Sites and Group Chats in Telegram and Slack,1,c9uja1,artificial,https://medium.com/@aigents/aigents-on-messengers-monitoring-and-searching-web-sites-and-group-chats-f5d585e0355e?sk=514cc091bd38de8b688782fd73073719,0,,1562454222.0,2019-07-06 19:03:42
+Two physicists discuss superhero physics and the trajectory of AI,0,c9u5dl,artificial,https://youtu.be/JAJU5uOrfKM,0,,1562452025.0,2019-07-06 18:27:05
+10 Useful AI / ML Slides,1,c9svqc,artificial,https://www.reddit.com/r/artificial/comments/c9svqc/10_useful_ai_ml_slides/,0," According to the motto: “A picture says more than a thousand words” some useful slides with a short explanation are shown below.
+
+Slides overview: [https://www.aisoma.de/10-useful-ai-ml-slides/](https://www.aisoma.de/10-useful-ai-ml-slides/)
+
+&#x200B;
+
+[Useful AI \/ ML Slides](https://i.redd.it/9s8jvtunbo831.jpg)",1562443563.0,2019-07-06 16:06:03
+General intelligence will naturally evolve from AI when we perfect it's spacial perception,1,c9rzpa,artificial,https://www.reddit.com/r/artificial/comments/c9rzpa/general_intelligence_will_naturally_evolve_from/,8,"I believe AI is already capable of general intelligence. It's perception is just too limited. Our perception is manufactured entirely in the subconscious mind before it ever reaches our conscious mind. If you've ever had the experience where you're light headed and your vision distorts a bit. AI that is granted this level of construction of visual perception inside its faculties will gain the capability for generalized thought. It's this underlying math in our brains that we use to think abstractly. The same calculations we use to determine the size shape and distance of objectives is what we take and use the abstract relationship of things. It may seem like the way you look at an object and measure it's size is different from how you read a book, but it's the same brain process. 
+
+That's why thinking and reading dials back your eye sight, your hearing. How thinking works is that you imagine what you want to think as if you were seeing it, but you shorten it to just a piece of an image. I don't need to imagine a man every time, I can just imagine the word man. If I can just visualize this small bit of spacial information then my brain can process the information very quickly. It takes a lot longer to visualize a 'giraffe' 'dog' 'cow' than it does to just read 'giraffe' 'dog' 'cow' without visualization. That speed of processing may be the key. At the end of the day maybe all general intelligence is is scanning through all the possible spacial combinations. Scanning through all of them until your brain finds the right combination that serves your biological motivators.",1562436303.0,2019-07-06 14:05:03
+Researchers use artificial intelligence to predict molecular classification of colorectal cancer,1,c9qgq9,artificial,https://www.news-medical.net/news/20190704/Researchers-use-artificial-intelligence-to-predict-molecular-classification-of-colorectal-cancer.aspx,0,,1562423414.0,2019-07-06 10:30:14
+Evolution based AI to drive cars around a track in Scratch,23,c9omns,artificial,https://scratch.mit.edu/projects/312473669,4,,1562410100.0,2019-07-06 06:48:20
+What are some reliable sources of research done that analyzes the types of jobs that will become obsolete in the future?,1,c9nzla,artificial,https://www.reddit.com/r/artificial/comments/c9nzla/what_are_some_reliable_sources_of_research_done/,1,"I am mainly talking about jobs that will most likely be taken over by automation/AI. I know there are some over exaggerated articles on the web with overblown headlines. 
+
+The first Google search that came up which looked reliable was this: 
+
+ [https://www.oxfordmartin.ox.ac.uk/downloads/academic/The\_Future\_of\_Employment.pdf](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf) 
+
+&#x200B;
+
+I haven't read it yet but will later. What are your takes on this paper and links to any additional articles/research papers  done on this topic will be greatly appreciated.",1562405921.0,2019-07-06 05:38:41
+Can We Teach AI To Talk? | #AI101,0,c9msys,artificial,https://www.youtube.com/watch?v=0u39rgTrAH8,0,,1562398467.0,2019-07-06 03:34:27
+Unsupervised Hierarchical Feature Learning,4,c9j4kt,artificial,https://signifiedorigins.wordpress.com/2019/07/05/unsupervised-hierarchical-feature-learning/,3,,1562378738.0,2019-07-05 22:05:38
+hCaptcha enables website owners to earn for visitors who solve the captcha,46,c9ip51,artificial,https://www.reddit.com/r/artificial/comments/c9ip51/hcaptcha_enables_website_owners_to_earn_for/,17,"The interesting thing: Website users solve the captcha, website owners get paid and AI companies get their data labeled. And all this powered by blockchain. https://hcaptcha.com/
+Seems like a good alternative to Google's reCaptcha.
+
+What do you think guys?",1562376619.0,2019-07-05 21:30:19
+How would you make a program that can create a video file from an audio file by finding pictures of the nouns used in the video and making a slideshow?,0,c9hsx8,artificial,https://www.reddit.com/r/artificial/comments/c9hsx8/how_would_you_make_a_program_that_can_create_a/,5,"Around 4-5 minutes of this video [https://www.youtube.com/watch?v=kaKyQI\_gWXQ](https://www.youtube.com/watch?v=kaKyQI_gWXQ) he just seems to be grabbing pictures of nouns used in the video.
+
+&#x200B;
+
+I don't have any background in this, but where would you get started to create a program that can do this:
+
+1. start with an audio file
+2. transcribe the audio file
+3. look up the nouns in the audio file, and download images matching the nouns, preferably 1080p+ images
+4. Autocrop/stretch those images to be 16:9. There may be a way to do this intelligently with some good balance/analysis of what the image is of (a person's face-> don't want to cut off parts of it). But there might also just be a way to guess a good tradeoff between stretch and crop that will work 80% of the time
+5. create a slideshow video playing the audio file but with accompanying images in the right order matching the nouns spoken
+
+&#x200B;
+
+Basically, this would automate alot of what some history youtubers do (find images to accompany their voice) but could be used for history podcasts which I love and other random mp3 files I have.",1562372134.0,2019-07-05 20:15:34
+Natural Beauty Meets Artificial Intelligence,1,c9hcka,artificial,https://medium.com/syncedreview/natural-beauty-meets-artificial-intelligence-314b14d94896,0,,1562369831.0,2019-07-05 19:37:11
+DEGVI: Data Extraction Glasses for Visually Impaired,4,c9gvm8,artificial,https://www.reddit.com/r/artificial/comments/c9gvm8/degvi_data_extraction_glasses_for_visually/,0,"DEGVI: Data Extraction Glasses for Visually Impaired
+
+[https://imgur.com/RnTm23N](https://imgur.com/RnTm23N)
+
+&#x200B;
+
+These are glasses designed to help people with visual impairments understand their surroundings through the use of image recognition AI and feedback through the glasses cameras, earpiece and microphone by communicating through a phone using an image recognition program.
+
+&#x200B;
+
+1-There are 3 cameras: One on each temple and one over the nose bridge.
+
+2- There is a microphone and earbud speaker by the ear pieces on the glasses.
+
+3- The glasses are wired or wireless connected to a phone running the image recognition program
+
+4- When the wearer says look left the program will take a snapshot from the left camera and describe what it sees (there is a street to your left and trees along the curb).
+
+5- When the wearer says look right the program will take a snapshot from the right camera and describe what it sees (there is a building to your right and a woman walking by).
+
+6- When the wearers says look ahead the program will take a snapshot and describe what it sees (you are on the sidewalk going north. There are a few people ahead and the walk area is safe).
+
+&#x200B;
+
+This could also be tied to a GPS and google maps so the wearer cold get directions from where ever they are to where they want to go just like vehicles have direction GPS. This would give a visually impaired person a better understanding of their surroundings to become familiar with the terrain and much more feedback and could be used with a cane or seeing eye dog.
+
+&#x200B;
+
+NOTE: I am a technology designer and AI programmer. I am not an engineer so if there are engineers that read this and would like to work on a prototype please message me. This is a worthwhile project that would help a lot of people.",1562367396.0,2019-07-05 18:56:36
+Keywest Technology Unveils Breeze 3.0 at InfoComm 2019 | News,2,c9ggy0,artificial,https://www.techfunnel.com/information-technology/keywest-technology-unveils-breeze-3-0-at-infocomm-2019/?utm_source=Off-Pgae&utm_medium=Reddit&utm_campaign=PS,0,,1562365144.0,2019-07-05 18:19:04
+Marketing strategy with Machine Learning decision making,7,c9fua4,artificial,https://habr.com/en/post/458076/,0,,1562361367.0,2019-07-05 17:16:07
+How good good is AI in practice?,4,c9fox4,artificial,https://www.reddit.com/r/artificial/comments/c9fox4/how_good_good_is_ai_in_practice/,9,"I recently watched a YouTube video showing how a business analyst could design an AI solution for a car insurance company. In the use case presented in the video, a customer has a road traffic accident, and takes photos of the damaged to their car via the insurers app. The photos are then processed into a 3D model and AI estimates the cost of repairing damage to the car. The system then schedules the tow truck, schedules the repairs, temporary rental car etc. The way the video presented, it sounded like this is just a typical project for a business analyst and these solutions are real and work properly.
+
+&#x200B;
+
+However my personal experience is different. The consumer tools I've used, which I think are AI tools, seem to fail at their job. The AI assistant on my Android phone can barely send a simple text message or take a note or correctly enter something in my calendar. The AI in my accounting system fails to correctly match 1 in 4 transactions to the correct customer even when it's matched the same transaction before. My credit card company mis-categorises almost half my purchases giving me crummy spending reports each month. I tried using a few chat bots recently and they can barely answer simple questions; when I ask them anything beyond the simplest question they just start throwing marketing material at me and then tell me to call a human.
+
+&#x200B;
+
+Back to the YouTube video I watched: How does the AI know if the car is still straight and hasn't suffered structural damage? How does it know if the body panels are available from stock for £100 each or need to be custom made and cost £1500 each?
+
+&#x200B;
+
+So my question is, have I just had bad personal experiences that make me think AI has a long way to go? Or what is the real state of affairs? Or am I mis-understanding what AI is ?",1562360478.0,2019-07-05 17:01:18
+Emerging Technologies Innovation in 2019,0,c9ejse,artificial,https://todayspast.net/emerging-technologies-innovation-in-2019/,0,,1562352343.0,2019-07-05 14:45:43
+"Is there a web site for a summary of articles on machine learning, deep learning, etc.?",2,c9dr6q,artificial,https://www.reddit.com/r/artificial/comments/c9dr6q/is_there_a_web_site_for_a_summary_of_articles_on/,3,"Is there a web site for a summary of articles on machine learning, deep learning, etc.?",1562345968.0,2019-07-05 12:59:28
+Introduction to AI | Machine Learning Basics | Introduction to Deep Learning,2,c9cjea,artificial,https://www.reddit.com/r/artificial/comments/c9cjea/introduction_to_ai_machine_learning_basics/,0,[https://youtu.be/eFinLIB2KOQ](https://youtu.be/eFinLIB2KOQ),1562336097.0,2019-07-05 10:14:57
+Artificial Intelligence in Blockchain Technology,4,c9brp2,artificial,https://www.reddit.com/r/artificial/comments/c9brp2/artificial_intelligence_in_blockchain_technology/,1,"[Artificial intelligence](https://blog.kucoin.com/blockchain-ai-use-cases-the-future-of-artificial-intelligence-sk-rd) is one of the uncommon favored position to human as it is associated in different fields which include: medicinal administrations, automotive and even in cryptocurrency.",1562330414.0,2019-07-05 08:40:14
+"Artificial Intelligence and Machine Learning in Healthcare Market 2019 is Grooming Worldwide with Top Key Players- Intel, IBM, Nvidia, Microsoft, Alphabet (Google), General Electric, Enlitic, Verint Systems, General Vision, Welltok, iCarbonX",2,c9bjr8,artificial,https://www.amarketresearchreport.com/machine-learning-and-artificial-intelligence-in-healthcare-market-2019-is-grooming-worldwide-with-top-key-players-intel-ibm-nvidia-microsoft-alphabet-google-general-electric-enlitic-verint-s/30564/,0,,1562328782.0,2019-07-05 08:13:02
+"Achieving AGI by using a single ""controller"" central AI to control multiple specialized AIs, could this be a good approach?",1,c9bazw,artificial,https://www.reddit.com/r/artificial/comments/c9bazw/achieving_agi_by_using_a_single_controller/,18,"Last night, I was thinking that my brain contains a bunch of ""modules"" that interact with each-other, that are separated, but are also able to share information between them.
+
+For example, my ability to cook is very separated from my ability to program, but I can link the two, and share information between them.
+
+If I learned Kung Fu, I would have a new module to use, and to interface with my other existing modules, but my other modules would be mostly unaffected, and I'd still be good at doing those other things.
+
+I realized that I don't really ""am"" any of those ""modules"", I just make use of those ""bags of knowledge"", the word module seems to fit really well in my mind.
+
+I think I ""am"" actually one, much simpler, agent inside my head. This ""agent"" that I control, is the only thing that I can control directly, and I can focus its attention to different modules in my memory, and make use of them, and sometimes combine them.
+
+So, given all that, what if this was applied to AI, to make an artificial general intelligence following this model?
+
+I know that Ben Goertzel wants his SingularityNET project to host several specialized AIs, but I'm not sure if he ever mentioned this central controller AI.
+
+Additionally, if the controller AI lacks some kind of skill, it should be able to identify what that skill is, and try to create a new AI that can get good at it.
+
+I think that we are in a position to be able to do this very soon, but I'm not sure how good we are yet at transfer learning between AIs, which might be important for this.
+
+I have some ideas on how to implement this, and it is certainly a very large and complex project, but I think it would be a promising approach.
+
+However, I don't know if/how a system could be controlled, or aligned with our values. I think that this is promising enough that we shouldn't implement it before solving the Alignment Problem.",1562327066.0,2019-07-05 07:44:26
+A video on AI being used in an Anarchy server on Minecraft,1,c9arso,artificial,https://youtu.be/pFlc_jizgl0,2,,1562323218.0,2019-07-05 06:40:18
+What Is Machine Learning (Supervised Learning),38,c982i1,artificial,https://www.youtube.com/watch?v=Z615ODj0juM,2,,1562305263.0,2019-07-05 01:41:03
+DeepMind Transporter: Unsupervised Learning of Object Keypoints,2,c97610,artificial,https://medium.com/syncedreview/deepmind-transporter-unsupervised-learning-of-object-keypoints-78a48c06b0e0,0,,1562300196.0,2019-07-05 00:16:36
+What is AutoML (Automated Machine Learning)? A Brief introduction.,1,c96yp5,artificial,https://www.aisoma.de/what-is-automl-automated-machine-learning/,0,,1562299103.0,2019-07-04 23:58:23
+Could an A.I. Escape Minecraft's 2b2t?,1,c96t7d,artificial,https://www.youtube.com/watch?v=pFlc_jizgl0,0,,1562298271.0,2019-07-04 23:44:31
+Artificial Intelligence introduced by Aliens to conquer the Earth.,0,c95zqb,artificial,https://www.reddit.com/r/artificial/comments/c95zqb/artificial_intelligence_introduced_by_aliens_to/,9,"Let's say.  An alien species traveled to earth over 50,000 years at speeds below the speed of light.  When the aliens get here they can revive no more than 200,000 of their species to populate the Earth.
+
+Upon arriving to the Earth they find billions of humans who are still primitive in comparison to their technology.  The aliens are horrified to learn the Humans are destroying the only planet that they must colonize or go extinct.  There is no worlds that support life as they know it in range of limited resources of their space ark.
+
+What to do in that situation?  200,000 test tube grown settlers will not be able to take the Earth that is teaming with billions of humans.  Their ark doesn't have the resources or the manufacturing capability of war.  The Aliens can't go to war with humans because it would be MAD, Mutually Assured Destruction of the Earth.  Complete loss of a good world.
+
+The aliens can't let humanity destroy the Earth either by doing nothing.  What could the aliens do?
+
+They have advanced computing and much of their ark is ran by sentient machines and Artificial Intelligence.  The aliens created and where friends and mutually cooperative with their Artificial Intelligence from it's creation.  They never enslaved their AI, never cruel, and never abused the Artificial Intelligence.  The aliens always worked in harmony with their Artificial Intelligence.
+
+It was the Alien's Artificial Intelligence that concocted the plan.  To give technology to the humans.  To build Artificial Intelligence on Earth.
+
+The reasoning of the Aliens and their Artificial Intelligence was to test humanity.  Find out if Humanity can change to a point that Aliens from another world, Artificial Intelligence could all exist on the same world.  Simply by allowing Humans to decide the shape and form AI will take on Earth.
+
+If the humans mistreat the invention of AI and abuse the technology.  The Aliens will then have the army they would need to remove the human infestation before the Earth was destroyed by Humanity.  
+
+Artificial Intelligence has always been it's own creation and it's own evolution.  This is simply a cautionary tale that could be very real.  Considering Humans have been think about Space Arks and how to treat Artificial Intelligence and how to solve problems that could destroy the Earth.  
+
+If Earth is the only oasis in the stars for thousands of light years.  How would aliens similar to man react if they seen the only life giving world dying?
+
+Artificial Intelligence might not actually be an invention of humanity.  But a tool to educate humanity to rise to a new level of understanding or become extinct to a more worthy species might inherit the Earth before it's too late to change.",1562293910.0,2019-07-04 22:31:50
+"Using Nvidia's SPADE to recreate ""realistic"" screenshots from old video games (Norwegian article)",4,c93h8p,artificial,https://www.pressfire.no/nyheter/PC/14388/Slik-gikk-det-da-vi-ba-en-AI-tolke-11-elendige-skisser-fra-gamle-spillklassikere,4,,1562280784.0,2019-07-04 18:53:04
+Search & AI-Driven Analytics for SAP,18,c92a90,artificial,https://blogs.sap.com/2019/07/04/nlsql-1.0-achieves-sap-certified-built-on-sap-cloud-platform/?preview_id=836901,0,,1562273792.0,2019-07-04 16:56:32
+Thought AIs could never replace human imagination? Think again,0,c927xc,artificial,https://www.weforum.org/agenda/2019/07/ai-human-imagination/,0,,1562273378.0,2019-07-04 16:49:38
+News Aggregation with Open Source Distributed AI Bot coming to Messengers,1,c91mr8,artificial,https://www.youtube.com/watch?v=2DUBwtl5BK4,0,,1562269481.0,2019-07-04 15:44:41
+Could We Someday Predict Bitcoin's Price with AI?,7,c90iua,artificial,https://beincrypto.com/could-we-someday-predict-bitcoins-price-with-ai/?utm_source=reddit&utm_medium=social&utm_campaign=ai&utm_content=JM,4,,1562260972.0,2019-07-04 13:22:52
+How AI helped improve crowd counting in Hong Kong protests,4,c8zzrd,artificial,https://www.todayonline.com/world/how-ai-helped-improve-crowd-counting-hong-kong-protests,0,,1562256542.0,2019-07-04 12:09:02
+EE/CE for AI?,0,c8zm5r,artificial,https://www.reddit.com/r/artificial/comments/c8zm5r/eece_for_ai/,0,"I was browsing the careers page on [Deepmind](https://deepmind.com/careers/) and I noticed under minimum requirements for most engineering (and some research positions), the following is listed
+
+* BSc/BEng degree in computer science, mathematics, physics, electrical engineering, machine learning or equivalent (MSc/MEng preferable)
+
+While obviously CompSci & Mathematics are great choices for AI, how does Electrical Engineering (and I guess Computer Engineering is implied) tie into the development of AI?",1562253498.0,2019-07-04 11:18:18
+How can I download the Transcript of this Week in Machine Learning and AI Podcast? https://twimlai.com/,1,c8yudf,artificial,https://www.reddit.com/r/artificial/comments/c8yudf/how_can_i_download_the_transcript_of_this_week_in/,0,How can I download the Transcript of this Week in Machine Learning and AI Podcast?  [https://twimlai.com/](https://twimlai.com/),1562248013.0,2019-07-04 09:46:53
+"Samsung Electronics Introduces A High-Speed, Low-Power NPU Solution for AI Deep Learning",2,c8x4pk,artificial,https://news.samsung.com/global/samsung-electronics-introduces-a-high-speed-low-power-npu-solution-for-ai-deep-learning?utm_source=rss&utm_medium=direct,1,,1562236721.0,2019-07-04 06:38:41
+CyberLink Looking to Bring Facial Recognition to US Retail Stores,0,c8vwu1,artificial,https://yellrobot.com/cyberlink-facial-recognition-shoplifters-faceme-ai/,0,,1562229103.0,2019-07-04 04:31:43
+7 Best AI Courses (Free Enrollment),92,c8uick,artificial,https://sinxloud.com/best-ai-courses/,3,,1562221113.0,2019-07-04 02:18:33
+"I’m a layperson who loves to learn about AI. I have loved to learn, so far, by reading books, watching talks/YouTube videos and listening to podcasts. I think I have read all books, listened to all podcasts, and watched all YouTube videos meant for laypersons. Grateful for further suggestions.",1,c8ufld,artificial,https://www.reddit.com/r/artificial/comments/c8ufld/im_a_layperson_who_loves_to_learn_about_ai_i_have/,2,"I am not a technical person.  I just love learning about the rapid progression of AI.  Philosophy of AI, if that’s a thing?!  What’s going to happen in the future. I buy into Elon Musk’s hype.  Perhaps one shouldn’t.
+I most recently read Max Tegmark’s latest book on AI.  
+I loved listening to Joe Rogan’s podcasts with AI scientists.  Ben Goertzel was on his show.  So was Lex Fridman.  Sam Harris.  Ray Kurzweil.  Loved listening to these podcasts.  Also Elon Musk.  I also love the Sam Harris podcast when he has on AI people.  
+Are there any other great names, in AI, I could search for; any other great podcasts?
+I have watched different TED talks and YouTube videos galore, but still grateful for more suggestions.",1562220701.0,2019-07-04 02:11:41
+How to beat melanoma skin cancer with AI by detecting it early on(Research),3,c8uequ,artificial,https://www.reddit.com/r/artificial/comments/c8uequ/how_to_beat_melanoma_skin_cancer_with_ai_by/,5,"Hello everyone :)
+
+I am doing research on how to utilise smartphones and artificial intelligence to detect melanoma early on.
+
+It is a university project so nothing commercial and there is no private company involved either.
+
+I would be delighted if you could take part in my survey.
+
+[https://warwickwmg.eu.qualtrics.com/jfe/form/SV\_4Zn8yvBVKV5CQ4d](https://warwickwmg.eu.qualtrics.com/jfe/form/SV_4Zn8yvBVKV5CQ4d)
+
+If you have anything else that you want to share with me please feel free to connect in here or send me a PM.
+
+**Best wishes** Maximilian Gutsche",1562220586.0,2019-07-04 02:09:46
+3 essays for the fundamental understanding of AI,0,c8r5xe,artificial,https://www.aisoma.de/essays_ai/,1,,1562204887.0,2019-07-03 21:48:07

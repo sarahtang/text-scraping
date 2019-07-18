@@ -3,7 +3,7 @@ Using the reddit API to scrape through text and see where conversation hot spots
 
 
 ## Output
-CSV titled reddit_SUBREDDIT_june.csv
+CSV titled reddit_SUBREDDIT.csv
 
 ## Resources
 Subreddit API documentation

@@ -13,8 +13,8 @@ reddit = praw.Reddit(client_id='9Qn3lMcjYa2sSg',
 					user_agent='Conversation_Hotspot')
 unix_time = int(time.time())
 subreddit_input = raw_input("What subreddit? ")
-engaged_posts = 0
 subreddit = reddit.subreddit(subreddit_input)
+engaged_posts = 0
 posts = []
 
 
@@ -32,7 +32,7 @@ if not sub_exists(subreddit_input):
 	sys.exit()
 
 
-# Term frequency
+# Term frequency for posts within month
 term_frequency = {"technology": 0, "engineer": 0, "watson": 0, "ibm": 0} #dictionary
 
 
@@ -73,6 +73,7 @@ def get_date(created):
 
 _timestamp = posts['created'].apply(get_date)
 posts = posts.assign(timestamp = _timestamp)
+
 
 #Output
 sum_comments = posts['num_comments'].sum()

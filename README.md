@@ -9,6 +9,9 @@ CSV titled reddit_SUBREDDIT.csv
 Subreddit API documentation
 https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html
 
+Twitter documentation
+https://developer.twitter.com/en/docs/api-reference-index
+
 
 ## TODO
 1. Term frequency, entity = parse company names, people (pre-trained) how often is ___ mentioned?

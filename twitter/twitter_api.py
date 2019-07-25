@@ -28,6 +28,7 @@ auth_data = {
 
 auth_resp = requests.post(auth_url, headers=auth_headers, data=auth_data)
 # Check status code
+print("Status of authentication")
 print(auth_resp.status_code)
 print(auth_resp.json().keys())
 
@@ -45,16 +46,31 @@ search_params = {
 	'count': 100
 }
 
+followers_params = {
+	'screen_name': 'noradio',
+	'count': 5000
+}
+
 search_url = '{}1.1/search/tweets.json'.format(base_url)
 search_resp = requests.get(search_url, headers=search_headers,
 	params = search_params)
-print(search_resp.status_code)
+# print(search_resp.status_code)
 tweet_data = search_resp.json()
-print(tweet_data)
+# print(tweet_data)
+
+search_url_followers='{}1.1/followers.ids.json'.format(base_url)
+search_url_followers = search_url_followers + '?screen_name=ibm'
+print(search_url_followers)
+followers_resp = requests.get(search_url_followers, headers=search_headers,
+	params = followers_params)
+print(followers_resp)
+print(followers_resp.status_code)
+followers_data = followers_resp.json()
+# print(followers_data)
 
 # Print text of tweet
 for tweet in tweet_data['statuses']:
-	print(tweet['text'] + '\n')
+	# print(tweet['text'] + '\n')
 	tweets.append([tweet['text'],
 		tweet['favorite_count'],
 		tweet['retweet_count']
@@ -64,8 +80,9 @@ tweets = pd.DataFrame(tweets, columns=['text',
 										'favorite_count',
 										'retweet_count'])
 
-print(tweets)
-tweets.to_csv('twitter_' + search_query + '.csv', index=False, encoding='utf8')
+# Text of tweet to CSV
+# print(tweets)
+# tweets.to_csv('twitter_' + search_query + '.csv', index=False, encoding='utf8')
 
 
 

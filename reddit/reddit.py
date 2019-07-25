@@ -89,8 +89,6 @@ print(sum_comments)
 print("Total conversation in last month")
 print(total_conversation)
 print("Term frequency in post title")
-print("Watson: " + str(watson))
-print("IBM: " + str(ibm))
 
 for key, val in term_frequency.items():
 	print("%s: %s" % (key, val))

@@ -2,6 +2,11 @@ import json
 import tweepy
 from twython import Twython
 import pandas as pd
+from tweepy import OAuthHandler
+from tweepy import Stream
+import requests
+from tweepy.streaming import StreamListener
+
 
 # Twitter credentials
 twitter_credentials = dict()
@@ -10,6 +15,7 @@ twitter_credentials['CONSUMER_SECRET'] = 'FS1usPrfPolvjLXbwGka5N8TWkOZhUsdxGmmTw
 twitter_credentials['ACCESS_KEY'] = '1151573806680592384-OUFeUtpsRFZM6jQxl1AG99NEjlY0Kt'
 twitter_credentials['ACCESS_SECRET'] = 'KKHmkHkDGVaDof8XK4fKKI52DmNl4vZlaXnx85WRfd4Lr'
 
+# Json object
 with open('twitter_credentials.json', 'w') as secret_info:
 	json.dump(twitter_credentials, secret_info, indent=4, sort_keys=True)
 
@@ -50,4 +56,43 @@ df.head(5)
 
 print(df)
 df.to_csv('twitter.csv', index=False, encoding='utf8')
+
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_token_secret)
+
+
+request = requests.get('https://api.twitter.com/1.1/search/tweets.json')
+print(request)
+
+
+
+
+# auth2 = tweepy.AppAuthHandler(consumer_key, consumer_secret)
+# api = tweepy.API(auth2)
+# for tweet in tweepy.Cursor(api.search, q='ibm').items(10):
+#     print(tweet.text)
+
+
+# # Streaming tweets
+# # This is a basic listener that just prints received tweets to stdout.
+# class StdOutListener(StreamListener):
+
+#     def on_data(self, data):
+#         print data
+#         return True
+
+#     def on_error(self, status):
+#         print status
+
+# if __name__ == '__main__':
+
+#     #Twitter authentification + connection to Twitter Streaming API
+#     l = StdOutListener()
+#     auth = OAuthHandler(consumer_key, consumer_secret)
+#     auth.set_access_token(access_token, access_token_secret)
+#     stream = Stream(auth, l)
+
+#     #This line filter Twitter Streams to capture data by the keywords: 'python', 'javascript', 'ruby'
+#     stream.filter(track=['python', 'javascript', 'ruby'])
+
 

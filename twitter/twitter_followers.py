@@ -3,6 +3,8 @@
 
 import requests
 import base64
+import json
+import pandas as pd
 
 client_key = '8AO6OU5ubyi4XO47b1C7Sjdlz'
 client_secret = 'FS1usPrfPolvjLXbwGka5N8TWkOZhUsdxGmmTwuO016koesUSt'
@@ -17,7 +19,6 @@ url = "https://api.twitter.com/1.1/followers/ids.json"
 base_url = 'https://api.twitter.com/'
 auth_url = '{}oauth2/token'.format(base_url)
 lookup_url = "https://api.twitter.com/1.1/users/lookup.json"
-
 
 # AUTHENTICATION
 # Authentication header
@@ -67,11 +68,6 @@ follower_headers = {
     'cache-control': "no-cache"
     }
 
-
-# Get followers query
-querystring = {"screen_name": "ibm",
-    'count': 5000}
-
 # Lookup followers query
 follower_querystring = {"user_id":"783214,6253282"}
 # follower_querystring = {"user_id": user_string}
@@ -79,59 +75,81 @@ follower_querystring = {"user_id":"783214,6253282"}
 
 
 
-
-
-
-# Get all followers for querystring = HOW TO GET MORE FOLLOWERS
-response = requests.request("GET", url, 
-    headers=headers, 
-    params=querystring)
-
-# Query for followers - need to grab all followers ==> ADD TO QUERYSTRING
-user_string = ""
-
-
-# print(response.text)
-# Up to 100 allowed in single request
-follower_count = 0
-for follower in response:
-    user_string += follower + ","
-    follower_count += 1
-
-# List of all followers
-print(user_string)
-print(follower_count)
-
-
-# Get list of follower ids for account
+# Get list of follower ids for account = HOW TO GET ALL FOLLOWERS
 # Input url = lookup_url
 # headers = follower_headers
 # params = follower_querystring
-def get_follower_ids(account, url, head, querystr):
+def get_follower_ids(account, url, head):
+    # Get followers query
+    querystring = {"screen_name": account,
+        'count': 10}
     resp = requests.request("GET", url, 
         headers=head, 
-        params=querystr)
-    print("RESULT")
-    print(resp.text)
+        params=querystring)
     return resp
 
 
 # Twitter API only can batch 100 followers at a time
 # Batch = 100 follower IDs
-def get_user_objects(follower_ids):
+def get_user_objects(follower_ids, count):
     batch_len = 100
-    num_batches = len(follower_ids) / 100
-    batches = (follower_ids[i:i + batch_len] for i in range(0, len(follower_ids), batch_len))
+    # num_batches = count / 100
+    # batches = (follower_ids[i:i + batch_len] for i in range(0, count, batch_len))
     all_data = []
-    for batch_count, batch in enumerate(batches):
-        sys.stdout.write("\r")
-        sys.stdout.flush()
-        sys.stdout.write("Fetching batch: " + str(batch_count) + "/" + str(num_batches))
-        sys.stdout.flush()
-        # users_list = auth_api.lookup_users(user_ids=batch)
-        # users_json = (map(lambda t: t._json, users_list))
-        # all_data += users_json
+    for follower in follower_ids: #Doing this 10 times (WRONG) should be len of string
+        resp = requests.request("POST", lookup_url,
+            headers = follower_headers,
+            params = follower_querystring) #need to change this
+        follower_json = resp.json()
+        all_data += follower_json
+    # for batch_count, batch in enumerate(batches):
+    #     # users_list = auth_api.lookup_users(user_ids=batch)
+    #     # users_json = (map(lambda t: t._json, users_list))
+    #     # all_data += users_json
     return all_data
+
+# Get info from follower json object
+def get_follower_info(follower_objects):
+    df = []
+    for obj in follower_objects:
+        df.append([obj['id'],
+            obj['description'],
+            obj['screen_name']])
+    df = pd.DataFrame(df, columns=['id', 'description', 'screen_name'])
+    return df
+
+# Get number of follower IDs and make them into a string
+def num_ids(follower_ids):
+    json_obj = follower_ids.json()
+    list_ids = json_obj['ids']
+    count = len(list_ids) #accurate count
+    print(count)
+
+    # Concatenate strings = this doesnt work bc they must be integers
+    string_ids = ""
+    for x in range(0, count - 1):
+        string_ids += str(list_ids[x])
+        string_ids += ","
+    string_ids += str(list_ids[count - 1])
+    print string_ids
+    return string_ids
+
+
+# Query for followers - need to grab all followers ==> ADD TO QUERYSTRING
+user_string = ""
+response = get_follower_ids("ibm", url, headers)
+# print(response.text)
+test = num_ids(response)
+
+# Follower data as json object
+follower_data = get_user_objects(response, 0)
+# Follower data into dataframe = id, description, screen name
+follower_data = get_follower_info(follower_data)
+print(follower_data)
+
+
+
+
 
 
 

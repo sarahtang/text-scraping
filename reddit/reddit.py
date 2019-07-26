@@ -96,6 +96,6 @@ for key, val in term_frequency.items():
 
 # Export data in csv 
 # bypass ascii encoding error
-# posts.to_csv('reddit_' + subreddit_input + '.csv', index=False, encoding='utf8')
+posts.to_csv('reddit_' + subreddit_input + '.csv', index=False, encoding='utf8')
 
 

@@ -161,6 +161,7 @@ list_follower_ids = response_json['ids']
 
 # Get user objects for list of followers
 follower_data = get_user_objects(list_follower_ids, 0)
+print(follower_data)
 df = []
 df = get_follower_info_list(follower_data)
 print(df)

@@ -1,6 +1,8 @@
 # text-scraping
 Using the reddit API to scrape through text and see where conversation hot spots exist. Conversation hot spots are where there is high amounts of engaged conversation = posts with >= 2 comments per post. Limit to 1000 posts. Posts grabbed from current day minus 31 days.
 
+Twitter API to grab followers and their descriptions.
+
 
 ## Output
 CSV titled reddit_SUBREDDIT.csv
@@ -20,8 +22,6 @@ https://developer.twitter.com/en/docs/api-reference-index
 
 3. Training classification models ==> knime; fuzzy match, keyword search
 
-4. Frontend - so that everyone can use
-
-5. Work on Readme = explain, add comments
+4. Frontend
 
 <!-- 6. Think about what is the effect? Business impact - competitive intellignece, audience intelligence; improvement on Sprinklr -->

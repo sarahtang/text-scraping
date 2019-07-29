@@ -83,7 +83,7 @@ follower_querystring = {'user_id':'1154163257965334528,53450932,8498199513975808
 def get_follower_ids(account, url, head):
     # Get followers query
     querystring = {"screen_name": account,
-        'count': 5000}
+        'count': 10}
     resp = requests.request("GET", url, 
         headers=head, 
         params=querystring)

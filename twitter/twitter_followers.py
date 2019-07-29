@@ -34,9 +34,9 @@ auth_data = {
 
 # Check status code for authentication
 auth_resp = requests.post(auth_url, headers=auth_headers, data=auth_data)
-print("Status of authentication")
-print(auth_resp.status_code)
-print(auth_resp.json().keys())
+# print("Status of authentication")
+# print(auth_resp.status_code)
+# print(auth_resp.json().keys())
 access_token = auth_resp.json()['access_token']
 
 
@@ -70,6 +70,7 @@ follower_headers = {
 
 # Lookup followers query
 follower_querystring = {"user_id":"783214,6253282"}
+follower_querystring = {'user_id':'1154163257965334528,53450932,849819951397580800,1155345651615449088,167770163'}
 # follower_querystring = {"user_id": user_string}
 
 
@@ -82,7 +83,7 @@ follower_querystring = {"user_id":"783214,6253282"}
 def get_follower_ids(account, url, head):
     # Get followers query
     querystring = {"screen_name": account,
-        'count': 10}
+        'count': 5000}
     resp = requests.request("GET", url, 
         headers=head, 
         params=querystring)
@@ -96,10 +97,12 @@ def get_user_objects(follower_ids, count):
     # num_batches = count / 100
     # batches = (follower_ids[i:i + batch_len] for i in range(0, count, batch_len))
     all_data = []
-    for follower in follower_ids: #Doing this 10 times (WRONG) should be len of string
+    for f_id in follower_ids:
+        foll_query = {} #dictionary
+        foll_query['user_id'] = f_id
         resp = requests.request("POST", lookup_url,
             headers = follower_headers,
-            params = follower_querystring) #need to change this
+            params = foll_query)
         follower_json = resp.json()
         all_data += follower_json
     # for batch_count, batch in enumerate(batches):
@@ -108,22 +111,37 @@ def get_user_objects(follower_ids, count):
     #     # all_data += users_json
     return all_data
 
-# Get info from follower json object
-def get_follower_info(follower_objects):
+# Get info from follower json object [LIST]
+def get_follower_info_list(follower_objects):
     df = []
     for obj in follower_objects:
         df.append([obj['id'],
+            obj['screen_name'],
+            obj['name'],
             obj['description'],
-            obj['screen_name']])
-    df = pd.DataFrame(df, columns=['id', 'description', 'screen_name'])
+            obj['verified'],
+            obj['followers_count'],
+            obj['statuses_count'],
+            obj['url'],
+            obj['created_at']])
+    df = pd.DataFrame(df, columns=['id',
+                                    'screen_name',
+                                    'name',
+                                    'description',
+                                    'verified',
+                                    'followers_count',
+                                    'statuses_count',
+                                    'url',
+                                    'created_at'])
     return df
 
+
 # Get number of follower IDs and make them into a string
+# INFO for follower querystring
 def num_ids(follower_ids):
     json_obj = follower_ids.json()
     list_ids = json_obj['ids']
     count = len(list_ids) #accurate count
-    print(count)
 
     # Concatenate strings = this doesnt work bc they must be integers
     string_ids = ""
@@ -131,21 +149,24 @@ def num_ids(follower_ids):
         string_ids += str(list_ids[x])
         string_ids += ","
     string_ids += str(list_ids[count - 1])
-    print string_ids
+    print(string_ids)
     return string_ids
 
 
 # Query for followers - need to grab all followers ==> ADD TO QUERYSTRING
-user_string = ""
-response = get_follower_ids("ibm", url, headers)
-# print(response.text)
-test = num_ids(response)
+account = "ibm"
+response = get_follower_ids(account, url, headers)
+response_json = response.json()
+list_follower_ids = response_json['ids']
 
-# Follower data as json object
-follower_data = get_user_objects(response, 0)
-# Follower data into dataframe = id, description, screen name
-follower_data = get_follower_info(follower_data)
-print(follower_data)
+# Get user objects for list of followers
+follower_data = get_user_objects(list_follower_ids, 0)
+df = []
+df = get_follower_info_list(follower_data)
+print(df)
+
+df.to_csv('twitter_followers_' + account + '.csv', index=False, encoding='utf8')
+
 
 
 

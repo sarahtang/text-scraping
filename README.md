@@ -17,11 +17,8 @@ https://developer.twitter.com/en/docs/api-reference-index
 
 ## TODO
 1. Term frequency, entity = parse company names, people (pre-trained) how often is ___ mentioned?
-
 2. What big words are being used?
-
-3. Training classification models ==> knime; fuzzy match, keyword search
-
+3. Training classification models ==> knime; fuzzy match, keyword search; NLP/LDA ==> Watson
 4. Frontend
-
+5. Count Twitter followers that mention "IBM, ibmer, etc." and student
 <!-- 6. Think about what is the effect? Business impact - competitive intellignece, audience intelligence; improvement on Sprinklr -->

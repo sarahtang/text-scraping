@@ -18,6 +18,7 @@ reddit = praw.Reddit(client_id='9Qn3lMcjYa2sSg',
 					client_secret='qf6Eh1U13kBTacikeYVe74hUtzI',
 					user_agent='Conversation_Hotspot')
 unix_time = int(time.time())
+# Need this to run it in python
 subreddit_input = raw_input("What subreddit? ")
 subreddit = reddit.subreddit(subreddit_input)
 # subreddit = searchterm

@@ -1,4 +1,5 @@
 # Twitter API
+# Printing text of tweets using Twitter API
 # http://benalexkeen.com/interacting-with-the-twitter-api-using-python/
 
 import base64

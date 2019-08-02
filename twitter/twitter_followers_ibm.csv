@@ -1,11 +1,120 @@
-id,screen_name,name,description,verified,followers_count,statuses_count,url,created_at
-823041260621627393,StanyslavB,Stanyslav B,,False,23,174,,Sun Jan 22 05:35:02 +0000 2017
-1060679841073258499,Vmsavrdij1ciego,VamosAVerDijoUnCiego,,False,31,0,,Thu Nov 08 23:45:55 +0000 2018
-234564253,ZimmerRealty,WestCoastRealEstate,"Silicon Valley Real Estate Broker, representing buyers, sellers, investors. Also providing vacationers a tropical escape to Maui. https://t.co/FqBqf8ynXV",False,168,87,,Wed Jan 05 23:52:18 +0000 2011
-1154269101495242752,LegendAmong,TheLegendAmongUs,,False,1,0,,Thu Jul 25 05:56:13 +0000 2019
-1144951220832018432,Nikita98267312,Nikita,,False,0,9,,Sat Jun 29 12:50:17 +0000 2019
-799261682925273088,1deliveryleeds,onedeliveryleeds,One Delivery is one of the UK's largest restaurant delivery service.,False,6,9,https://t.co/wg1NYPThnF,Thu Nov 17 14:43:29 +0000 2016
-1155883289732943873,hamza56385482,hamza,Business student,False,1,0,,Mon Jul 29 16:50:26 +0000 2019
-4345921399,twistar_co,Twistar,"Twistar is a new Customer Feedback device that helps companies collect more data, thats more accurate, more quickly and easily! #AI #CX #VOC #Android",False,154,290,https://t.co/lpmf3cbTqk,Tue Nov 24 14:40:48 +0000 2015
-752772893008732160,WOW_Happy_as_me,宋恺,快乐如我！,False,2,1,,Tue Jul 12 07:53:38 +0000 2016
-3364207960,Griffin080,Griffin,S M I L E,False,5,21,,Tue Jul 07 13:33:15 +0000 2015
+id,screen_name,name,description,verified,followers_count,statuses_count,url,created_at,mentions_ibm
+62599077,epiresdasilva,Evandro Pires da Silva,,False,92,76,https://t.co/565SXgeUyO,Mon Aug 03 19:28:50 +0000 2009,0
+2775630759,lemonous_,Lemonous,気ままに音楽ライフ,False,40,257,,Fri Sep 19 11:55:28 +0000 2014,0
+1156958931127799808,RachelK53805170,Rachel K,,False,0,0,,Thu Aug 01 16:04:39 +0000 2019,0
+3405833086,SamsonDena,samson dena,LIFE IS WAR,False,61,286,,Thu Aug 06 15:37:52 +0000 2015,0
+765249488,crispyire,Christian Parker,VCIX6-DCV | VCP6 Elite | NSX vExpert | #vExpert 2015-19 | Ireland #VMUG Leader | Blogger | Sailor & #RNLI crew | Expat Brit & father | Views are my own,False,576,1914,https://t.co/Eox7rMJwf1,Sat Aug 18 07:15:20 +0000 2012,0
+2151274322,sugandhasrik,Sugandha Srikanteswa,"IBMer. Love all things Technology, Intrigued by new Business Models. Tweets/Views are my own.RT does not equal endorsement.",False,456,765,,Wed Oct 23 16:18:07 +0000 2013,1
+190991678,Mahantesh_MN,Mahantesh Naregal,"Son, Husband,Appa,Administrator,SQL programmer,Agriculturist.",False,80,53,https://t.co/NUNLO8dE54,Wed Sep 15 10:32:15 +0000 2010,0
+2899295661,rstudynews,rstudynews,,False,0,0,,Sun Nov 30 15:34:31 +0000 2014,0
+1156949979581181952,Avinash10556374,Avinash,any time be happy,False,0,1,,Thu Aug 01 15:29:05 +0000 2019,0
+27314730,Naguilar07,Nancy Aguilar,Always a lesson never a failure!,False,615,8373,,Sat Mar 28 21:40:55 +0000 2009,0
+42936171,highjump,HighJump,"HighJump integrates its solutions for warehousing, transportation and logistics with emerging technologies to build the supply chain of the future.",False,3074,4240,http://t.co/3xhvKYupGt,Wed May 27 17:53:17 +0000 2009,0
+754959323353210880,BorossaGabriel,Gabriel Berhane Borossa,"Ethiopian Orthodox Tewahido Christian
+Bachelor of Arts In Economics(WU) Road Scholar, 
+B.A In Accounting & Finance(AAU)
+Ontario Scholar 
+C.E.O of Ethiopia",False,35,1452,,Mon Jul 18 08:41:43 +0000 2016,0
+2874695287,SheldonEllis14,Sheldon Ellis,,False,6,5,,Fri Oct 24 06:01:10 +0000 2014,0
+1084507955276337152,Curl59840354,Curl,,False,2,23,,Sun Jan 13 17:50:20 +0000 2019,0
+1156914964642390016,aliialejandraaa,Ali Daviglus,Biomedical Engineer,False,6,0,https://t.co/bs0glz7qpy,Thu Aug 01 13:09:56 +0000 2019,0
+1156947548851957761,LoussyT,Loussy Thilen,,False,1,0,,Thu Aug 01 15:19:25 +0000 2019,0
+1150340147147231232,RatulRana9,Ratul Rana,,False,22,0,,Sun Jul 14 09:43:58 +0000 2019,0
+1156935430496849921,nisha_sharma_01,NISHA SHARMA,,False,0,1,,Thu Aug 01 14:31:16 +0000 2019,0
+1097991588922445824,ypikgroup,YPIK Group,"YPIK Group is a group of qualified and experienced Bookkeepers, Payroll Managers, Recruitment Consultants, IT Geeks and Business Consultants.",False,12,27,https://t.co/UoaPzmIUe2,Tue Feb 19 22:49:29 +0000 2019,0
+1042381482793295872,JohnB2110,John B.,Marketing Manager,False,64,42,https://t.co/S0MycP40U6,Wed Sep 19 11:54:46 +0000 2018,0
+16021029,sfcollins,Steve Collins,"IBM Comms. Fan of BBQ, Boston sports, food trucks, minivans, tech, BJJ. Proud dad of 3. Opinions are my own.",False,288,611,,Thu Aug 28 01:56:50 +0000 2008,1
+1156940934485032960,AbosedeSYusuf1,Abosede S. Yusuf,"I am a bossbabe, dealing in agribusinesses.",False,0,0,,Thu Aug 01 14:53:08 +0000 2019,0
+1143428534536409088,HadleyTA2,Hadley T A,Oracle Consultant - Apps DBA | GoldenGate Admin | Cloud Admin | Certified - OCP Cloud & OCP 11g,False,23,14,https://t.co/penBX2yzK6,Tue Jun 25 07:59:41 +0000 2019,0
+1156932611283062784,Andresval92,Andrés Valencia,,False,1,0,,Thu Aug 01 14:20:04 +0000 2019,0
+374745030,arlatif,Abdul Rehman,"Oracle EBS, Oracle JD Edwards, MS SharePoint and Web Site Development, Technical Consultant.",False,544,2512,,Fri Sep 16 21:25:00 +0000 2011,0
+860912776402931713,JosueRafaelBae1,Josué Gutiérrez 😎👽⚽🏈🏀,,False,26,26,,Sat May 06 17:42:55 +0000 2017,0
+1156932722482405376,mollyparnhamibm,Molly Parnham,"IBM Apprentice | Relationship Manager, Next Gen Corps",False,0,0,,Thu Aug 01 14:20:30 +0000 2019,1
+1065404447952519168,Mithunh68894596,Mithun halder,,False,10,84,,Thu Nov 22 00:39:49 +0000 2018,0
+3344555532,rituganu123,ritesh bhattacharya,Male six feet height.bulky and little bald soon to be millionaire😉,False,68,488,,Wed Aug 26 04:24:26 +0000 2015,0
+2453553648,Maeva02R,RODRIGUEZ Maeva,,False,25,19,,Sat Apr 19 18:46:04 +0000 2014,0
+885252156626018306,fpasoslibres,Fundación Pasos Libres,"Trabajamos para reinventar la forma, las estrategias y los medios para prevenir y erradicar la trata de personas en población joven.",False,143,282,https://t.co/VWRTi4sZWg,Wed Jul 12 21:38:56 +0000 2017,0
+1123028996994883585,profwalterln,Prof. Walter Lopes,LinkedIn: https://t.co/3PmibvLsDW Lattes: https://t.co/Q8IE3aYwjQ,False,3,2,https://t.co/WvPmXIJkoW,Tue Apr 30 00:59:12 +0000 2019,0
+1084840073479241728,Mohamed26190652,MohamedMahmoud Samy,,False,29,1,,Mon Jan 14 15:50:03 +0000 2019,0
+1227205988,israramadhani,🥑,,False,112,398,,Thu Feb 28 10:15:01 +0000 2013,0
+191901504,GfiTunisie,Gfi Tunisie,"Gfi Tunisie, anciennement Cynapsys, une SSII / ESN est considérée comme étant un acteur dynamique dans le secteur de l’ingénierie informatique.",False,761,4631,https://t.co/NzHOgfNMcp,Fri Sep 17 17:13:07 +0000 2010,0
+3254727663,v_manuel_l,Victor Manuel,,False,1,24,,Thu May 14 21:45:59 +0000 2015,0
+1916804683,sheekh15,starautoparts,,False,47,62,,Sun Sep 29 10:24:42 +0000 2013,0
+1152846973126549505,AbdulSa37388328,Abdul Sami,,False,0,0,,Sun Jul 21 07:45:12 +0000 2019,0
+265359948,Mnalster,Mark Nallen,,False,3,0,,Sun Mar 13 12:22:08 +0000 2011,0
+1155877964397076481,GlobalQInc,"Global Q, Inc.",Unleashing the Potential of Your #QualityManagementSystem,False,1,6,https://t.co/QMuyNdEXI9,Mon Jul 29 16:29:16 +0000 2019,0
+1156917028302667776,Sakshi49929548,Sakshi,,False,0,0,,Thu Aug 01 13:18:08 +0000 2019,0
+1022011306533109763,Ehsan26190786,Ehsan,,False,4,3,,Wed Jul 25 06:50:58 +0000 2018,0
+1154729934926970880,Travis33610024,Travis,I'm a sucker I fell for it  I'm Identifying as A.D.A.M.  ;),False,6,78,,Fri Jul 26 12:27:25 +0000 2019,0
+1122477120943349760,4amtransients,avanti,"19 she/her  
+college is a soup and I am a fork",False,4,0,,Sun Apr 28 12:26:15 +0000 2019,0
+1143057004463677440,Rwt554,Prakash Rawat,Software Engineer,False,1,6,,Mon Jun 24 07:23:21 +0000 2019,0
+154129594,WendyWarnecke1,Wendy Warnecke,"Muse, collaboration accelerator, communications coach helping others 'connect the dots' between their passions and ideas and connect with other terrific people.",False,69,99,,Thu Jun 10 12:58:34 +0000 2010,0
+98705166,N0rbertk,Norbert Kersten,Hoevelaken,False,8,35,,Tue Dec 22 19:42:06 +0000 2009,0
+2312303480,subhamdutta1234,Subham Dutta,,False,13,18,,Sun Jan 26 18:49:54 +0000 2014,0
+1037159272524775425,leosouzadba,Leonardo Souza,,False,6,1,,Wed Sep 05 02:03:34 +0000 2018,0
+941791896606838784,filosofiacris,Filó Sofia,"Trabalho desde os 14 anos de idade.
+Aprendiz de filosofia.
+
+No folowers please",False,0,1343,,Fri Dec 15 22:07:40 +0000 2017,0
+907185065280655361,RedPanda_Int,Red Panda Interactive 🔜 #paxwest,"Games Publisher with a monumental love for awesome games. Discovering them. Playing them. Beating them. And, now, launching them. For the world to love with us!",False,225,300,https://t.co/l10YbZoSzt,Mon Sep 11 10:12:29 +0000 2017,0
+1105987585313308672,AkshayDani8,Akshay Dani,,False,3,0,,Thu Mar 14 00:22:43 +0000 2019,0
+919470389058723841,digitalbitlabs,Digitalbit Labs,"Think simple, act technical. Add productivity to life.",False,146,1396,https://t.co/gs2Q1g2XzW,Sun Oct 15 07:49:58 +0000 2017,0
+140564412,gilbercorrales,Gilber Corrales R.,"Amabilidad
+Generosidad
+Castidad
+Paciencia
+Templanza
+Caridad
+Diligencia y
+Transformación Digital",False,996,25459,https://t.co/Tulcm2NeSV,Wed May 05 20:51:47 +0000 2010,0
+204438863,danemeth,Dalma Németh,Catalogue Manager,False,3,5,,Mon Oct 18 18:01:06 +0000 2010,0
+98856839,shenalburkey,Shenal Burkey,Who the F*** is Alice?,False,103,900,https://t.co/uhfLSwerCf,Wed Dec 23 11:19:50 +0000 2009,0
+235485422,SeanFlanderhijn,Sean,Efferocytosis keeps me alive. N=1,False,361,10753,,Sat Jan 08 09:01:07 +0000 2011,0
+1122727939483865088,TanNguyen0045,Tan Nguyen,,False,2,0,,Mon Apr 29 05:02:54 +0000 2019,0
+1152895808473161729,LokiGrace2,Loki Grace ☄️🌠...,"They say good boys go to hevan, but bad boys bring hevan to u so it's so good to be bad..💞💞💞.....!",False,0,3,,Sun Jul 21 10:59:15 +0000 2019,0
+728185379078070272,Jaaswant,Jashwanth,,False,10,0,,Thu May 05 11:31:38 +0000 2016,0
+1156481012815151104,TechnUpdates,TECHNOLOGIES UPDATES,"technologies news, new gadget news, technology updates, technologies products promotion, technology products sales",False,7,54,,Wed Jul 31 08:25:34 +0000 2019,0
+334407718,ruben_castillol,Ruben,"Venezolano, Bombero profesional, Locutor, Especialista en Materiales Peligrosos, TSU Seguridad Industrial, Coach Ontológico, Diplomado UC, SB.",False,68,265,https://t.co/l3QusuOt4S,Wed Jul 13 01:47:14 +0000 2011,0
+1143846450503155714,NRajesh61205853,N Rajesh,I am Rajesh,False,0,0,,Wed Jun 26 11:40:20 +0000 2019,0
+905329805943480320,Audacious_Tech,Audacious Minds,,False,0,1,,Wed Sep 06 07:20:20 +0000 2017,0
+199537982,sabahmikha,Sabah Mikha,"Sabah Mikha is an #MBA candidate at #Kellogg School of Management, #Finance professional, proud #FightingIrish supporter, and travel enthusiast.",False,103,361,https://t.co/jcDueav1p2,Thu Oct 07 03:21:42 +0000 2010,0
+1130200467483480064,BalajiB86644124,Balaji B,,False,16,4,,Sun May 19 19:56:04 +0000 2019,0
+1090777768462295041,OSamuelHAlmeida,Samuel Almeida,CHANGE the WORLD,False,13,18,,Thu Jan 31 01:04:20 +0000 2019,0
+740533125491490816,ktx704,호남 KTX,안녕하세요 호남 KTX입니다 KTX 호남에서 호남 KTX로 이름을 변경하였습니다 그리고 유튜브에 제 영상을 보고 싶은 분께서는 아래 링크 주소에 들어가시면 되겠습니다. -감사합니다.-,False,57,4,https://t.co/Zo5CfYLS0U,Wed Jun 08 13:17:10 +0000 2016,0
+978951529263652864,Prkarthi131,Prkarthi13,,False,4,5,,Wed Mar 28 11:06:47 +0000 2018,0
+844948770043367429,Lord_Bogoo,20----100,"Mourir dans l'espérance, c'est la vie que je veux mener",False,47,89,,Thu Mar 23 16:27:39 +0000 2017,0
+1169396984,pravinraut945,Pravin Dilip Raut,,False,2,4,,Mon Feb 11 16:38:38 +0000 2013,0
+995285595650961409,ThaoreVaishali,Vaishali Thaore,"Research Associate, Imperial College London,  Development of Sustainable Chemical\Biochemical Processes,
+Detailed modelling of complex reactor models",False,26,3,https://t.co/sHAm5by220,Sat May 12 12:52:32 +0000 2018,0
+1646727013,Salwasyadza_,Rilakkuma,"i'm bound to glow, let's have a toast to the good life🖐🏻🌈",False,388,943,,Mon Aug 05 02:44:29 +0000 2013,0
+1144233020263546880,biru_pecinta,Si-Biru,#S14P #PD,False,58,1575,,Thu Jun 27 13:16:25 +0000 2019,0
+2596779542,addu_21,pratik Adyalkar,,False,2,0,,Mon Jun 30 19:05:39 +0000 2014,0
+852327092737933313,Sharanugadheri,Sharan,INDIAN,False,3,3,,Thu Apr 13 01:06:29 +0000 2017,0
+3328001066,shrikum88080916,Shrî kúmär,,False,42,402,,Mon Aug 24 05:57:13 +0000 2015,0
+1156884468571021312,JamesMc34652639,James McDonagh,,False,1,0,,Thu Aug 01 11:08:45 +0000 2019,0
+1156644452959739904,Kovcsko39228692,Kovács Ákos,,False,3,3,,Wed Jul 31 19:15:01 +0000 2019,0
+1121423459597213699,TheFuadHasan,Fuad Hasan,"Learner, tree lover, pluviophile and an agent of imagination.",False,8,54,,Thu Apr 25 14:39:22 +0000 2019,0
+2900352945,sohag0009,nhsohag,,False,13,9,,Mon Dec 01 10:07:08 +0000 2014,0
+1052584507398873089,chaniamelvin,chaniamelvin,,False,3,5,,Wed Oct 17 15:37:57 +0000 2018,0
+1136594492373569538,dottyinkltd,Dottyink Ltd,"We are an extremely competitive, independent, forward thinking UK based company in Bath. We supply fully compatible, reliable cartridges to a range of clients.",False,21,4,https://t.co/0EYTZi82eq,Thu Jun 06 11:23:38 +0000 2019,0
+1677832429,simonagrieco_,Simona Grieco,,False,26,2,,Sat Aug 17 09:35:38 +0000 2013,0
+1154763324225196033,ParthPa65691458,Parth Patel,"Student,
+https://t.co/8f2XzhyGBj(Computer Engineering),
+DDIT Nadiad.",False,5,0,,Fri Jul 26 14:40:05 +0000 2019,0
+1156552352465375233,FedericoJames,James Abraham,"Single dad 💕💕💕💕❤️
+Love my kids so much",False,6,3,,Wed Jul 31 13:09:03 +0000 2019,0
+1116056556431392769,SyedAfzaalAhme5,Syed Afzaal Ahmed,I m computer operator,False,13,1,,Wed Apr 10 19:13:13 +0000 2019,0
+114705869,softengi_ua,Softengi,#DigitalTransformation #Consulting #ArchitectureReview #CodeReview #SoftwareDevelopment #IndependentSoftwareTesting #StartupAcceleration,False,264,859,http://t.co/YxkYSeTgY9,Tue Feb 16 10:15:48 +0000 2010,0
+1156868670791925760,SANJAYKROFFICI1,SANJAY.KROFFICIAL,ENTREPRENEUR,False,0,0,,Thu Aug 01 10:05:59 +0000 2019,0
+2480859544,AudeckOff,loubosh,Look at those cavemen go.,False,17,295,,Sun Apr 13 07:15:54 +0000 2014,0
+19091513,jessicamanna,jessicamanna,Tweeting about (and dreaming about) #mortgage #marketing #leadgen #martech #marketingAI,False,1955,2098,https://t.co/54NWGHSy9Z,Fri Jan 16 23:08:40 +0000 2009,0
+454745402,malkesh_rao,Malkesh Rao,,False,1,62,https://t.co/AAUgD8idTJ,Wed Jan 04 10:08:34 +0000 2012,0
+2783873257,ahmed_al3zazy,Ahmed Alazazy,"thinker,Content maker,entrepreneur marketer,Software Developer,AI,ML,DL,IOT,Blockchain,cyber security",False,146,129,,Mon Sep 01 09:48:47 +0000 2014,0
+952043345756352512,Dheeraj96184,Dheeraj,,False,6,3,,Sat Jan 13 05:03:16 +0000 2018,0
+1145773234698088448,SumitMangalam,Sumit Mangalam,,False,2,0,,Mon Jul 01 19:16:41 +0000 2019,0
+1156060861913415681,ShivamJ60699980,Shivam Jadhav,,False,1,0,,Tue Jul 30 04:36:02 +0000 2019,0
+979375411594330112,Saurabh84446053,Saurabh Deshpande,,False,5,0,,Thu Mar 29 15:11:08 +0000 2018,0
+166992845,purubca1,Purushottam,social welfare & politics,False,19,219,,Thu Jul 15 14:02:44 +0000 2010,0
+1156854962737045505,SagorJuarder,juarder sagor,Selfish,False,4,0,,Thu Aug 01 09:11:31 +0000 2019,0
+3107110412,leesinsensei,aleena__,s(lee)py,False,56,616,,Tue Mar 24 16:33:20 +0000 2015,0

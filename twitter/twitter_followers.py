@@ -5,6 +5,7 @@ import requests
 import base64
 import json
 import pandas as pd
+import time
 
 client_key = '8AO6OU5ubyi4XO47b1C7Sjdlz'
 client_secret = 'FS1usPrfPolvjLXbwGka5N8TWkOZhUsdxGmmTwuO016koesUSt'
@@ -86,13 +87,20 @@ rate_headers = {
 
 
 # GET RATE LIMIT
-rate_query = {"resources":"followers,users"}
-rate_response = requests.request("GET", 
-                                rate_url,
-                                headers=rate_headers,
-                                params = rate_query)
-print(rate_response.text)
-
+def get_rate_limit():
+    rate_query = {"resources":"followers,users"}
+    rate_response = requests.request("GET", 
+                                    rate_url,
+                                    headers=rate_headers,
+                                    params = rate_query)
+    rate_response_json = rate_response.json()
+    # print(rate_response_json)
+    follower_id_limit = rate_response_json['resources']['followers']['/followers/ids']
+    # print(follower_id_limit)
+    follower_id_remaining = follower_id_limit['remaining']
+    follower_id_reset = follower_id_limit['reset']
+    # print(follower_id_remaining)
+    return follower_id_remaining
 
 
 
@@ -102,7 +110,7 @@ print(rate_response.text)
 def get_follower_ids(account, head, cursor):
     # Get followers query
     querystring = {"screen_name": account,
-        'count': 10, #change count here, max 1000
+        'count': 5000, #change count here, max 5000
         'cursor': cursor}
     resp = requests.request("GET", 
         "https://api.twitter.com/1.1/followers/ids.json", 
@@ -177,23 +185,31 @@ def num_ids(follower_ids):
     print(string_ids)
     return string_ids
 
-
-# Query for followers - need to grab all followers
-account = "ibm"
+# Can grab all followers
+# Gets all followers at a rate of 150 ids per 15 mins
+# Initialize rate limit, 150 ids per round
+rate_limit = get_rate_limit()
 cursor = -1
+account = "ibmjobsglobal"
 df_ids = [] # Dataframe of follower IDs
+r = 0
 while (cursor != 0):
-    response = get_follower_ids(account, headers, cursor)
-    response_json = response.json() #get list of followers
-    for ids in response_json['ids']:
-        df_ids.append(ids)
-    cursor = response_json['next_cursor']
-    print(response_json)
-    if df_ids.count > 100:
-        break
+    if (rate_limit != 0):
+        response = get_follower_ids(account, headers, cursor)
+        response_json = response.json() # get list of followers
+        for ids in response_json['ids']:
+            df_ids.append(ids)
+        cursor = response_json['next_cursor']
+        print(response_json)
+    else:
+        print("This prints once a minute. Round: " + r)
+        time.sleep(60)
+    rate_limit = get_rate_limit() # update rate limit
+    print(rate_limit)
+
 
 df_ids = pd.DataFrame(df_ids, columns = ['follower_id'])
-print(df_ids) #Currently getting 1000 ids
+print(df_ids)
 
 
 

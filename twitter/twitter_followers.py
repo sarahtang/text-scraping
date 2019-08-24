@@ -1,5 +1,6 @@
 # Grabbing followers of a screen_name using Twitter API
 # Getting bios and info of those followers
+# 75,000 followers every 15 minutes
 
 import requests
 import base64
@@ -125,8 +126,11 @@ def get_user_objects(follower_ids, count):
     batch_len = 10
     # num_batches = count / 100
     # batches = (follower_ids[i:i + batch_len] for i in range(0, count, batch_len))
+    count = 0
     all_data = []
-    for f_id in follower_ids:
+    for f_id in follower_ids: #how many follower IDs
+        count += 1
+        print(count)
         foll_query = {} #dictionary
         foll_query['user_id'] = f_id
         resp = requests.request("POST", lookup_url,
@@ -134,6 +138,8 @@ def get_user_objects(follower_ids, count):
             params = foll_query)
         follower_json = resp.json()
         all_data += follower_json
+    print("Total count of follower objects:")
+    print(count)
     return all_data
 
 # Get info from follower json object [LIST]
@@ -141,10 +147,13 @@ def get_follower_info_list(follower_objects):
     df = []
     for obj in follower_objects:
         mentions_ibm = '0'
+        blank_bio = '0' #1 = blank bio
         if "ibm" in obj['description']:
-            mentions_ibm = '1'
+            mentions_ibm = '1' #1 = does mention IBM
         if "IBM" in obj['description']:
             mentions_ibm = '1'
+        if not obj['description']:
+            blank_bio = '1'
         df.append([obj['id'],
             obj['screen_name'],
             obj['name'],
@@ -154,7 +163,8 @@ def get_follower_info_list(follower_objects):
             obj['statuses_count'],
             obj['url'],
             obj['created_at'],
-            mentions_ibm])
+            mentions_ibm,
+            blank_bio])
     df = pd.DataFrame(df, columns=['id',
                                     'screen_name',
                                     'name',
@@ -164,7 +174,8 @@ def get_follower_info_list(follower_objects):
                                     'statuses_count',
                                     'url',
                                     'created_at',
-                                    'mentions_ibm'])
+                                    'mentions_ibm',
+                                    'blank_bio'])
     return df
 
 
@@ -190,46 +201,45 @@ def num_ids(follower_ids):
 # Initialize rate limit, 150 ids per round
 rate_limit = get_rate_limit()
 cursor = -1
-account = "ibmjobsglobal"
+account = "IBMZ" #ibm ========================================== Change Account Handle
 df_ids = [] # Dataframe of follower IDs
-r = 0
+minute = 0
 while (cursor != 0):
     if (rate_limit != 0):
         response = get_follower_ids(account, headers, cursor)
-        response_json = response.json() # get list of followers
+        response_json = response.json() # get list of followers per batch
         for ids in response_json['ids']:
             df_ids.append(ids)
         cursor = response_json['next_cursor']
         print(response_json)
     else:
-        print("This prints once a minute. Round: " + r)
+        print("This prints once a minute. Round:")
+        print(minute)
         time.sleep(60)
+        minute += 1
     rate_limit = get_rate_limit() # update rate limit
     print(rate_limit)
 
 
-df_ids = pd.DataFrame(df_ids, columns = ['follower_id'])
+df_ids = pd.DataFrame(df_ids, columns = ['follower_id']) #This has correct number and IDs ==> use this in get_user_objects
 print(df_ids)
 
 
-
-# Un comment this part out after dealing with pagination ===================>
-
+# Analyzing followers
 # List of all ids
-# list_follower_ids = response_json['ids'] #need to make sure this continues to work =========>
-# print(list_follower_ids)
+list_follower_ids = df_ids['follower_id'].tolist()
+print(len(list_follower_ids))
+# print(list_follower_ids) # prints a list of all follower ids
 
 # Get user objects for list of followers
-# follower_data = get_user_objects(list_follower_ids, 0)
-# print(follower_data) # print JSON object
+follower_data = get_user_objects(list_follower_ids, 0)
+# print(follower_data) # print JSON objects of each follower
 
-# df = []
-# df = get_follower_info_list(follower_data)
-# print(df)
+df = []
+df = get_follower_info_list(follower_data)
+print(df)
 
-# df.to_csv('twitter_followers_' + account + '.csv', index=False, encoding='utf8')
-
-
+df.to_csv('twitter_followers_' + account + '.csv', index=False, encoding='utf8')
 
 
 

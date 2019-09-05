@@ -7,6 +7,7 @@ import base64
 import json
 import pandas as pd
 import time
+import pickle
 
 client_key = '8AO6OU5ubyi4XO47b1C7Sjdlz'
 client_secret = 'FS1usPrfPolvjLXbwGka5N8TWkOZhUsdxGmmTwuO016koesUSt'
@@ -97,7 +98,7 @@ def get_rate_limit():
     rate_response_json = rate_response.json()
     # print(rate_response_json)
     follower_id_limit = rate_response_json['resources']['followers']['/followers/ids']
-    # print(follower_id_limit)
+    print(follower_id_limit)
     follower_id_remaining = follower_id_limit['remaining']
     follower_id_reset = follower_id_limit['reset']
     # print(follower_id_remaining)
@@ -130,6 +131,7 @@ def get_user_objects(follower_ids, count):
     all_data = []
     for f_id in follower_ids: #how many follower IDs
         count += 1
+        print('How many follower ids:')
         print(count)
         foll_query = {} #dictionary
         foll_query['user_id'] = f_id
@@ -154,25 +156,27 @@ def get_follower_info_list(follower_objects):
             mentions_ibm = '1'
         if not obj['description']:
             blank_bio = '1'
-        df.append([obj['id'],
+        df.append([
+            # obj['id'],
             obj['screen_name'],
-            obj['name'],
+            # obj['name'],
             obj['description'],
-            obj['verified'],
+            # obj['verified'],
             obj['followers_count'],
             obj['statuses_count'],
-            obj['url'],
+            # obj['url'],
             obj['created_at'],
             mentions_ibm,
             blank_bio])
-    df = pd.DataFrame(df, columns=['id',
+    df = pd.DataFrame(df, columns=[
+                                    # 'id',
                                     'screen_name',
-                                    'name',
+                                    # 'name',
                                     'description',
-                                    'verified',
+                                    # 'verified',
                                     'followers_count',
                                     'statuses_count',
-                                    'url',
+                                    # 'url',
                                     'created_at',
                                     'mentions_ibm',
                                     'blank_bio'])
@@ -201,46 +205,72 @@ def num_ids(follower_ids):
 # Initialize rate limit, 150 ids per round
 rate_limit = get_rate_limit()
 cursor = -1
-account = "IBMZ" #ibm ========================================== Change Account Handle
+account = "ibm" #ibm ==================================================== Change Account Handle
 df_ids = [] # Dataframe of follower IDs
 minute = 0
-while (cursor != 0):
-    if (rate_limit != 0):
-        response = get_follower_ids(account, headers, cursor)
-        response_json = response.json() # get list of followers per batch
-        for ids in response_json['ids']:
-            df_ids.append(ids)
-        cursor = response_json['next_cursor']
-        print(response_json)
-    else:
-        print("This prints once a minute. Round:")
-        print(minute)
-        time.sleep(60)
-        minute += 1
-    rate_limit = get_rate_limit() # update rate limit
-    print(rate_limit)
+# while (cursor != 0):
+#     if (rate_limit != 0):
+#         response = get_follower_ids(account, headers, cursor)
+#         response_json = response.json() # get list of followers per batch
+#         for ids in response_json['ids']:
+#             df_ids.append(ids)
+#         cursor = response_json['next_cursor']
+#         # print(response_json)
+#     else:
+#         print("This prints once a minute. Round:")
+#         print(minute)
+#         time.sleep(60)
+#         minute += 1
+#     rate_limit = get_rate_limit() # update rate limit
+#     print(rate_limit)
 
 
-df_ids = pd.DataFrame(df_ids, columns = ['follower_id']) #This has correct number and IDs ==> use this in get_user_objects
-print(df_ids)
-
+# df_ids = pd.DataFrame(df_ids, columns = ['follower_id']) #This has correct number and IDs ==> use this in get_user_objects
+# print('number of dataframe ids')
+# print(df_ids)
 
 # Analyzing followers
 # List of all ids
-list_follower_ids = df_ids['follower_id'].tolist()
-print(len(list_follower_ids))
+# list_follower_ids = df_ids['follower_id'].tolist() # ===================
+# print('len of follower id list length')
+# print(len(list_follower_ids))
 # print(list_follower_ids) # prints a list of all follower ids
 
-# Get user objects for list of followers
-follower_data = get_user_objects(list_follower_ids, 0)
+
+# TO DO split up df_ids
+# IBMStorage - split into 3
+# Yield successive n-sized chunks of l ===============================
+# def chunks(l, n):
+#     for i in range(0, len(l), n):
+#         yield l[i:i + n]
+
+# list_chunks = list(chunks(list_follower_ids, 5000))
+# print(list_chunks)
+# num = 1
+# for chunk in list_chunks:
+#     print(len(chunk))
+#     name = account + '_chunk' + str(num) + '.txt'
+#     with open(name, "wb") as fp:
+#         pickle.dump(chunk, fp)
+#     num += 1
+
+
+# Get user objects for list of followers ================================
+
+with open("IBM_chunk13.txt", "rb") as fp:
+    loaded = pickle.load(fp)
+
+print(loaded)
+
+follower_data = get_user_objects(loaded, 0)
 # print(follower_data) # print JSON objects of each follower
 
 df = []
 df = get_follower_info_list(follower_data)
-print(df)
+print(df) #98 rows right now, missing the first and the last
 
-df.to_csv('twitter_followers_' + account + '.csv', index=False, encoding='utf8')
-
+df.to_csv('twitter_followers_' + account + '13.csv', index=False, encoding='utf8')
+# to_excel('.xls')
 
 
 

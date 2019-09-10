@@ -14,9 +14,9 @@ form = cgi.FieldStorage()
 searchterm =  form.getvalue('subreddit_box')
 
 
-reddit = praw.Reddit(client_id='9Qn3lMcjYa2sSg',
-					client_secret='qf6Eh1U13kBTacikeYVe74hUtzI',
-					user_agent='Conversation_Hotspot')
+reddit = praw.Reddit(client_id='',
+					client_secret='',
+					user_agent='')
 unix_time = int(time.time())
 # Need this to run it in python
 subreddit_input = raw_input("What subreddit? ")

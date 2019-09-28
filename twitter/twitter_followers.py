@@ -8,6 +8,7 @@ import json
 import pandas as pd
 import time
 import pickle
+import ast
 
 client_key = '8AO6OU5ubyi4XO47b1C7Sjdlz'
 client_secret = 'FS1usPrfPolvjLXbwGka5N8TWkOZhUsdxGmmTwuO016koesUSt'
@@ -150,6 +151,17 @@ def get_follower_info_list(follower_object):
     # Convert to dictionary
     d = {}
     for each in follower_object:
+    	# each.json() #does this change anything? --> maybe now i can make better calls?
+
+        print("one follower object")
+        print(each)
+        print(type(each)) #dictionary type, unicode strings
+
+        #TEST
+        # each = json.dumps(each) #removing the 'u', data dump
+        # print(each)
+        # print(type(each)) #str
+
         d['name'] = each['name']
         d['screen_name'] = each['screen_name']
         d['description'] = each['description']
@@ -166,11 +178,8 @@ def get_follower_info_list(follower_object):
             d['mentions_ibm'] = 1
         if not d['description']: # 1 = blank bio
             d['blank_bio'] = 1
-    # print(d)
 
-    # df = pd.DataFrame(list(d.items()))
-    # df = pd.DataFrame(d, index=['i', ])
-    df.append([d['name'],
+        df.append([d['name'],
                 d['screen_name'],
                 d['description'],
                 d['verified'],
@@ -180,6 +189,9 @@ def get_follower_info_list(follower_object):
                 d['created_at'],
                 d['mentions_ibm'],
                 d['blank_bio']])
+
+    # df = pd.DataFrame(d, index=['i', ])
+    
     df = pd.DataFrame(df, columns=['name',
                                     'screen_name',
                                     'description',
@@ -258,12 +270,13 @@ def split_into_chunks(list_follower_ids, size_of_chunk = 5000):
 def chunk_to_follower_csv(account, chunk_name):
     with open(chunk_name + '.txt', "rb") as fp:
         loaded = pickle.load(fp)
-    print(loaded)
-    follower_data = get_user_objects(loaded, 0)
+    # print(loaded)
+    follower_data = get_user_objects(loaded, 0) # list
+    print(type(follower_data))
     # print("FOLLOWER DATA")
-    # print(follower_data)
+
     df_chunk = []
-    df_chunk = get_follower_info_list(follower_data)
+    df_chunk = get_follower_info_list(follower_data) # ERROR
     print(df_chunk)
     df_chunk.to_csv('twitter_followers_' + chunk_name + 'TEST.csv', index=False, encoding='utf8')
     # to_excel('.xls')
@@ -279,7 +292,7 @@ def chunk_to_follower_csv(account, chunk_name):
 
 df_ids = [] # Dataframe of ALL follower IDs
 initial_rate_limit = get_rate_limit()
-account = "sarahmtang" #ibm ==================================================== Change Account Handle
+account = "IBMWatson" #ibm ==================================================== Change Account Handle
 
 # # Call to get all followerids
 # get_all_follower_ids(df_ids, -1, initial_rate_limit, account, headers) # Get follower objects
@@ -295,8 +308,8 @@ account = "sarahmtang" #ibm ====================================================
 # split_into_chunks(list_follower_ids, 5)
 
 # Chunks to csv
-chunk_name = "sarahmtang_chunk1"
-chunk_to_follower_csv(account, chunk_name)
+chunk_name = "IBMWatson_chunk17"
+chunk_to_follower_csv(account, chunk_name) #ERROR IN HERE
 
 
 

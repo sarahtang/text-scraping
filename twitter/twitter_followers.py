@@ -165,11 +165,11 @@ def get_follower_info_list(follower_object):
         d['name'] = each['name']
         d['screen_name'] = each['screen_name']
         d['description'] = each['description']
-        d['verified'] = each['verified']
-        d['followers_count'] = each['followers_count']
-        d['statuses_count'] = each['statuses_count']
-        d['url'] = each['url']
-        d['created_at'] = each['created_at']
+        # d['verified'] = each['verified']
+        # d['followers_count'] = each['followers_count']
+        # d['statuses_count'] = each['statuses_count']
+        # d['url'] = each['url']
+        # d['created_at'] = each['created_at']
         d['mentions_ibm'] = 0
         d['blank_bio'] = 0
         if "ibm" in d['description']:
@@ -182,11 +182,11 @@ def get_follower_info_list(follower_object):
         df.append([d['name'],
                 d['screen_name'],
                 d['description'],
-                d['verified'],
-                d['followers_count'],
-                d['statuses_count'],
-                d['url'],
-                d['created_at'],
+                # d['verified'],
+                # d['followers_count'],
+                # d['statuses_count'],
+                # d['url'],
+                # d['created_at'],
                 d['mentions_ibm'],
                 d['blank_bio']])
 
@@ -195,11 +195,11 @@ def get_follower_info_list(follower_object):
     df = pd.DataFrame(df, columns=['name',
                                     'screen_name',
                                     'description',
-                                    'verified',
-                                    'followers_count',
-                                    'statuses_count',
-                                    'url',
-                                    'created_at',
+                                    # 'verified',
+                                    # 'followers_count',
+                                    # 'statuses_count',
+                                    # 'url',
+                                    # 'created_at',
                                     'mentions_ibm',
                                     'blank_bio'])
 
@@ -308,7 +308,7 @@ account = "IBMWatson" #ibm ==================================================== 
 # split_into_chunks(list_follower_ids, 5)
 
 # Chunks to csv
-chunk_name = "IBMWatson_chunk17"
+chunk_name = "IBMWatson_chunk19"
 chunk_to_follower_csv(account, chunk_name) #ERROR IN HERE
 
 
